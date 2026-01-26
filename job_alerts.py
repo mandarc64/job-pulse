@@ -933,6 +933,7 @@ def send_email(subject: str, html_body: str) -> None:
     smtp_user = os.environ["SMTP_USER"]
     smtp_pass = os.environ["SMTP_PASS"]
     to_email = os.environ["TO_EMAIL"]
+    cc_email = os.environ.get("CC_EMAIL", "")  # Optional: comma-separated CC addresses
     from_email = os.environ.get("FROM_EMAIL", smtp_user)
     from_name = os.environ.get("FROM_NAME", "Job Alerts")
 
@@ -941,12 +942,21 @@ def send_email(subject: str, html_body: str) -> None:
     msg["From"] = f'"{from_name}" <{from_email}>'
     msg["To"] = to_email
 
+    # Add CC if provided
+    if cc_email:
+        msg["Cc"] = cc_email
+
     msg.attach(MIMEText(html_body, "html", "utf-8"))
+
+    # Build recipient list (To + CC)
+    recipients = [to_email]
+    if cc_email:
+        recipients.extend([addr.strip() for addr in cc_email.split(",")])
 
     with smtplib.SMTP(smtp_host, smtp_port) as server:
         server.starttls()
         server.login(smtp_user, smtp_pass)
-        server.sendmail(from_email, [to_email], msg.as_string())
+        server.sendmail(from_email, recipients, msg.as_string())
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
