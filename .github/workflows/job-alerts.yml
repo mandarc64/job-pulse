@@ -1,0 +1,42 @@
+name: Daily Job Alerts
+
+on:
+  schedule:
+    # Runs at 9 AM EST (14:00 UTC) every day
+    - cron: '0 16 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  send-alerts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run job alerts
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          CC_EMAIL: ${{ secrets.CC_EMAIL }}
+          FROM_NAME: ${{ secrets.FROM_NAME }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+        run: python job_alerts.py
+
+      - name: Commit updated history files
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add seen_links.json job_history.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Update job history [skip ci]"
+          git push
