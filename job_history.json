@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Quantitative Financial Risk Analyst \u2013 New Grad",
+      "location": "Ardmore, PA",
+      "url": "https://careers-sig.icims.com/jobs/9113/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "data"
+    },
+    {
       "company": "Booz Allen",
       "title": "Data Scientist - Junior",
       "location": "Charleston, SC",
@@ -274,6 +284,116 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Anaheim, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01820479?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer - Software Engineer I",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01820534?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer - Embedded Software Engineer 1",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Full-time---Embedded-Software-Engineer-1---Onsite--CA-_01820531?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Entry Level Software Engineer",
+      "location": "Pittsburgh, PA",
+      "url": "https://careers-gdms.icims.com/jobs/70443/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Pittsfield, MA",
+      "url": "https://careers-gdms.icims.com/jobs/70459/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "San Diego, CA",
+      "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/91172117632?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/91172117760?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Software Development Engineer 1 - Front End",
+      "location": "London, UK",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-99742-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "8VC",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "Sierra",
+      "title": "Software Engineer \u2013 New Grad - Infrastructure",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/Sierra/931d7b36-20ce-458c-99aa-6c853486f2b5/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
+    {
+      "company": "Revefi",
+      "title": "Software Engineer \u2013 New Graduate - Seattle",
+      "location": "Seattle, WA",
+      "url": "https://jobs.lever.co/revefi/de6bd0b5-2308-435f-bb94-b418c57e7048/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-01-30T16:32:12.607857",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer \u2013 Entry Level",
