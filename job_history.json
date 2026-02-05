@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "InterWorks",
+      "title": "Data Engineer \u2013 Entry Level",
+      "location": "4 locationsStillwater, OKTulsa, OKOklahoma City, OKPortland, OR",
+      "url": "https://job-boards.greenhouse.io/interworks/jobs/4594824006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "data"
+    },
+    {
       "company": "Susquehanna International Group (SIG)",
       "title": "Quantitative Financial Risk Analyst \u2013 New Grad",
       "location": "Ardmore, PA",
@@ -304,6 +314,86 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "2026 Full-time - Software Engineer I",
+      "location": "Tewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01815214?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "2026 Fulltime Raytheon Software Engineer 1 - Test Equipment",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414?utm_source=Simplify&ref=Simplify",
+      "date_posted": "13d",
+      "days_ago": 13,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "FiscalNote",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://jobs.lever.co/fiscalnote/4d7a3d6b-583e-413e-8e1e-534b552292fe/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/70392/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "Nelnet",
+      "title": "Software Engineer 1",
+      "location": "Lincoln, NERemote in USA",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-l_R22305?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "StubHub",
+      "title": "Software Engineer 1 - Infrastructure",
+      "location": "NYC",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4773787101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "Zip",
+      "title": "Software Engineer New Grad - 2026 Start",
+      "location": "Toronto, ON, Canada",
+      "url": "https://jobs.ashbyhq.com/zip/b261b0d9-bebd-4da1-a3b9-7a674f0616ac/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
+    {
+      "company": "FourKites",
+      "title": "Software Engineer 1",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/fourkites/jobs/7543873?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-05T16:39:46.174188",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Embedded Linux Software Engineer 1",
