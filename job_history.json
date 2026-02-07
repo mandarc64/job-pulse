@@ -43,6 +43,16 @@
   ],
   "ai_ml": [
     {
+      "company": "PDS Health",
+      "title": "Full Stack AI Engineer 1 - Innovation",
+      "location": "Irvine, CA",
+      "url": "https://pdshcareers-pdshealth.icims.com/jobs/102669/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "ai_ml"
+    },
+    {
       "company": "Verkada",
       "title": "Computer Vision Software Engineer \u2013 University Graduate 2026",
       "location": "San Mateo, CA",
@@ -64,6 +74,76 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "2026] Software Engineer \u2013 Early Career - Creator",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/7557909?gh_jid=7557909&utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Salesforce",
+      "title": "Software Engineer 1 - Product Backend",
+      "location": "Raleigh, NC",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Slack",
+      "title": "Software Engineer 1 - Product Backend",
+      "location": "Raleigh, NC",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "StubHub",
+      "title": "Software Engineer 1 \u2013 New Grad - Marketplace Operations",
+      "location": "NYC",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4763976101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "Plug Power",
+      "title": "Software Engineer 1",
+      "location": "Rochester, NY",
+      "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Rochester-Innovation-Center/Software-Engineer-I_R6798-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Mobile Software Engineer 1 - Android Developer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-I--Android-developer-_R_1468705?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
+    {
+      "company": "Attentive",
+      "title": "Software Engineer 1",
+      "location": "SF",
+      "url": "https://jobs.lever.co/attentive/ddbe5d20-7697-4720-8967-608c31c2dc71/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-07T16:22:10.079534",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "2026 Full-time - Software Engineer I - Onsite, CA",
@@ -842,86 +922,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-01-28T16:29:25.873703",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Embedded Software Engineer I",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Software Engineer I",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AZ-_01802087?utm_source=Simplify&ref=Simplify",
-      "date_posted": "10d",
-      "days_ago": 10,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "Ophelia",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/ophelia/jobs/5081493008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "4d",
-      "days_ago": 4,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1359421500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "Northwestern Mutual",
-      "title": "Systems Software Engineer 1",
-      "location": "Milwaukee, WI",
-      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Systems-Software-Engineer-I_JR-44355-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Software Engineer 1",
-      "location": "Boston, MA",
-      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7602542003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineer 1 - Java",
-      "location": "Austin, TX",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104035-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-27T16:23:26.022451",
-      "category": "software"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Software Engineer 1",
-      "location": "Morrisville, NC",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Morrisville-NC-USA/Software-Engineer-I_10141027?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-27T16:23:26.022451",
       "category": "software"
     }
   ]
