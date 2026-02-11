@@ -55,6 +55,76 @@
   ],
   "software": [
     {
+      "company": "Saviynt",
+      "title": "Associate Engineer \u2013 New College Graduate - Software Engineering \ud83c\udf93",
+      "location": "Milpitas, CA",
+      "url": "https://jobs.lever.co/saviynt/84a1db6f-6b4c-4915-a5f6-2759ee1b933e/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "Mercury Insurance",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6159/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer \u2013 PhD New College Grad 2026 - Agentic AI for Science \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agentic-AI-for-Science---PhD-New-College-Grad-2026_JR2013057?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "OpenSesame",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://boards.greenhouse.io/opensesame/jobs/7600588?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "Rocket Lab USA",
+      "title": "Software Engineer 1/2 - Digital Engineering",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7626656003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Information Technology",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ214415-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Software Engineer 1",
+      "location": "Merritt Island, FL",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Software-Engineer-I_R0153774?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-11T16:59:31.341514",
+      "category": "software"
+    },
+    {
       "company": "RTX",
       "title": "Software Engineer 1",
       "location": "Cedar Rapids, IA",
@@ -692,56 +762,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-02T16:31:36.817048",
-      "category": "software"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Software Engineer 1",
-      "location": "4 locationsWashingtonLAReston, VADenver, CO",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Developer---Software-Engineer-I_R59463?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-31T16:21:01.329082",
-      "category": "software"
-    },
-    {
-      "company": "Zip",
-      "title": "Software Engineer \u2013 New Grad - 2026 Start",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/zip/19f459ee-4907-4883-9d70-35eb96f62082/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-31T16:21:01.329082",
-      "category": "software"
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://careers.cisco.com/global/en/job/2007003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-31T16:21:01.329082",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Anaheim, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I_01820823-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-31T16:21:01.329082",
-      "category": "software"
-    },
-    {
-      "company": "Symbotic",
-      "title": "New Grad-Software Engineer",
-      "location": "Burlington, MA",
-      "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6310-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-01-31T16:21:01.329082",
       "category": "software"
     }
   ]
