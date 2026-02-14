@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "EMC Insurance",
+      "title": "Data Engineer 1",
+      "location": "Des Moines, IA",
+      "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Des-Moines--Corporate-Office/Data-Engineer-I_R6283?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "data"
+    },
+    {
       "company": "Applied Materials",
       "title": "Data Scientist New College Grad - Masters Degree - Santa Clara CA \ud83c\udf93",
       "location": "Santa Clara, CA",
@@ -61,19 +71,69 @@
       "days_ago": 0,
       "first_seen": "2026-02-04T16:39:07.273634",
       "category": "ai_ml"
-    },
-    {
-      "company": "Hewlett Packard (HP)",
-      "title": "Junior Machine Learning Engineer",
-      "location": "Palo Alto, CASant Cugat del Vall\u00e8s, Barcelona, Spain",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3151000-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "College Board",
+      "title": "Software Engineer 1 - New Grad",
+      "location": "Remote in USA",
+      "url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Remote---USA/Software-Engineer-1--New-Grad-_REQ002405-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "11d",
+      "days_ago": 11,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
+    {
+      "company": "Badger Meter",
+      "title": "Software Engineer 1",
+      "location": "Los Gatos, CA",
+      "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Los-Gatos-CA/Software-Engineer-I_4234?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
+    {
+      "company": "The Travelers Companies",
+      "title": "Software Engineer 1",
+      "location": "Hartford, CT",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-49164?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Anaheim, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01823131?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
+    {
+      "company": "Sphinx Defense",
+      "title": "Junior Associate Software Engineer",
+      "location": "Colorado Springs, CO",
+      "url": "https://job-boards.greenhouse.io/sphinxdefense/jobs/5119185008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
+    {
+      "company": "Murj",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/murj/jobs/5114652008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-14T16:21:24.759726",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1",
@@ -772,176 +832,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "ANS Software Engineer 1",
-      "location": "St. Petersburg, FL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/ANS-Software-Engineer-I--Onsite-_01820851?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Hardware In the Loop",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Software-Engineer-I---Hardware-In-the-Loop---Onsite_01820792?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Software Engineer I",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01816726?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Glide",
-      "title": "Junior Full Stack Engineer - Frontend and Backend - TypeScript, React, Node.js, Next.js",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Flex",
-      "title": "Software Engineer 1 - Backend - New Grad",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/flex/jobs/4632053005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Morrisville, NC",
-      "url": "https://jobs.lever.co/wyetechllc/6b2178ca-8913-4ae8-ba23-9a20a871cd7b/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Radiance Technologies",
-      "title": "Junior Software Engineer",
-      "location": "John C. Stennis Space Center, MS",
-      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR101982?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Pinterest",
-      "title": "University Grad Software Engineer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7247113&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Mobile Software Engineer 1 - IOS Engineer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-I--iOS-Engineer-_R_1466878?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer 1",
-      "location": "Alameda, CA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alameda-Rio-Negro/Software-Engineer-I_R107978-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Abbott",
-      "title": "Clinical Software Engineer 1",
-      "location": "Pacoima, LA",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Clinical-Software-Engineer-I--on-site-_31140519?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "AAA Club Alliance",
-      "title": "Software Engineer 1",
-      "location": "Glendale, AZ",
-      "url": "https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Glendale-Arizona/Software-Engineer-I---Remote_R7546?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer 1",
-      "location": "Alameda, CA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alameda-Rio-Negro/Software-Engineer-I_R107978?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Abbott",
-      "title": "Clinical Software Engineer 1",
-      "location": "Pacoima, LA",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Clinical-Software-Engineer-I--on-site-_31140519-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Proofpoint",
-      "title": "Software Engineer 1",
-      "location": "Belfast, UK",
-      "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R13617?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53009-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-03T16:44:39.925521",
       "category": "software"
     }
   ]
