@@ -61,19 +61,19 @@
       "days_ago": 10,
       "first_seen": "2026-02-07T16:22:10.079534",
       "category": "ai_ml"
-    },
-    {
-      "company": "Verkada",
-      "title": "Computer Vision Software Engineer \u2013 University Graduate 2026",
-      "location": "San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5040765007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Giga AI",
+      "title": "Software Engineer 1 / 2 - New York",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/gigaml/e37bdddd-2647-403e-850c-9cfe7684069c/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-15T16:21:53.240398",
+      "category": "software"
+    },
     {
       "company": "College Board",
       "title": "Software Engineer 1 - New Grad",
@@ -782,56 +782,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-05T16:39:46.174188",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Embedded Linux Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Richardson, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Software-Engineer-I--Onsite-_01821509?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "software"
-    },
-    {
-      "company": "Nelnet",
-      "title": "Software Engineer 1",
-      "location": "Lincoln, NE",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Software-Engineer-I_R22263?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Software Engineer I",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01821529?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202672721?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-04T16:39:07.273634",
       "category": "software"
     }
   ]
