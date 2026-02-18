@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Open Farm Pet",
+      "title": "Data Analyst \u2013 Entry Level - Ecommerce & Growth",
+      "location": "Toronto, ON, Canada",
+      "url": "https://job-boards.greenhouse.io/openfarminc/jobs/5123171008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-18T16:56:44.441668",
+      "category": "data"
+    },
+    {
+      "company": "LMI",
+      "title": "Junior Data Scientist",
+      "location": "Colorado Springs, CO",
+      "url": "https://careers-lmi.icims.com/jobs/13654/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-18T16:56:44.441668",
+      "category": "data"
+    },
+    {
       "company": "EMC Insurance",
       "title": "Data Engineer 1",
       "location": "Des Moines, IA",
@@ -41,19 +61,19 @@
       "days_ago": 0,
       "first_seen": "2026-02-13T16:38:16.900359",
       "category": "ai_ml"
-    },
-    {
-      "company": "PDS Health",
-      "title": "Full Stack AI Engineer 1 - Innovation",
-      "location": "Irvine, CA",
-      "url": "https://pdshcareers-pdshealth.icims.com/jobs/102669/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "10d",
-      "days_ago": 10,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Talkdesk",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://careers.talkdesk.com/jobs?id=7617427&gh_jid=7617427&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-18T16:56:44.441668",
+      "category": "software"
+    },
     {
       "company": "Nextech Systems",
       "title": "Software Engineer 1",
@@ -572,76 +592,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-09T17:34:58.926024",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "2026] Software Engineer \u2013 Early Career - Creator",
-      "location": "San Mateo, CA",
-      "url": "https://careers.roblox.com/jobs/7557909?gh_jid=7557909&utm_source=Simplify&ref=Simplify",
-      "date_posted": "10d",
-      "days_ago": 10,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Salesforce",
-      "title": "Software Engineer 1 - Product Backend",
-      "location": "Raleigh, NC",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Slack",
-      "title": "Software Engineer 1 - Product Backend",
-      "location": "Raleigh, NC",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/North-Carolina---Raleigh/Software-Engineer-II---Product-Backend_JR327593?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "StubHub",
-      "title": "Software Engineer 1 \u2013 New Grad - Marketplace Operations",
-      "location": "NYC",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4763976101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "Plug Power",
-      "title": "Software Engineer 1",
-      "location": "Rochester, NY",
-      "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Rochester-Innovation-Center/Software-Engineer-I_R6798-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Mobile Software Engineer 1 - Android Developer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-I--Android-developer-_R_1468705?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-07T16:22:10.079534",
-      "category": "software"
-    },
-    {
-      "company": "Attentive",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://jobs.lever.co/attentive/ddbe5d20-7697-4720-8967-608c31c2dc71/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-07T16:22:10.079534",
       "category": "software"
     }
   ]
