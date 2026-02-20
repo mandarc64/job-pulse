@@ -76,6 +76,76 @@
   "software": [
     {
       "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IAMcKinney, TXEl Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I-Onsite-_01823655-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "Latitude",
+      "title": "Entry Level Software Developer - Data & Database Focus",
+      "location": "Baltimore, MD",
+      "url": "https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "USAA",
+      "title": "Software Engineer 1",
+      "location": "Phoenix, AZ",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Software-Engineer-I_R0115569?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "Rocket Lab USA",
+      "title": "Software Engineer 1/2 - Operational Data",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7609095003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "location": "Dahlgren, VAFredericksburg, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0154484?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "Elsevier",
+      "title": "Software Engineer 1",
+      "location": "DelawareJackson Township, NJPhiladelphia, PA",
+      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107469?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-A/Software-Engineer-I_R202672269?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-20T16:30:57.713477",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
       "title": "Software Engineer I - C - C++ - Onsite",
       "location": "Cambridge, MA",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913?utm_source=Simplify&ref=Simplify",
@@ -732,16 +802,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-10T16:58:04.309473",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Engineer 1",
-      "location": "Roseville, CA",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202397?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-09T17:34:58.926024",
       "category": "software"
     }
   ]
