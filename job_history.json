@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "TD Bank",
+      "title": "Data Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1474135?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-02-22T16:22:15.188548",
+      "category": "data"
+    },
+    {
       "company": "StoneX Group",
       "title": "Junior Staff - Data Engineering & Analytics",
       "location": "Birmingham, AL",
@@ -74,6 +84,36 @@
     }
   ],
   "software": [
+    {
+      "company": "Western Digital",
+      "title": "Early Career Talent - Software Engineering - Apps",
+      "location": "Irvine, CA",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544245?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-22T16:22:15.188548",
+      "category": "software"
+    },
+    {
+      "company": "Ciena",
+      "title": "Software Engineer \u2013 New Grad - Security",
+      "location": "Ottawa, ON, CanadaAtlanta, GA",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030219?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-02-22T16:22:15.188548",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Salesforce",
+      "title": "Software Engineering AMTS/MTS \u2013 College Grad",
+      "location": "4 locationsPalo Alto, CASFBellevue, WASeattle, WA",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-02-22T16:22:15.188548",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1 / 2 - New York",
@@ -662,76 +702,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-12T16:52:02.890239",
-      "category": "software"
-    },
-    {
-      "company": "Saviynt",
-      "title": "Associate Engineer \u2013 New College Graduate - Software Engineering \ud83c\udf93",
-      "location": "Milpitas, CA",
-      "url": "https://jobs.lever.co/saviynt/84a1db6f-6b4c-4915-a5f6-2759ee1b933e/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "Mercury Insurance",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://careers-mercuryinsurance.icims.com/jobs/6159/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Software Engineer \u2013 PhD New College Grad 2026 - Agentic AI for Science \ud83c\udf93",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agentic-AI-for-Science---PhD-New-College-Grad-2026_JR2013057?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "OpenSesame",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://boards.greenhouse.io/opensesame/jobs/7600588?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "Rocket Lab USA",
-      "title": "Software Engineer 1/2 - Digital Engineering",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7626656003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Information Technology",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ214415-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Software Engineer 1",
-      "location": "Merritt Island, FL",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Software-Engineer-I_R0153774?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-11T16:59:31.341514",
       "category": "software"
     }
   ]
