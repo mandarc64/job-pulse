@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Insilico Logix",
+      "title": "Business Analyst / Data Analyst Entry Level",
+      "location": "Reston, VA",
+      "url": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "data"
+    },
+    {
       "company": "TD Bank",
       "title": "Data Engineer 1",
       "location": "Toronto, ON, Canada",
@@ -49,16 +59,6 @@
       "days_ago": 0,
       "first_seen": "2026-02-14T16:21:24.759726",
       "category": "data"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Scientist New College Grad - Masters Degree - Santa Clara CA \ud83c\udf93",
-      "location": "Santa Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2612272?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -71,19 +71,89 @@
       "days_ago": 90,
       "first_seen": "2026-02-16T16:36:26.884855",
       "category": "ai_ml"
-    },
-    {
-      "company": "Quora",
-      "title": "Machine Learning Engineer New Grad \ud83d\udec2",
-      "location": "CanadaUnited StatesRemote",
-      "url": "https://jobs.ashbyhq.com/quora/cb455a21-e66f-4e21-afdf-4511c6c442d1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer \u2013 New College Grad 2026 - Distributed Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Distributed-Systems---New-College-Grad-2026_JR2013681?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1/ Opening Banking",
+      "location": "Mt Laurel Township, NJ",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Software-Engineer-I--Opening-Banking---US-_R_1470574?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202673557?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "KGS Technology Group",
+      "title": "Junior Software Engineer",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/KGSTechnologyGroupInc/743999923047643?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Front End Engineer-OPT Accepted",
+      "location": "Quincy, MA",
+      "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88751166?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Mobile Developer",
+      "location": "SF",
+      "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88661485?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "Jobsbridge",
+      "title": "Entry Level Mobile Developer",
+      "location": "SF",
+      "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88661424?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
+    {
+      "company": "Capital One",
+      "title": "Associate New Grad - Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R236349?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-24T16:59:37.400116",
+      "category": "software"
+    },
     {
       "company": "Western Digital",
       "title": "Early Career Talent - Software Engineering - Apps",
@@ -512,126 +582,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-14T16:21:24.759726",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IAMcKinney, TXEl Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I-Onsite-_01823655?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "2026 Full-Time - Software Engineer I",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Full-Time---Software-Engineer-I---Onsite--IN-_01821149?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-I--Onsite-_01823654?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Effectors",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Effectors---Onsite--AZ-_01820532?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "Higher Logic",
-      "title": "Junior Software Developer",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "21d",
-      "days_ago": 21,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "Captivation",
-      "title": "Software Engineer 1 - AI/ML/Terraform/AWS/C++/Python/Golang",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5118915008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Rdpl",
-      "location": "Anaheim, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "AeroVironment",
-      "title": "Software Engineer 1",
-      "location": "Plantation, FL",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/1613-NW-136th-Avenue-Sunrise-FL/Software-Engineer-I_6750?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "LabCorp",
-      "title": "Software Engineer 1",
-      "location": "Durham, NCBurlington, NC",
-      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NC---Durham---10-Moore-Drive/Software-Engineer-I_263834?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "Anduril",
-      "title": "Early Career Software Engineer - Mixed Reality",
-      "location": "United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "Latitude AI",
-      "title": "Software Engineer 1",
-      "location": "Pittsburgh, PA",
-      "url": "https://job-boards.greenhouse.io/latitude/jobs/7611239?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Software Engineer 1",
-      "location": "Odenton, MD",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154171?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-13T16:38:16.900359",
       "category": "software"
     }
   ]
