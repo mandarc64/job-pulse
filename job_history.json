@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Booz Allen",
+      "title": "Data Scientist - Junior",
+      "location": "Charleston, SC",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-28T16:19:38.754025",
+      "category": "data"
+    },
+    {
       "company": "Software Quality Experts",
       "title": "Entry Level Business Analyst / Data Analyst",
       "location": "Dulles, VA",
@@ -93,6 +103,46 @@
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Peraton",
+      "title": "Cloud Software Engineer 1",
+      "location": "Odenton, MD",
+      "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-28T16:19:38.754025",
+      "category": "software"
+    },
+    {
+      "company": "Homebase",
+      "title": "Software Engineer 1 - Infrastructure/Developer Tooling",
+      "location": "Toronto, ON, CanadaDenver, CO",
+      "url": "https://jobs.ashbyhq.com/homebase/16233393-61c4-4374-a183-87c5565b316c/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-28T16:19:38.754025",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 - Elixir",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5065234007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-28T16:19:38.754025",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer \u2013 New College Grad 2026 - Robotics - Isaac Lab",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-02-28T16:19:38.754025",
+      "category": "software"
+    },
     {
       "company": "GE Healthcare",
       "title": "Software Engineer 1 - Workflows",
@@ -751,66 +801,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-18T16:56:44.441668",
-      "category": "software"
-    },
-    {
-      "company": "Nextech Systems",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://jobs.lever.co/nextech/099609da-26cc-4fc2-aaeb-7aec86f343ca/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-02-17T16:50:46.819651",
-      "category": "software"
-    },
-    {
-      "company": "Blue Yonder",
-      "title": "Software Engineer 1 - U.S. Citizenship Required",
-      "location": "Dallas, TX",
-      "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/BYDS-Dallas/Software-Engineer-I_253929?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-17T16:50:46.819651",
-      "category": "software"
-    },
-    {
-      "company": "Nextech Systems",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://jobs.lever.co/nextech/f941fd47-8283-40f7-a5aa-a48b6446733c/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-17T16:50:46.819651",
-      "category": "software"
-    },
-    {
-      "company": "Elsevier",
-      "title": "Software Engineer 1",
-      "location": "DelawareJackson Township, NJPhiladelphia, PA",
-      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107467?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-17T16:50:46.819651",
-      "category": "software"
-    },
-    {
-      "company": "Howard Hughes Medical Institute (HHMI)",
-      "title": "Software Engineer 1-Neural Data Processing - Moore Lab",
-      "location": "Menlo Park, CA",
-      "url": "https://hhmi.wd1.myworkdayjobs.com/external/job/Stanford-University/Software-Engineer-I--Neural-Data-Processing--Moore-Lab_R-4132?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-17T16:50:46.819651",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer 1",
-      "location": "DelawareJackson Township, NJPhiladelphia, PA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R107467-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-17T16:50:46.819651",
       "category": "software"
     }
   ]
