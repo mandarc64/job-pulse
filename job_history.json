@@ -69,20 +69,20 @@
       "days_ago": 1,
       "first_seen": "2026-02-22T16:22:15.188548",
       "category": "data"
-    },
-    {
-      "company": "StoneX Group",
-      "title": "Junior Staff - Data Engineering & Analytics",
-      "location": "Birmingham, AL",
-      "url": "https://careers-stonex.icims.com/jobs/14656/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Anaplan",
+      "title": "Junior Software Engineer - Dev Academy",
+      "location": "Manchester, UK",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8395642002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-02T16:37:36.220387",
+      "category": "software"
+    },
     {
       "company": "Peraton",
       "title": "Cloud Software Engineer 1",
@@ -631,146 +631,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer I - C - C++ - Onsite",
-      "location": "Cambridge, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Embedded Software Engineer 1",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Fulltime-Raytheon-Embedded-Software-Engineer-I-Onsite-_01825236?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "System Integration Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/System-Integration-Software-Engineer-I--Onsite-_01822583?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "2026 Full-time - Software Engineer I",
-      "location": "Tewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01824796?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer 1",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-I_R104483-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "CSAA Insurance Group",
-      "title": "Software Engineer 1",
-      "location": "Glendale, AZ",
-      "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Glendale-Arizona/Software-Engineer-I---Remote_R7546-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "13d",
-      "days_ago": 13,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Crowdstrike",
-      "title": "Front End Engineer 1",
-      "location": "Austin, TX",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Front-End-Engineer-I--Hybrid-_R26953?utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "Quanta Services",
-      "title": "Software Engineer 1",
-      "location": "Sandy Springs, GA",
-      "url": "https://careers-quanta.icims.com/jobs/13795/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1470458?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer 1",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-I_R104483?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "TransUnion",
-      "title": "Entry Level Software Engineer",
-      "location": "Boca Raton, FL",
-      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Entry-Level-Software-Engineer_19038868?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "Clearer.io",
-      "title": "Associate Software Engineer 1",
-      "location": "Leicester, UK",
-      "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
-      "category": "software"
-    },
-    {
-      "company": "Baton Corporation",
-      "title": "Junior Full Stack Engineer",
-      "location": "New York, NY",
-      "url": "https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-19T16:44:05.154366",
       "category": "software"
     }
   ]
