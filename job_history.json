@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Waystar",
+      "title": "Data Engineer 1",
+      "location": "Lehi, UT",
+      "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Data-Engineer-I_R3045?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "data"
+    },
+    {
       "company": "Booz Allen",
       "title": "Data Scientist - Junior",
       "location": "Charleston, SC",
@@ -73,6 +83,66 @@
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01815590?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Data",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1-data/27595/92316239376?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
+    {
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/92316241952?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1470146-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1475468?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "location": "Huntsville, AL",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Entry-Level-Software-Engineer_R0155505?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-03T16:39:21.289980",
+      "category": "software"
+    },
     {
       "company": "Anaplan",
       "title": "Junior Software Engineer - Dev Academy",
@@ -561,76 +631,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-21T16:21:07.825891",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IAMcKinney, TXEl Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I-Onsite-_01823655-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "Latitude",
-      "title": "Entry Level Software Developer - Data & Database Focus",
-      "location": "Baltimore, MD",
-      "url": "https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "USAA",
-      "title": "Software Engineer 1",
-      "location": "Phoenix, AZ",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Software-Engineer-I_R0115569?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "Rocket Lab USA",
-      "title": "Software Engineer 1/2 - Operational Data",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7609095003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "location": "Dahlgren, VAFredericksburg, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0154484?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "Elsevier",
-      "title": "Software Engineer 1",
-      "location": "DelawareJackson Township, NJPhiladelphia, PA",
-      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R107469?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-A/Software-Engineer-I_R202672269?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-20T16:30:57.713477",
       "category": "software"
     }
   ]
