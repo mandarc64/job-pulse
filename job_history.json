@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "LPL Financial Holdings",
+      "title": "New Grad - Data Analytics",
+      "location": "Fort Mill, SCCharlotte, NC",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2026---Foundational-Analyst-Rotational-Program--FAR----Data-Analytics_R-045022-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "data"
+    },
+    {
       "company": "Waystar",
       "title": "Data Engineer 1",
       "location": "Lehi, UT",
@@ -81,8 +91,139 @@
       "category": "data"
     }
   ],
-  "ai_ml": [],
+  "ai_ml": [
+    {
+      "company": "Diligent Robotics",
+      "title": "ML Engineer 1 - Robotics",
+      "location": "Austin, TX",
+      "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/7651464003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "ai_ml"
+    },
+    {
+      "company": "FactSet",
+      "title": "Junior Machine Learning Engineer - Multiple Teams",
+      "location": "London, UK",
+      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Junior-Machine-Learning-Engineer--Python--Docker--and-API-development--Cloud-Architecture--AWS---AI-ML----Hybrid_R31340?utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "ai_ml"
+    }
+  ],
   "software": [
+    {
+      "company": "General Motors",
+      "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
+      "location": "Sunnyvale, CA",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Analyst - Software Engineer I - Analyst",
+      "location": "NYC",
+      "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Analyst--P1--Software-Eng-I---Job-Level---Analyst_PT-JR031031?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Blackhawk Network Holdings",
+      "title": "Software Engineer 1",
+      "location": "Pleasanton, CA",
+      "url": "https://careers-blackhawknetwork.icims.com/jobs/26246/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Compiler Engineer \u2013 New College Grad - Backend GPU \ud83c\udf93",
+      "location": "7 locationsCaliforniaTexasRemote in USARedmond, WAAustin, TXWashingtonSanta Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend-GPU---New-College-Grad-2026_JR2014049?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Abbott",
+      "title": "Software Engineer 1 - Backend",
+      "location": "Pleasanton, CABurlington, MA",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Burlington/Software-Engineer-I--Backend-_31143106-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Magna International",
+      "title": "Software Engineer 1 - Thermal Camera",
+      "location": "Goleta, CA",
+      "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Abbott",
+      "title": "Software Engineer 1 - Backend",
+      "location": "Pleasanton, CABurlington, MA",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Massachusetts---Burlington/Software-Engineer-I--Backend-_31143106?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Entain",
+      "title": "Software Development Engineer 1 - Fullstack",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/Entain/744000112699747?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer \u2013 New Grad",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "Attentive",
+      "title": "Software Engineer 1",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4121843009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Connected Aviation",
+      "location": "Annapolis, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I_01828357?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-04T16:36:16.355684",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -591,46 +732,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-02-22T16:22:15.188548",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 / 2 - New York",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/gigaml/ba9b543d-e85c-4bd1-978b-f838d7a4062f/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-21T16:21:07.825891",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer \u2013 New Grads - Vancouver",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://jobs.ashbyhq.com/gigaml/fa3c51b7-cfe0-48ff-9b32-57ecab5ceb4f/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-21T16:21:07.825891",
-      "category": "software"
-    },
-    {
-      "company": "Giga AI",
-      "title": "Software Engineer \u2013 New Grads",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/gigaml/7314c5c1-e3d0-4439-ad9f-b3b09d4dde51/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-21T16:21:07.825891",
-      "category": "software"
-    },
-    {
-      "company": "Elsevier",
-      "title": "Software Engineer 1",
-      "location": "Philadelphia, PA",
-      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R108391?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-21T16:21:07.825891",
       "category": "software"
     }
   ]
