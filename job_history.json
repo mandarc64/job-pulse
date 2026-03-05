@@ -79,16 +79,6 @@
       "days_ago": 0,
       "first_seen": "2026-02-24T16:59:37.400116",
       "category": "data"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Data Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1474135?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-02-22T16:22:15.188548",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -114,6 +104,76 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01828624?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 \u2013 New Grad",
+      "location": "NYC",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4794786101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "StubHub",
+      "title": "Software Engineer 1 - New Grad",
+      "location": "LA",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4796066101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "mthree",
+      "title": "Junior Software Developer",
+      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "Anaplan",
+      "title": "Junior Software Engineer",
+      "location": "York, UK",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8442244002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "State Street",
+      "title": "Software Engineer 1 - Full Stack",
+      "location": "Burlington, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-05T17:57:38.116945",
+      "category": "software"
+    },
     {
       "company": "General Motors",
       "title": "Software Engineer AV HIL Platform and Services \u2013 University Grad",
@@ -702,36 +762,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-24T16:59:37.400116",
-      "category": "software"
-    },
-    {
-      "company": "Western Digital",
-      "title": "Early Career Talent - Software Engineering - Apps",
-      "location": "Irvine, CA",
-      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544245?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-22T16:22:15.188548",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Software Engineer \u2013 New Grad - Security",
-      "location": "Ottawa, ON, CanadaAtlanta, GA",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030219?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-02-22T16:22:15.188548",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Salesforce",
-      "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-      "location": "4 locationsPalo Alto, CASFBellevue, WASeattle, WA",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-02-22T16:22:15.188548",
       "category": "software"
     }
   ]
