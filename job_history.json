@@ -69,26 +69,6 @@
       "days_ago": 0,
       "first_seen": "2026-02-27T16:34:12.629173",
       "category": "data"
-    },
-    {
-      "company": "Cisco",
-      "title": "Data Engineer 1 - Full Time - United States",
-      "location": "Research Triangle, Durham, NC",
-      "url": "https://careers.cisco.com/global/en/job/2003052?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "data"
-    },
-    {
-      "company": "The Travelers Companies",
-      "title": "Data Engineer 1 - Databricks - MLOps",
-      "location": "St Paul, MNHartford, CT",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--MLOps-_R-49321?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -612,96 +592,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-      "location": "Seattle, WA",
-      "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Palantir",
-      "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "General Motors",
-      "title": "Software Engineer \u2013 Early Career",
-      "location": "Warren, MIMountain View, CA",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1471700?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "Renaissance",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5018110008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "Elsevier",
-      "title": "Software Engineer 1",
-      "location": "Philadelphia, PA",
-      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R109635?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Microsoft",
-      "title": "Software Engineer 1",
-      "location": "Redmond, WA",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556734973?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Software Developer \u2013 Entry Level",
-      "location": "Houston, TX",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Developer--Entry-Level-_R2119626?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
-      "category": "software"
-    },
-    {
-      "company": "NMI",
-      "title": "Software Engineer 1",
-      "location": "Remote in UK",
-      "url": "https://job-boards.greenhouse.io/nmi/jobs/5132338008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-26T16:51:51.013071",
       "category": "software"
     }
   ]
