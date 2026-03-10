@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "LMI",
+      "title": "Junior Data Scientist",
+      "location": "Colorado Springs, COEl Segundo, CA",
+      "url": "https://careers-lmi.icims.com/jobs/13752/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "data"
+    },
+    {
       "company": "WPP Media",
       "title": "Data Analyst \u2013 Entry Level",
       "location": "London, UK",
@@ -59,16 +69,6 @@
       "days_ago": 0,
       "first_seen": "2026-02-28T16:19:38.754025",
       "category": "data"
-    },
-    {
-      "company": "Software Quality Experts",
-      "title": "Entry Level Business Analyst / Data Analyst",
-      "location": "Dulles, VA",
-      "url": "https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -104,6 +104,66 @@
     }
   ],
   "software": [
+    {
+      "company": "Intuit",
+      "title": "Software Engineer 1 - AI Native",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.intuit.com/job/mountain-view/swe1-software-engineer-ai-native/27595/92435672352?utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
+    {
+      "company": "Chamberlain Group",
+      "title": "Software Engineer 1 - AI",
+      "location": "Western Springs, IL",
+      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
+    {
+      "company": "State Street",
+      "title": "Software Engineer 1 - Full Stack",
+      "location": "Burlington, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53533?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53533-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
+    {
+      "company": "Comcast",
+      "title": "Junior Full Stack Developer",
+      "location": "Cherry Hills Village, CO",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Full-Stack-Developer--Eng1-_R430946?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-10T16:51:47.731311",
+      "category": "software"
+    },
     {
       "company": "Scientific Research Corporation",
       "title": "Software Engineer 1",
@@ -532,66 +592,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-02-28T16:19:38.754025",
-      "category": "software"
-    },
-    {
-      "company": "GE Healthcare",
-      "title": "Software Engineer 1 - Workflows",
-      "location": "Orange, OH",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---Workflows_R4027571-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "PAR Tech",
-      "title": "Software Engineer 1",
-      "location": "Utica, NY",
-      "url": "https://jobs.ashbyhq.com/PAR%20Technology/a189ceb3-0e83-43aa-97c4-1b76e5e5a7df/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "6 locationsNewport News, VACharlottesville, VAOrlando, FLMorgantown, WVLexington, MAOmaha, NE",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00177107?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "2026 Full-time - Software Engineer I - Onsite','AL",
-      "location": "Huntsville, AL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AL-_01826575?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "DLH",
-      "title": "Software Engineer 1 - Job",
-      "location": "San Diego, CA",
-      "url": "https://job-boards.greenhouse.io/dlhcorporation/jobs/5063962007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
-      "category": "software"
-    },
-    {
-      "company": "Capital One",
-      "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-02-27T16:34:12.629173",
       "category": "software"
     }
   ]
