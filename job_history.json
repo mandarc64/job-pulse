@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "LMI",
+      "title": "Junior Data Scientist \ud83c\uddfa\ud83c\uddf8",
+      "location": "El Segundo, CAColorado Springs, CO",
+      "url": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "data"
+    },
+    {
       "company": "Iowa State University",
       "title": "Data Analyst I \ud83d\udec2",
       "location": "Ames, IA",
@@ -104,6 +114,106 @@
     }
   ],
   "software": [
+    {
+      "company": "Baxter International",
+      "title": "Embedded Software Engineer 1",
+      "location": "Raleigh, NC",
+      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Embedded-Software-Engineer-I_JR-196893-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Embedded Linux Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Embedded Cybersecurity Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "Nightwing Intelligence Solutions",
+      "title": "Entry Level Software Developer",
+      "location": "Dulles, VA",
+      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Developer---Intern_JR101193?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Junior Software Engineer for Naval Research Technology",
+      "location": "Fredericksburg, VADahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Java/MapReduce/Cloud/GhostMachine/QTA",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5150579008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "Captivation",
+      "title": "Software Engineer 0 - Java/MapReduce/Cloud/Ghostmachine/QTA",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5150594008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "C++ Junior Software Developer",
+      "location": "Dahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "Peraton",
+      "title": "Junior Software Developer",
+      "location": "Bowie, MDReston, VA",
+      "url": "https://careers-peraton.icims.com/jobs/164435/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
+    {
+      "company": "H&R Block",
+      "title": "Associate Software Engineer, Accelerate Program",
+      "location": "Kansan City, MO",
+      "url": "https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-12T16:54:20.633787",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Flight Management Software Engineer 1",
