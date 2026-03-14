@@ -1,6 +1,46 @@
 {
   "data": [
     {
+      "company": "Revantage Corporate Services",
+      "title": "Analyst \u2013 Junior Quantitative Developer \ud83c\udf93",
+      "location": "United States",
+      "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---USA/Analyst--Junior-Quantitative-Developer_JR102973?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-14T16:23:35.500466",
+      "category": "data"
+    },
+    {
+      "company": "Northside Hospital",
+      "title": "Business Data Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://careers-northside.icims.com/jobs/106614/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-14T16:23:35.500466",
+      "category": "data"
+    },
+    {
+      "company": "University of Rochester",
+      "title": "Research Data Engineer 1",
+      "location": "Rochester, NY",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-14T16:23:35.500466",
+      "category": "data"
+    },
+    {
+      "company": "The Travelers Companies",
+      "title": "Data Engineer 1 - Multiple Teams",
+      "location": "Hartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I---BI-Data-Modernization--AWS--Databricks--Python-_R-48854-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-14T16:23:35.500466",
+      "category": "data"
+    },
+    {
       "company": "blend360",
       "title": "Junior Data Scientist",
       "location": "Atlanta, GA",
@@ -88,16 +128,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-04T16:36:16.355684",
-      "category": "data"
-    },
-    {
-      "company": "Waystar",
-      "title": "Data Engineer 1",
-      "location": "Lehi, UT",
-      "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Data-Engineer-I_R3045?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
       "category": "data"
     }
   ],
@@ -792,66 +822,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-04T16:36:16.355684",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01815590?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Data",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1-data/27595/92316239376?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
-      "category": "software"
-    },
-    {
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/92316241952?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1470146-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1475468?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "location": "Huntsville, AL",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Entry-Level-Software-Engineer_R0155505?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-03T16:39:21.289980",
       "category": "software"
     }
   ]
