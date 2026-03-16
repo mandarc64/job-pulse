@@ -133,6 +133,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Allegion",
+      "title": "Associate AI Engineer \ud83d\udec2",
+      "location": "Carmel, IN",
+      "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "ai_ml"
+    },
+    {
       "company": "Comcast",
       "title": "Machine Learning Engineer 1",
       "location": "Philadelphia, PA",
@@ -144,6 +154,96 @@
     }
   ],
   "software": [
+    {
+      "company": "BAE Systems",
+      "title": "Software Engineer I (Entry Level) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Patuxent River, MD",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "Belk",
+      "title": "Retail Development Program - Software Engineering, Front-End \ud83d\udec2",
+      "location": "Charlotte, NC",
+      "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Software Engineer 1 \ud83d\udec2",
+      "location": "Irving, TXPeoria, ILMossville, IL",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Software-Engineer-1_R0000355583?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer \u2013 Entry Level \ud83c\uddfa\ud83c\uddf8",
+      "location": "Scottsdale, AZ",
+      "url": "https://careers-gdms.icims.com/jobs/70002/software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71461/junior-software-engineer/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Software Engineer I",
+      "location": "Durham, NC",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA---NC---Durham---10-Moore-Drive/Software-Engineer-I_265515?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "6 locationsNewport News, VAOmaha, NEOrlando, FLCharlottesville, VALexington, MAMorgantown, WV",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "SOTI",
+      "title": "Software Developer New Grad",
+      "location": "Mississauga, ON, Canada",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
+    {
+      "company": "OakNorth Bank",
+      "title": "Junior Software Engineer",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/oaknorth.ai/28daf547-064c-4f8f-a69b-17b6a2aab2f5/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-16T16:56:26.597813",
+      "category": "software"
+    },
     {
       "company": "mthree",
       "title": "Junior Software Developer",
@@ -682,76 +782,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01828624?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 \u2013 New Grad",
-      "location": "NYC",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4794786101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "StubHub",
-      "title": "Software Engineer 1 - New Grad",
-      "location": "LA",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4796066101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "mthree",
-      "title": "Junior Software Developer",
-      "location": "Montreal, QC, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "Anaplan",
-      "title": "Junior Software Engineer",
-      "location": "York, UK",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8442244002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "State Street",
-      "title": "Software Engineer 1 - Full Stack",
-      "location": "Burlington, MA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--IN-_01827401?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-05T17:57:38.116945",
       "category": "software"
     }
   ]
