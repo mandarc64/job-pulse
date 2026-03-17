@@ -109,26 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-07T16:20:17.516273",
       "category": "data"
-    },
-    {
-      "company": "ATPCO",
-      "title": "Data Engineer \u2013 New grads welcome to apply",
-      "location": "Reston, VA",
-      "url": "https://jobs.smartrecruiters.com/ATPCO1/744000113027207?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "data"
-    },
-    {
-      "company": "Melaleuca",
-      "title": "Software Engineer 1 - Business Intelligence",
-      "location": "Idaho Falls, ID",
-      "url": "https://careers-melaleuca.icims.com/jobs/9067/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -154,6 +134,56 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/71514/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-17T16:59:14.075444",
+      "category": "software"
+    },
+    {
+      "company": "2K",
+      "title": "Associate Software Engineer 1",
+      "location": "Burnaby, BC, Canada",
+      "url": "https://job-boards.greenhouse.io/2k/jobs/7659495003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-17T16:59:14.075444",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7629272003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-17T16:59:14.075444",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Microsoft",
+      "title": "Software Engineer 1 - Officepy",
+      "location": "Redmond, WA",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-17T16:59:14.075444",
+      "category": "software"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Simulation Software Engineer 1",
+      "location": "Long Beach, CA",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8465281002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-17T16:59:14.075444",
+      "category": "software"
+    },
     {
       "company": "BAE Systems",
       "title": "Software Engineer I (Entry Level) \ud83c\uddfa\ud83c\uddf8",
@@ -692,96 +722,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "software"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer 1",
-      "location": "Fort Worth, TX",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Fort-Worth-TX/Software-Engineer-I_R0029437?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "Iridium Communications",
-      "title": "Software Engineer 1",
-      "location": "Reston, VAChandler, AZ",
-      "url": "https://careers-iridium.icims.com/jobs/4843/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "Angle Health",
-      "title": "Software Engineer \u2013 New Grad",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer - Communication & Tracking System",
-      "location": "Houston, TX",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--Communication---Tracking-System-_R2119983?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer - Infrastructure",
-      "location": "Houston, TX",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--Infrastructure-_R2119992?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Entry Level Software Engineer - External Interfaces",
-      "location": "Houston, TX",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Entry-Level-Software-Engineer--External-Interfaces-_R2119990?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "General Motors",
-      "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems \ud83c\udf93",
-      "location": "Sunnyvale, CAWarren, MI",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "Patreon",
-      "title": "Fullstack Software Engineer \u2013 New Grad",
-      "location": "SFNYC",
-      "url": "https://jobs.ashbyhq.com/patreon/7302033c-d884-4e13-b6d4-74fcb16fe08a/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
-      "category": "software"
-    },
-    {
-      "company": "Personalis",
-      "title": "Software Engineer 1",
-      "location": "Fremont, CA",
-      "url": "https://job-boards.greenhouse.io/personalisinc/jobs/7652896003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-06T16:32:46.215387",
       "category": "software"
     }
   ]
