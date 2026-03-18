@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "University of Arkansas",
+      "title": "Cosmos - Data Engineer 1",
+      "location": "Little Rock, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "data"
+    },
+    {
       "company": "AIG",
       "title": "Early Career - Gen AI - Data Engineering Analyst",
       "location": "Atlanta, GA",
@@ -99,16 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-10T16:51:47.731311",
       "category": "data"
-    },
-    {
-      "company": "WPP Media",
-      "title": "Data Analyst \u2013 Entry Level",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5142063008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -121,19 +121,89 @@
       "days_ago": 0,
       "first_seen": "2026-03-16T16:56:26.597813",
       "category": "ai_ml"
-    },
-    {
-      "company": "Comcast",
-      "title": "Machine Learning Engineer 1",
-      "location": "Philadelphia, PA",
-      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Machine-Learning-Engineer-1_R430663?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71520/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer 1 - Monetization ML",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8417224002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer 1 - Monetization ML",
+      "location": "Seattle, WASF",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8417166002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Dulles, VA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "4 locationsOrlando, FLMorgantown, WVOmaha, NEHuntsville, AL",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178648-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01811717?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level \ud83c\uddfa\ud83c\uddf8",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-18T16:54:08.190848",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Software Engineer \u2013 Entry Level",
@@ -672,56 +742,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "Scientific Research Corporation",
-      "title": "Software Engineer 1",
-      "location": "Suffolk, VA",
-      "url": "https://careers-scires.icims.com/jobs/11006/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8447271002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "software"
-    },
-    {
-      "company": "Hagerty",
-      "title": "Software Engineer 1 - .Net",
-      "location": "United States",
-      "url": "https://hagerty.wd5.myworkdayjobs.com/en-US/hagerty/job/United-States/Software-Engineer-I--NET_R5085?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "software"
-    },
-    {
-      "company": "FactSet",
-      "title": "Software Engineer 1",
-      "location": "London, UK",
-      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Software-Engineer-I_R31589?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
-      "category": "software"
-    },
-    {
-      "company": "HPR (Hyannis Port Research)",
-      "title": "Software Engineer 1",
-      "location": "Needham, MA",
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-07T16:20:17.516273",
       "category": "software"
     }
   ]
