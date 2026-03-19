@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Royal Bank of Canada",
+      "title": "Data Engineer \u2013 New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Data-Engineer---New-Grad_R-0000164410?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "data"
+    },
+    {
       "company": "University of Arkansas",
       "title": "Cosmos - Data Engineer 1",
       "location": "Little Rock, AR",
@@ -124,6 +134,106 @@
     }
   ],
   "software": [
+    {
+      "company": "The Boeing Company",
+      "title": "F-15 Mission Systems Entry Level Software Engineer",
+      "location": "Hazelwood, MO",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Mission-Systems-Entry-Level-Software-Engineer_JR2026501343-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "PingWind",
+      "title": "BI Dashboard Software Engineer 1",
+      "location": "Alexandria, VA",
+      "url": "https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "Orb",
+      "title": "Software Engineer \u2013 Early Career - Core Product",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/orb/b39f70d0-aaa9-46c1-896a-b064a1d3b2cc/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "Wyetech",
+      "title": "Software Engineer 1",
+      "location": "Halethorpe, MD",
+      "url": "https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer 1",
+      "location": "Roseville, CA",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202398?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Embedded Software Engineer (cleared) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71509/junior-embedded-software-engineer-%28cleared%29/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "General Motors",
+      "title": "Simulation Software Engineer - Early Career",
+      "location": "Austin, TXMountain View, CAWarren, MI",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer, Backend",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "Ivo",
+      "title": "Software Engineer, Frontend",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
+    {
+      "company": "EBSCO",
+      "title": "Software Developer Engineer 1",
+      "location": "Birmingham, AL",
+      "url": "https://careers-ebscoind.icims.com/jobs/1975/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-19T16:51:55.142356",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
