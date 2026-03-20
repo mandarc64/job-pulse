@@ -135,6 +135,36 @@
   ],
   "software": [
     {
+      "company": "Cisco",
+      "title": "Software Engineer 1",
+      "location": "Research Triangle, Durham, NC",
+      "url": "https://careers.cisco.com/global/en/job/2011256?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-20T16:35:51.673400",
+      "category": "software"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer New College Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad_R2615502?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-20T16:35:51.673400",
+      "category": "software"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer 1 - Secure Platform Operations",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7732551?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-20T16:35:51.673400",
+      "category": "software"
+    },
+    {
       "company": "The Boeing Company",
       "title": "F-15 Mission Systems Entry Level Software Engineer",
       "location": "Hazelwood, MO",
