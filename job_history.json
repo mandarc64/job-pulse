@@ -109,16 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-11T16:43:33.588587",
       "category": "data"
-    },
-    {
-      "company": "LMI",
-      "title": "Junior Data Scientist",
-      "location": "Colorado Springs, COEl Segundo, CA",
-      "url": "https://careers-lmi.icims.com/jobs/13752/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -134,6 +124,66 @@
     }
   ],
   "software": [
+    {
+      "company": "Northslope Technologies",
+      "title": "Forward Deployed Software Engineer - New Grad",
+      "location": "London, UKNYC",
+      "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "11d",
+      "days_ago": 11,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
+    {
+      "company": "Beyond New Horizons",
+      "title": "Early Career Software Engineer",
+      "location": "Tullahoma, TN",
+      "url": "https://careers-bnh.icims.com/jobs/23560/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer 1",
+      "location": "Washington",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7143799003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
+    {
+      "company": "KLA",
+      "title": "Software Engineer \u2013 New College Graduate",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer--New-College-Graduate-_2634931?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer 1",
+      "location": "San Ramon, CA",
+      "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259875?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
+    {
+      "company": "Worldpay",
+      "title": "Software Engineer 1",
+      "location": "Jacksonville, FLAtlanta, GACincinnati, OH",
+      "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I_JR0608959?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-21T16:21:56.848418",
+      "category": "software"
+    },
     {
       "company": "Cisco",
       "title": "Software Engineer 1",
@@ -822,66 +872,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "Intuit",
-      "title": "Software Engineer 1 - AI Native",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.intuit.com/job/mountain-view/swe1-software-engineer-ai-native/27595/92435672352?utm_source=Simplify&ref=Simplify",
-      "date_posted": "4d",
-      "days_ago": 4,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "Chamberlain Group",
-      "title": "Software Engineer 1 - AI",
-      "location": "Western Springs, IL",
-      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "State Street",
-      "title": "Software Engineer 1 - Full Stack",
-      "location": "Burlington, MA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R53533?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R53533-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
-      "category": "software"
-    },
-    {
-      "company": "Comcast",
-      "title": "Junior Full Stack Developer",
-      "location": "Cherry Hills Village, CO",
-      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Full-Stack-Developer--Eng1-_R430946?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-10T16:51:47.731311",
       "category": "software"
     }
   ]
