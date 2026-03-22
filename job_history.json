@@ -99,16 +99,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-12T16:54:20.633787",
       "category": "data"
-    },
-    {
-      "company": "Iowa State University",
-      "title": "Data Analyst I \ud83d\udec2",
-      "location": "Ames, IA",
-      "url": "https://isu.wd1.myworkdayjobs.com/en-US/iowastatejobs/job/Ames-IA/Data-Analyst-I_R18764?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -802,76 +792,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Flight Management Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "Together AI",
-      "title": "Software Engineer \u2013 Early Career - Storage & Observability",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5073769007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01806424?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "CTI",
-      "title": "Junior Java Software Engineer \ud83c\uddfa\ud83c\uddf8",
-      "location": "Camarillo, CA",
-      "url": "https://job-boards.greenhouse.io/cti/jobs/5143225008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Infrastructure Software Engineer \ud83c\uddfa\ud83c\uddf8",
-      "location": "Pittsfield, MA",
-      "url": "https://careers-gdms.icims.com/jobs/70886/entry-level-infrastructure-software-engineer/job?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "Sigma",
-      "title": "Software Engineer (New Grad Program) \ud83d\udec2",
-      "location": "San Francisco, CANew York City, NY",
-      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7657082003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Carmel, IN",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202674243?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-11T16:43:33.588587",
       "category": "software"
     }
   ]
