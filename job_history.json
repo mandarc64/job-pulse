@@ -89,16 +89,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-13T16:33:01.993271",
       "category": "data"
-    },
-    {
-      "company": "LMI",
-      "title": "Junior Data Scientist \ud83c\uddfa\ud83c\uddf8",
-      "location": "El Segundo, CAColorado Springs, CO",
-      "url": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -114,6 +104,76 @@
     }
   ],
   "software": [
+    {
+      "company": "Westinghouse Electric Company",
+      "title": "1&C Software Engineer 1",
+      "location": "Cranberry Twp, PA",
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-Software-Engineer-1-OR/1375639500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "Booz Allen",
+      "title": "Software Engineer, Junior \ud83c\uddfa\ud83c\uddf8",
+      "location": "Aberdeen Proving Ground, MD",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/Business-Process-Analyst-and-Knowledge-Management-Specialist_R0236027?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "CIBC",
+      "title": "Software Engineer, Apprentice \ud83d\udec2",
+      "location": "Chicago, IL",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer--Apprentice_2605991?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "Geneva Trading",
+      "title": "Junior Software Engineer",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "Elsevier",
+      "title": "Software Engineer 1",
+      "location": "Philadelphia, PANYC",
+      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R110970?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "Henry Schein",
+      "title": "Software Engineer 1",
+      "location": "Ames, IA",
+      "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Iowa-United-States---Remote/Software-Engineer-II_R132081?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "6 locationsOrlando, FLLexington, MAMorgantown, WVOmaha, NECharlottesville, VANewport News, VA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00178995?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-23T16:52:10.220532",
+      "category": "software"
+    },
     {
       "company": "Northslope Technologies",
       "title": "Forward Deployed Software Engineer - New Grad",
@@ -692,106 +752,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Baxter International",
-      "title": "Embedded Software Engineer 1",
-      "location": "Raleigh, NC",
-      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Embedded-Software-Engineer-I_JR-196893-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Embedded Linux Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Embedded Cybersecurity Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "Nightwing Intelligence Solutions",
-      "title": "Entry Level Software Developer",
-      "location": "Dulles, VA",
-      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Developer---Intern_JR101193?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Junior Software Engineer for Naval Research Technology",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0156107?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Java/MapReduce/Cloud/GhostMachine/QTA",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5150579008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "Captivation",
-      "title": "Software Engineer 0 - Java/MapReduce/Cloud/Ghostmachine/QTA",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5150594008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "C++ Junior Software Developer",
-      "location": "Dahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0156280?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "Peraton",
-      "title": "Junior Software Developer",
-      "location": "Bowie, MDReston, VA",
-      "url": "https://careers-peraton.icims.com/jobs/164435/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
-      "category": "software"
-    },
-    {
-      "company": "H&R Block",
-      "title": "Associate Software Engineer, Accelerate Program",
-      "location": "Kansan City, MO",
-      "url": "https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-12T16:54:20.633787",
       "category": "software"
     }
   ]
