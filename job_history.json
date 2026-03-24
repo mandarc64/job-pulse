@@ -69,26 +69,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-14T16:23:35.500466",
       "category": "data"
-    },
-    {
-      "company": "blend360",
-      "title": "Junior Data Scientist",
-      "location": "Atlanta, GA",
-      "url": "https://jobs.smartrecruiters.com/Blend360/744000114470272?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "data"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Data Scientist \u2013 New Grad",
-      "location": "Remote in USA",
-      "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -104,6 +84,76 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Flight Management Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01831719?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "Lindy",
+      "title": "Full Stack Software Engineer \u2013 Early Career",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "Peraton",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://careers-peraton.icims.com/jobs/164805/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "8VC",
+      "title": "Software Engineer \u2013 New Grad - Multiple Opportunites",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/8vc/2cb34a72-9ced-4457-8ad2-bd77d2819545/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8470752002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
+    {
+      "company": "University of Rochester",
+      "title": "Software Engineer 1",
+      "location": "Rochester, NY",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Software-Engineer-I_R269734?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-03-24T16:54:43.239192",
+      "category": "software"
+    },
     {
       "company": "Westinghouse Electric Company",
       "title": "1&C Software Engineer 1",
@@ -642,116 +692,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-15T16:24:46.537165",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/70002/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer \u2013 Entry Level",
-      "location": "United States",
-      "url": "https://careers-gdms.icims.com/jobs/71486/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01815590-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Peraton",
-      "title": "Junior Full Stack Software Developer",
-      "location": "Washington, DC",
-      "url": "https://careers-peraton.icims.com/jobs/164379/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Caterpillar Inc.",
-      "title": "Software Engineer 1",
-      "location": "Peoria, ILIrving, TX",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Software-Engineer-1_R0000355583?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Entry Level Graphics Software Developer",
-      "location": "Bethesda, MD",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00178050?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1 - Mainframe",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Mainframe-_R_1476716?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Vanta",
-      "title": "Software Engineer \u2013 Entry Level",
-      "location": "SFNYC",
-      "url": "https://jobs.ashbyhq.com/vanta/14f2aa15-7d35-43cc-8978-48986a325c4a/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "USAA",
-      "title": "Software Engineer Entry Level",
-      "location": "Plano, TXSan Antonio, TX",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0115594?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1478337?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Systems/Software Engineer 1",
-      "location": "Sunnyvale, CA",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1200502?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-13T16:33:01.993271",
       "category": "software"
     }
   ]
