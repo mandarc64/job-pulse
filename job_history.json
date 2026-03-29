@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "GlobalFoundries",
+      "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+      "location": "Austin, TX",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "data"
+    },
+    {
       "company": "Vanasse Hangen Brustlin (VHB)",
       "title": "Entry Level Data Analyst",
       "location": "Raleigh, NC",
@@ -59,20 +69,60 @@
       "days_ago": 0,
       "first_seen": "2026-03-19T16:51:55.142356",
       "category": "data"
-    },
-    {
-      "company": "University of Arkansas",
-      "title": "Cosmos - Data Engineer 1",
-      "location": "Little Rock, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Data-Engineer-I_R0070783?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Program Protection Software Engineer 1 - Program Protection Software Engineer I",
+      "location": "Concord, MATewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Program-Protection-Software-Engineer-I---Onsite--MA-_01834028?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 - Full Stack",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "software"
+    },
+    {
+      "company": "Captivation",
+      "title": "Software Engineer 0 - Java/Mapreduce/AI/ML/Kubernetes",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5168325008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - New Grad",
+      "location": "NYC",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825411101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "software"
+    },
+    {
+      "company": "StubHub",
+      "title": "Software Engineer 1",
+      "location": "LA",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-03-29T16:28:04.951094",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Junior Software Engineering Developer \u2013 New Grad",
@@ -691,86 +741,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-19T16:51:55.142356",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer \u2013 Entry Level",
-      "location": "Dedham, MA",
-      "url": "https://careers-gdms.icims.com/jobs/71520/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1 - Monetization ML",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8417224002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1 - Monetization ML",
-      "location": "Seattle, WASF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8417166002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Dulles, VA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "4 locationsOrlando, FLMorgantown, WVOmaha, NEHuntsville, AL",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178648-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01811717?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer \u2013 Entry Level \ud83c\uddfa\ud83c\uddf8",
-      "location": "Manassas, VA",
-      "url": "https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-18T16:54:08.190848",
       "category": "software"
     }
   ]
