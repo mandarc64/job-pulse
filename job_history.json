@@ -134,6 +134,66 @@
   "ai_ml": [],
   "software": [
     {
+      "company": "Yale University",
+      "title": "Software Engineer 1",
+      "location": "New Haven, CT",
+      "url": "https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Science-Park-Bldg-25/IT--Software-Engineer-1_133728WD-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
+      "company": "Electronic Arts",
+      "title": "Software Engineer New Grad",
+      "location": "Vancouver, BC, Canada",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-New-Grad/213537?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer \u2013 New College Graduate - AI Inference Systems",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Inference-Systems---New-College-Graduate-2026_JR2015076?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
+      "company": "Latitude AI",
+      "title": "Software Engineer 1",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/latitude/jobs/7773245?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
+      "company": "Nordstrom",
+      "title": "Delivery Platform Software Engineer 1 - Developer Tools Team",
+      "location": "Seattle, WA",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Delivery-Platform-Software-Engineer-1---Developer-Tools-Team--Hybrid---Seattle--WA-_R-824993?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
+      "company": "Medtronic",
+      "title": "Software Engineer 1",
+      "location": "Lafayette, CO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-03T16:33:24.368270",
+      "category": "software"
+    },
+    {
       "company": "Blue Yonder",
       "title": "Software Engineer 1",
       "location": "Dallas, TX",
@@ -761,76 +821,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "Westinghouse Electric Company",
-      "title": "1&C Software Engineer 1",
-      "location": "Cranberry Twp, PA",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-Software-Engineer-1-OR/1375639500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "Booz Allen",
-      "title": "Software Engineer, Junior \ud83c\uddfa\ud83c\uddf8",
-      "location": "Aberdeen Proving Ground, MD",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/Business-Process-Analyst-and-Knowledge-Management-Specialist_R0236027?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "CIBC",
-      "title": "Software Engineer, Apprentice \ud83d\udec2",
-      "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer--Apprentice_2605991?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "Geneva Trading",
-      "title": "Junior Software Engineer",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "Elsevier",
-      "title": "Software Engineer 1",
-      "location": "Philadelphia, PANYC",
-      "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R110970?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "Henry Schein",
-      "title": "Software Engineer 1",
-      "location": "Ames, IA",
-      "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Iowa-United-States---Remote/Software-Engineer-II_R132081?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "6 locationsOrlando, FLLexington, MAMorgantown, WVOmaha, NECharlottesville, VANewport News, VA",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00178995?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-23T16:52:10.220532",
       "category": "software"
     }
   ]
