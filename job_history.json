@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "\u21b3",
+      "title": "Data Engineer 1 - Snowflake",
+      "location": "Hartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Snowflake-_R-49667?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-04T16:28:06.891928",
+      "category": "data"
+    },
+    {
+      "company": "Travelers",
+      "title": "Data Engineer 1 - Multiple Teams",
+      "location": "Hartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--SQL-_R-49596?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-04T16:28:06.891928",
+      "category": "data"
+    },
+    {
       "company": "Travelers",
       "title": "Data Engineer 1 - Multiple Teams",
       "location": "Atlanta, GA",
@@ -133,6 +153,26 @@
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Android",
+      "location": "4 locationsBoston, MASeattle, WAScottsdale, AZAtlanta, GA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7689548003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-04T16:28:06.891928",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7576971003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-04T16:28:06.891928",
+      "category": "software"
+    },
     {
       "company": "Yale University",
       "title": "Software Engineer 1",
@@ -751,76 +791,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Flight Management Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01831719?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "Lindy",
-      "title": "Full Stack Software Engineer \u2013 Early Career",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "Peraton",
-      "title": "Junior Software Engineer",
-      "location": "Annapolis Junction, MD",
-      "url": "https://careers-peraton.icims.com/jobs/164805/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "8VC",
-      "title": "Software Engineer \u2013 New Grad - Multiple Opportunites",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/8vc/2cb34a72-9ced-4457-8ad2-bd77d2819545/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8470752002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
-      "category": "software"
-    },
-    {
-      "company": "University of Rochester",
-      "title": "Software Engineer 1",
-      "location": "Rochester, NY",
-      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Software-Engineer-I_R269734?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-24T16:54:43.239192",
       "category": "software"
     }
   ]
