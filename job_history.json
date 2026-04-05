@@ -139,20 +139,20 @@
       "days_ago": 0,
       "first_seen": "2026-03-26T16:55:25.308301",
       "category": "data"
-    },
-    {
-      "company": "Seagate Technology",
-      "title": "Data Scientist \u2013 GenAI & Autonomous Manufacturing Early Career \ud83c\udf93",
-      "location": "Bloomington, MN",
-      "url": "https://seagatecareers.com/job/Bloomington-Data-Scientist-GenAI-&-Autonomous-Manufacturing-Early-Career-MN/1375513100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "4d",
-      "days_ago": 4,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Las Vegas, NV",
+      "url": "https://careers-gdms.icims.com/jobs/71846/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-05T16:29:46.216435",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1 - Android",
@@ -651,146 +651,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite--IN-_01832548?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "McKinney, TXFort Wayne, INEl Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01830002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Whoop",
-      "title": "Software Engineer 1 - Frontend - Growth",
-      "location": "Boston, MA",
-      "url": "https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Remodel Health",
-      "title": "Junior Software Engineer",
-      "location": "Indianapolis, IN",
-      "url": "https://job-boards.greenhouse.io/remodelhealth/jobs/5163796008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "McDonald's",
-      "title": "Software Engineer 1",
-      "location": "Chicago, IL",
-      "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1376362600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Jonas Software",
-      "title": "Junior AI Software Engineer",
-      "location": "Markham, ON, Canada",
-      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote---Canada/Junior-AI-Software-Engineer_R50805-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Ping Identity",
-      "title": "Software Engineer 1",
-      "location": "Edinburgh, UK",
-      "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8467031002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer 1 - Backend",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7673122003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Qualifacts",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, CanadaRemote in Canada",
-      "url": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Toronto/Software-Engineer-I_R-102380?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer/Software Tester",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157213?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer/Software Tester",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157214?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8472708002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer",
-      "location": "St. Louis, MO",
-      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
-      "category": "software"
-    },
-    {
-      "company": "Truist Bank",
-      "title": "Software Engineer 1",
-      "location": "5 locationsRaleigh, NCGoldsboro, NCRichmond, VACharlotte, NCGreensboro, NC",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Richmond-VA/Software-Engineer-I_R0112713?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-25T16:56:45.007140",
       "category": "software"
     }
   ]
