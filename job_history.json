@@ -119,30 +119,60 @@
       "days_ago": 0,
       "first_seen": "2026-03-27T16:46:38.290942",
       "category": "data"
-    },
-    {
-      "company": "Wpromote",
-      "title": "Junior Data Scientist",
-      "location": "Remote in USA",
-      "url": "https://jobs.lever.co/wpromote/658c714b-2020-4982-868a-1dcb67a0b96d/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "data"
-    },
-    {
-      "company": "LMI",
-      "title": "Junior Data Scientist",
-      "location": "Colorado Springs, COEl Segundo, CA",
-      "url": "https://careers-lmi.icims.com/jobs/13822/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Graduate Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://university-uber.icims.com/jobs/158014/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-06T16:39:12.765640",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Graduate Software Engineer 1",
+      "location": "SF",
+      "url": "https://university-uber.icims.com/jobs/158009/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-06T16:39:12.765640",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Graduate Software Engineer 1 - Mobile - Android",
+      "location": "Seattle, WASF",
+      "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-06T16:39:12.765640",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Uber",
+      "title": "Graduate Software Engineer 1 - Mobile - iOS",
+      "location": "SF",
+      "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-06T16:39:12.765640",
+      "category": "software"
+    },
+    {
+      "company": "Mirage",
+      "title": "Software Engineer \u2013 Early Career",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/mirage/ff388d40-ab91-4383-977b-4caa18e85160/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-06T16:39:12.765640",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Software Engineer \u2013 Entry Level",
@@ -571,86 +601,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer \u2013 Entry Level",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/71627/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Commerce Engineering",
-      "location": "Seattle, WASF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1 - Commerce Engineering",
-      "location": "Seattle, WASF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8459320002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "Travelers",
-      "title": "Software Engineer 1 - AI Driven",
-      "location": "Atlanta, GA",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "Ultra Intelligence & Communications Mission Solutions",
-      "title": "Software Engineer 1 \ud83c\uddfa\ud83c\uddf8",
-      "location": "locations Tampa, FL, United States",
-      "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "Ultra",
-      "title": "Software Engineer 1 \ud83c\uddfa\ud83c\uddf8",
-      "location": "Tampa, FL",
-      "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Software-Engineer-1_REQ-11707-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7624132003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Software Engineer 1 - TS/SCI w/Poly",
-      "location": "Columbia, MD",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Columbia/XMLNAME-305536-Software-Engineer-1--TS-SCI-w-Poly-_311676-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-26T16:55:25.308301",
       "category": "software"
     }
   ]
