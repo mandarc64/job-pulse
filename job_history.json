@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "EverCommerce",
+      "title": "Data Engineer 1",
+      "location": "Remote in Canada",
+      "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Canada/EverCommerce---Data-Engineer-I_R-106102?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "data"
+    },
+    {
       "company": "\u21b3",
       "title": "Data Engineer 1 - Snowflake",
       "location": "Hartford, CTSt Paul, MN",
@@ -99,30 +109,141 @@
       "days_ago": 1,
       "first_seen": "2026-03-29T16:28:04.951094",
       "category": "data"
-    },
-    {
-      "company": "Vanasse Hangen Brustlin (VHB)",
-      "title": "Entry Level Data Analyst",
-      "location": "Raleigh, NC",
-      "url": "https://careers-vhb.icims.com/jobs/5952/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "data"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Analyst \u2013 New College Grad/ Early Career",
-      "location": "Santa Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst--New-College-Grad--Early-Career-_R2616165?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "data"
     }
   ],
-  "ai_ml": [],
+  "ai_ml": [
+    {
+      "company": "Handshake",
+      "title": "Machine Learning Engineer 1",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "ai_ml"
+    }
+  ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01835603?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - EOIR Advanced Products and Solutions",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I---EOIR-Advanced-Products-and-Solutions_01835754?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "HNTB",
+      "title": "Software Engineer 1",
+      "location": "Tallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL-Sessions-Road/Software-Engineer-I---UX-UI-Designer_R-29787?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer 1",
+      "location": "San Ramon, CA",
+      "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "Murj",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/murj/jobs/5158417008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "Peraton",
+      "title": "Junior Cyber Software Engineer - UI Alerting",
+      "location": "San Diego, CA",
+      "url": "https://careers-peraton.icims.com/jobs/165429/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer \u2013 New College Grad",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.smartrecruiters.com/Visa/744000119102127?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer - New College Grad",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.smartrecruiters.com/Visa/744000119101867?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Visa",
+      "title": "Software Engineer \u2013 New College Grad",
+      "location": "Austin, TX",
+      "url": "https://jobs.smartrecruiters.com/Visa/744000119101657?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Belfast, UK",
+      "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R14006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "Proofpoint",
+      "title": "Software Engineer 1",
+      "location": "Belfast, UK",
+      "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R14005?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "title": "Mainframe Software Engineer 1",
+      "location": "Columbus, GA",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0306075?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-07T16:50:24.700054",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Graduate Software Engineer 1",
@@ -531,76 +652,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Junior Software Engineering Developer \u2013 New Grad",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://jobs.smartrecruiters.com/GDMSI/744000116967189?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "Gentex Corporation",
-      "title": "Embedded Software Engineer 1",
-      "location": "Holland, MIOttawa, ON, Canada",
-      "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ025573?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "True Anomaly",
-      "title": "Flight Software Engineer 1",
-      "location": "Long Beach, CADenver, CO",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "Life Fitness",
-      "title": "Embedded Software Engineer 1",
-      "location": "Hoffman Estates, IL",
-      "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Engineer-I_JR-024894?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "Ellipsis Labs",
-      "title": "Software Engineer \u2013 New Grads - Multiple Teams",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Crowdstrike",
-      "title": "Engineer 1 - Front End - Data Visualization",
-      "location": "Toronto, ON, Canada",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
-      "category": "software"
-    },
-    {
-      "company": "Peloton",
-      "title": "Software Engineer 1",
-      "location": "NYC",
-      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7733271&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-27T16:46:38.290942",
       "category": "software"
     }
   ]
