@@ -109,16 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-30T16:50:31.302117",
       "category": "data"
-    },
-    {
-      "company": "GlobalFoundries",
-      "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
-      "location": "Austin, TX",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -134,6 +124,66 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Display Products",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Display-Products--Onsite-_01835685?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
+    {
+      "company": "Freeform",
+      "title": "Software Engineer \u2013 New Grad - C++",
+      "location": "West Athens, CA",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7694192003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7673126003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Test Solutions",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
+    {
+      "company": "Mirage",
+      "title": "Software Engineer \u2013 Early Career",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/mirage/1c4a937b-894e-402a-b2fd-93435b86657f/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Software-Engineer-I---Onsite_01833632?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-09T17:00:34.776490",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1",
@@ -672,56 +722,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-03-31T16:52:01.852861",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Program Protection Software Engineer 1 - Program Protection Software Engineer I",
-      "location": "Concord, MATewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Program-Protection-Software-Engineer-I---Onsite--MA-_01834028?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "software"
-    },
-    {
-      "company": "True Anomaly",
-      "title": "Software Engineer 1 - Full Stack",
-      "location": "Long Beach, CADenver, CO",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "software"
-    },
-    {
-      "company": "Captivation",
-      "title": "Software Engineer 0 - Java/Mapreduce/AI/ML/Kubernetes",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5168325008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - New Grad",
-      "location": "NYC",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825411101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
-      "category": "software"
-    },
-    {
-      "company": "StubHub",
-      "title": "Software Engineer 1",
-      "location": "LA",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-03-29T16:28:04.951094",
       "category": "software"
     }
   ]
