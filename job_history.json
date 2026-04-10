@@ -99,16 +99,6 @@
       "days_ago": 0,
       "first_seen": "2026-03-31T16:52:01.852861",
       "category": "data"
-    },
-    {
-      "company": "Ivanti",
-      "title": "Entry Level Data Analyst",
-      "location": "South Jordan, UT",
-      "url": "https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7681918003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-03-30T16:50:31.302117",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -124,6 +114,106 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Raytheon Full Time-Software Engineer 1",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01836680?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Concord, MATewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01836740?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "Foxglove",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/foxglove/def61478-8b86-43e5-b27b-be7b76900449/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "Truist Bank",
+      "title": "Software Engineer 1 - SAP",
+      "location": "Greensboro, NC",
+      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I--SAP_R0112898?utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "location": "Woodlawn, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Dreamworks Technology - Software Engineer I",
+      "location": "Glendale, CA",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000119696482?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Full-Stack",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7685236003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "Cohesity",
+      "title": "AI Software Engineer \u2013 New College Graduate",
+      "location": "Santa Clara, CA",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/AI-Software-Engineer---New-College-Graduate_R03123?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Concord, MATewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time-Formal-Qualification-Testing--Software-Engineer-I---Onsite-_01837021?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01833936?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-10T16:42:59.539767",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1 - Display Products",
