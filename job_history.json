@@ -59,36 +59,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-04T16:28:06.891928",
       "category": "data"
-    },
-    {
-      "company": "Travelers",
-      "title": "Data Engineer 1 - Multiple Teams",
-      "location": "Atlanta, GA",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--ETL--PySpark--SQL-_R-49836?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "data"
-    },
-    {
-      "company": "Finning",
-      "title": "AI & Analytics Engineer 1",
-      "location": "Calgary, AB, CanadaEdmonton, AB, Canada",
-      "url": "https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/AI---Analytics-Engineer-I_R-2026-1255?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "data"
-    },
-    {
-      "company": "Unison Infrastructure",
-      "title": "Data Analyst \u2013 Entry-Level / Early Career",
-      "location": "Bristol, UK",
-      "url": "https://jobs.lever.co/unisoninfra/0f361a1e-a36b-406e-a268-a5d2a55d4248/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -662,86 +632,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-02T16:51:33.385020",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Raytheon Full Time - Effectors Software Engineer I",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Effectors-Software-Engineer-I---Tucson--AZ--Onsite-_01826337?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Full-time - Software Engineer I",
-      "location": "Tewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01832811?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Junior Java Software Engineer",
-      "location": "Fresno, CA",
-      "url": "https://jobs.smartrecruiters.com/Jobsbridge1/93627897?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "KRG Technologies",
-      "title": "Junior Software Engineer",
-      "location": "Redmond, WA",
-      "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/101351633?utm_source=Simplify&ref=Simplify",
-      "date_posted": "27d",
-      "days_ago": 27,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "NYC",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202675126?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Full Time-Software Engineer 1",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01834984?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "Worldpay",
-      "title": "Software Engineer 1 - Mainframe",
-      "location": "Cincinnati, OH",
-      "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I---Mainframe_JR0609191-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
-      "category": "software"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer 1",
-      "location": "Plano, TX",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I_R0029552?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-01T16:46:55.784031",
       "category": "software"
     }
   ]
