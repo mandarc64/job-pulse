@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "Truist",
+      "title": "Associate Data Engineer - AML",
+      "location": "Charlotte, NCWilson, NCAtlanta, GA",
+      "url": "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Associate-Data-Engineer---AML_R0113286?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "data"
+    },
+    {
+      "company": "Finning",
+      "title": "AI & Analytics Engineer I",
+      "location": "Calgary, AB, CANEdmonton, AB, CAN",
+      "url": "https://finning.wd3.myworkdayjobs.com/en-US/external/job/Calgary-AB-CA/AI---Analytics-Engineer-I_R-2026-1255?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "data"
+    },
+    {
+      "company": "CAI",
+      "title": "Junior Data Engineer \ud83d\udec2",
+      "location": "FL",
+      "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Junior-Data-Engineer_R7496?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "data"
+    },
+    {
       "company": "\u21b3",
       "title": "Junior Data Engineer",
       "location": "St Paul, MN",
@@ -74,6 +104,136 @@
     }
   ],
   "software": [
+    {
+      "company": "ICF",
+      "title": "Junior Software Engineer (Web Developer/Programmer) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Reston, VA",
+      "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Web-Developer-Programmer-_R2601262?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "KBR",
+      "title": "Junior Communications Systems Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Beavercreek, OH",
+      "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2121814?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Columbia, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180478?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Columbia, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer I",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7662648003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Embedded Software Engineer (cleared) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71922/junior-embedded-software-engineer-%28cleared%29/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Embedded Software Engineer - Junior \ud83c\uddfa\ud83c\uddf8",
+      "location": "Orlando, FL",
+      "url": "https://careers-gdms.icims.com/jobs/71873/embedded-software-engineer---junior/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Junior Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Engineer_R0158659?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "CACI",
+      "title": "Junior C# Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Bethesda, MD",
+      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Unum",
+      "title": "IT Associate - Software Engineer",
+      "location": "Chattanooga, TN",
+      "url": "https://unum.wd1.myworkdayjobs.com/en-US/external/job/Chattanooga-Tennessee-USA/IT-Associate---Software-Engineer_835051?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Realm",
+      "title": "Software Engineer - New Grad \ud83c\uddfa\ud83c\uddf8",
+      "location": "Remote in US",
+      "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Cloud Developer Graduate",
+      "location": "Sunnyvale, CA",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Cloud-Developer-Graduate_1204085?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--JEE--Spring--Spring-Boot-_R_1480966?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-13T16:57:31.353063",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -612,26 +772,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "Blue Yonder",
-      "title": "Software Engineer 1",
-      "location": "Dallas, TX",
-      "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_254756-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-02T16:51:33.385020",
-      "category": "software"
-    },
-    {
-      "company": "Aquatic Capital Management",
-      "title": "Software Engineer \u2013 Early Career",
-      "location": "Chicago, ILNYC",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-02T16:51:33.385020",
       "category": "software"
     }
   ]
