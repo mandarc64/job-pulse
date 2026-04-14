@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Bowhead",
+      "title": "Data Analyst/Data Engineer 1",
+      "location": "Prince George's County, MD",
+      "url": "https://bowheadcareers-uicalaska.icims.com/jobs/25010/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "data"
+    },
+    {
       "company": "Truist",
       "title": "Associate Data Engineer - AML",
       "location": "Charlotte, NCWilson, NCAtlanta, GA",
@@ -104,6 +114,106 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Software Engineer",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71172/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "TSC",
+      "title": "Electrical/Computer Software Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL/Electrical-Computer-Software-Engineer-I_JR2508?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "Parsons",
+      "title": "Junior Full Stack Developer",
+      "location": "Hoffman Estates, ILAtlanta, GA",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Backend",
+      "location": "Illinois",
+      "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "CDW Corporation",
+      "title": "Software Engineer 1 - Frontend",
+      "location": "Illinois",
+      "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Frontend_R26_00001465?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Plano, TX",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I_R0029684?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Missile Defense Sensors Software Engineer 1",
+      "location": "Burlington, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Missile-Defense-Sensors-Software-Engineer-I--Onsite-_01837131?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Software Engineer 1",
+      "location": "NYC",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-I_10147090?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer",
+      "location": "Oklahoma City, OK",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer_JR2026505463-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior RUST Embedded Software Engineer (cleared) \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/71965/junior-rust-embedded-software-engineer-%28cleared%29/job?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-14T16:59:13.767662",
+      "category": "software"
+    },
     {
       "company": "ICF",
       "title": "Junior Software Engineer (Web Developer/Programmer) \ud83c\uddfa\ud83c\uddf8",
@@ -712,66 +822,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-04T16:28:06.891928",
-      "category": "software"
-    },
-    {
-      "company": "Yale University",
-      "title": "Software Engineer 1",
-      "location": "New Haven, CT",
-      "url": "https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Science-Park-Bldg-25/IT--Software-Engineer-1_133728WD-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "Electronic Arts",
-      "title": "Software Engineer New Grad",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-New-Grad/213537?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Software Engineer \u2013 New College Graduate - AI Inference Systems",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Inference-Systems---New-College-Graduate-2026_JR2015076?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "Latitude AI",
-      "title": "Software Engineer 1",
-      "location": "Pittsburgh, PA",
-      "url": "https://job-boards.greenhouse.io/latitude/jobs/7773245?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "Nordstrom",
-      "title": "Delivery Platform Software Engineer 1 - Developer Tools Team",
-      "location": "Seattle, WA",
-      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Delivery-Platform-Software-Engineer-1---Developer-Tools-Team--Hybrid---Seattle--WA-_R-824993?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
-      "category": "software"
-    },
-    {
-      "company": "Medtronic",
-      "title": "Software Engineer 1",
-      "location": "Lafayette, CO",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-03T16:33:24.368270",
       "category": "software"
     }
   ]
