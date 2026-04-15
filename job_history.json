@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Travelers",
+      "title": "Data Engineer 1 - Multiple Teams",
+      "location": "Atlanta, GA",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark-_R-49918?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "data"
+    },
+    {
       "company": "Bowhead",
       "title": "Data Analyst/Data Engineer 1",
       "location": "Prince George's County, MD",
@@ -79,26 +89,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-07T16:50:24.700054",
       "category": "data"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Data Engineer 1 - Snowflake",
-      "location": "Hartford, CTSt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Snowflake-_R-49667?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-04T16:28:06.891928",
-      "category": "data"
-    },
-    {
-      "company": "Travelers",
-      "title": "Data Engineer 1 - Multiple Teams",
-      "location": "Hartford, CTSt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--SQL-_R-49596?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-04T16:28:06.891928",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -114,6 +104,96 @@
     }
   ],
   "software": [
+    {
+      "company": "LabCorp",
+      "title": "Software Engineer 1",
+      "location": "Hartford, CT",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Software-Engineer-I_2612153?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Whoop",
+      "title": "Software Engineer 1 - Quality",
+      "location": "Boston, MA",
+      "url": "https://jobs.lever.co/whoop/b7f75849-b5c0-49fe-8d24-50cbb39d284d/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-I_R000103732?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Warner Bros.",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Software-Engineer-I_R000103734?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer/Software Tester",
+      "location": "Fredericksburg, VADahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0159211?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "location": "Manassas, VA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Manassas-VA/Jr-Software-Developer_R-00176918?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Medtronic",
+      "title": "Software Engineer 1",
+      "location": "Lafayette, CO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I_R63854?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Allstate Insurance Company",
+      "title": "Entry Level - Full Stack Software Engineer - LLM application Development",
+      "location": "Remote in USA",
+      "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/XMLNAME--Entry-level--Full-Stack-Software-Engineer--LLM-application-Development-_R28486-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Engineer 1",
+      "location": "Sunnyvale, CA",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1204732?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-15T16:56:15.693066",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Junior Software Engineer",
@@ -802,26 +882,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-05T16:29:46.216435",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Android",
-      "location": "4 locationsBoston, MASeattle, WAScottsdale, AZAtlanta, GA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7689548003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-04T16:28:06.891928",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7576971003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-04T16:28:06.891928",
       "category": "software"
     }
   ]
