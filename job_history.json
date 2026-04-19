@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "University of Rochester",
+      "title": "Research Data Engineer 1",
+      "location": "Rochester, NY",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/School-of-Medicine-and-Dentistry/Research-Data-Engineer-I_R266252?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-04-19T16:32:40.776782",
+      "category": "data"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Analyst NCG/Early Career",
+      "location": "Santa Clara, CA",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst-NCG-Early-Career_R2618071?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-19T16:32:40.776782",
+      "category": "data"
+    },
+    {
       "company": "WPP Media",
       "title": "Junior Data Scientist",
       "location": "Toronto, ON, Canada",
@@ -109,16 +129,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-11T16:29:35.879976",
       "category": "data"
-    },
-    {
-      "company": "dv01",
-      "title": "Data Analytics Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/dv01/jobs/8497282002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -134,6 +144,16 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Space and RF Sensors",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite_01838274?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-19T16:32:40.776782",
+      "category": "software"
+    },
     {
       "company": "Markforged",
       "title": "Software Engineer 1",
@@ -792,66 +812,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-09T17:00:34.776490",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Goleta, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01835240?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "software"
-    },
-    {
-      "company": "Torc Robotics",
-      "title": "Software Engineer 1 - Device Drivers",
-      "location": "Ann Arbor, MI",
-      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8492431002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer-I_2608048?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "software"
-    },
-    {
-      "company": "CIBC",
-      "title": "Software Engineer 1",
-      "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer-I_2608041?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "Boston, MASeattle, WAScottsdale, AZ",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
-      "category": "software"
-    },
-    {
-      "company": "Waystar",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Software-Engineer-I_R3123?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-08T16:55:13.451953",
       "category": "software"
     }
   ]
