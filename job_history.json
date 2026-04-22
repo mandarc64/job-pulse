@@ -109,26 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-13T16:57:31.353063",
       "category": "data"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Junior Data Engineer",
-      "location": "St Paul, MN",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---St-Paul/Junior-Data-Engineer_31144379?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "data"
-    },
-    {
-      "company": "Abbott",
-      "title": "Junior Data Engineer",
-      "location": "St Paul, MN",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Junior-Data-Engineer_31144379-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -144,6 +124,16 @@
     }
   ],
   "software": [
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Gaithersburg, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Jr-Software-Engineer_R-00181428?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-22T16:52:45.022396",
+      "category": "software"
+    },
     {
       "company": "KBR",
       "title": "Junior Software Engineer",
@@ -662,66 +652,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-13T16:57:31.353063",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Huntsville, AL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I----Onsite-_01837051?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "software"
-    },
-    {
-      "company": "The Trade Desk",
-      "title": "Software Engineer 1",
-      "location": "Irvine, CA",
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5105036007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fulton, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01837230?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "software"
-    },
-    {
-      "company": "EvenUp",
-      "title": "Software Engineer \u2013 New Grad - New Products",
-      "location": "Toronto, ON, CanadaSF",
-      "url": "https://jobs.ashbyhq.com/evenup/f99c74b7-1015-45f2-8f9a-51badf5c1e84/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "software"
-    },
-    {
-      "company": "Electronic Arts",
-      "title": "Full Stack Software Engineer 1",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-I/213633?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
-      "category": "software"
-    },
-    {
-      "company": "EvenUp",
-      "title": "Software Engineer \u2013 New Grad - Cases Product",
-      "location": "Toronto, ON, CanadaSF",
-      "url": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-11T16:29:35.879976",
       "category": "software"
     }
   ]
