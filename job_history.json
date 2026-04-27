@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "General Dynamics Information Technology",
+      "title": "Data Engineer-Junior",
+      "location": "Honolulu, HI",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ218784-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-27T17:16:40.576120",
+      "category": "data"
+    },
+    {
       "company": "The Walt Disney Company",
       "title": "Data Engineer 1",
       "location": "Santa Monica, CA",
@@ -39,36 +49,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-17T16:49:58.692554",
       "category": "data"
-    },
-    {
-      "company": "agilon health",
-      "title": "Healthcare Analytics Engineer 1",
-      "location": "Pennsylvania",
-      "url": "https://agilonhealth.wd1.myworkdayjobs.com/en-US/External/job/Remote---USA/Healthcare-Analytics-Engineer-I_R003511?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "data"
-    },
-    {
-      "company": "LMI",
-      "title": "Junior Data Scientist - Clearance Required",
-      "location": "Colorado Springs, CO",
-      "url": "https://careers-lmi.icims.com/jobs/13901/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "data"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Data Engineer 1 - ETL Developer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I--ETL-Developer-_R_1483084?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -81,19 +61,39 @@
       "days_ago": 0,
       "first_seen": "2026-04-25T16:34:38.701471",
       "category": "ai_ml"
-    },
-    {
-      "company": "Milwaukee Tool",
-      "title": "Machine Learning Engineer 1",
-      "location": "Brookfield, WI",
-      "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Machine-Learning-Engineer-I_R69717-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fulton, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01840846?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-27T17:16:40.576120",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Austin, TXBurlington, VTAtlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202676259?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-27T17:16:40.576120",
+      "category": "software"
+    },
+    {
+      "company": "Mirage",
+      "title": "Software Engineer \u2013 Early Career",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-27T17:16:40.576120",
+      "category": "software"
+    },
     {
       "company": "Northwood Space",
       "title": "Software Engineer \u2013 New grad / early career",
@@ -412,66 +412,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-17T16:49:58.692554",
-      "category": "software"
-    },
-    {
-      "company": "GE Healthcare",
-      "title": "Software Engineer 1 - Workflows",
-      "location": "Orange, OH",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---Workflows_R4037678-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "software"
-    },
-    {
-      "company": "HNTB",
-      "title": "Software Engineer 1 - Power Apps Developer",
-      "location": "8 locationsHouston, TXSFSan Jose, CAOakland, CADallas, TXPlano, TXChicago, ILFort Worth, TX",
-      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Software-Engineer-I---Power-Apps-Developer_R-29868-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "software"
-    },
-    {
-      "company": "mthree",
-      "title": "Junior Software Engineer",
-      "location": "Newark, DE",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "software"
-    },
-    {
-      "company": "ICF",
-      "title": "Associate Software Engineer \ud83c\uddfa\ud83c\uddf8",
-      "location": "Reston, VA",
-      "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Associate-Software-Engineer_R2601302?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "software"
-    },
-    {
-      "company": "BAE Systems",
-      "title": "2026 Entry Level Software Engineer \ud83c\udf93 \ud83c\uddfa\ud83c\uddf8",
-      "location": "4 locationsHudson, NHNashua, NHMerrimack, NHManchester, NH",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US123709BREXTERNAL/2026-Entry-Level-Software-Engineer?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
-      "category": "software"
-    },
-    {
-      "company": "Illumina",
-      "title": "Software Engineer 1",
-      "location": "Cambridge, UK",
-      "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-16T17:07:38.805158",
       "category": "software"
     }
   ]
