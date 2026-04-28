@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Hammel Green And Abrahamson (HGA)",
+      "title": "Junior Data Scientist",
+      "location": "Madison, WIMilwaukee, WIMinneapolis, MN",
+      "url": "https://careers-hga.icims.com/jobs/3415/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-28T17:42:45.431571",
+      "category": "data"
+    },
+    {
       "company": "General Dynamics Information Technology",
       "title": "Data Engineer-Junior",
       "location": "Honolulu, HI",
@@ -39,16 +49,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-19T16:32:40.776782",
       "category": "data"
-    },
-    {
-      "company": "WPP Media",
-      "title": "Junior Data Scientist",
-      "location": "Toronto, ON, Canada",
-      "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5078473008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-17T16:49:58.692554",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -64,6 +64,36 @@
     }
   ],
   "software": [
+    {
+      "company": "\ud83d\udd25 Notion",
+      "title": "Software Engineer \u2013 New Grad - AI",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-28T17:42:45.431571",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Dahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160035?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-28T17:42:45.431571",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "location": "Fredericksburg, VADahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-28T17:42:45.431571",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -372,46 +402,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-18T16:32:16.819441",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Anaheim, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---RDPL---Onsite--CA-_01838610?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-17T16:49:58.692554",
-      "category": "software"
-    },
-    {
-      "company": "New Lantern",
-      "title": "New Grad Olympics Intern - Software Engineer",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/newlantern/cb64f26f-93ec-4fcd-a9be-5ba75687f987/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-04-17T16:49:58.692554",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Training System Software",
-      "location": "Dulles, VA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Training-System-Software--Onsite-_01838582?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-17T16:49:58.692554",
-      "category": "software"
-    },
-    {
-      "company": "Intuit",
-      "title": "Software Engineer 1 - Fullstack",
-      "location": "NYC",
-      "url": "https://jobs.intuit.com/job/new-york/software-engineer-1-fullstack/27595/94027937200?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-17T16:49:58.692554",
       "category": "software"
     }
   ]
