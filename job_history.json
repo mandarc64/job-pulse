@@ -65,6 +65,106 @@
   ],
   "software": [
     {
+      "company": "General Dynamics Mission Systems",
+      "title": "Junior Software Engineer",
+      "location": "Dedham, MA",
+      "url": "https://careers-gdms.icims.com/jobs/72233/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Embedded Software Engineer",
+      "location": "Fort Walton Beach, FL",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Embedded Software Engineer",
+      "location": "Fort Walton Beach, FL",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "Mixpanel",
+      "title": "Software Engineer \u2013 New Grad",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7773373?utm_source=Simplify&ref=Simplify",
+      "date_posted": "13d",
+      "days_ago": 13,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "Anduril",
+      "title": "Early Career Software Engineer",
+      "location": "Newport Beach, CA",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Airbnb",
+      "title": "iOS Software Engineer \u2013 New Grad",
+      "location": "Seattle, WASF",
+      "url": "https://careers.airbnb.com/positions/7859317?gh_jid=7859317&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "GE Healthcare",
+      "title": "Software Engineer 1",
+      "location": "Orange, OH",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Snowflake",
+      "title": "Software Engineer \u2013 Entry Level - Engineering Infrastructure",
+      "location": "Toronto, ON, Canada",
+      "url": "https://jobs.ashbyhq.com/snowflake/a104fbc0-d07c-4974-aeeb-49aa56948fe7/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer 1",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8367602002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Irvine, CA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202676423?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-29T17:21:48.286548",
+      "category": "software"
+    },
+    {
       "company": "\ud83d\udd25 Notion",
       "title": "Software Engineer \u2013 New Grad - AI",
       "location": "SF",
@@ -382,26 +482,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-19T16:32:40.776782",
-      "category": "software"
-    },
-    {
-      "company": "Markforged",
-      "title": "Software Engineer 1",
-      "location": "Waltham, MA",
-      "url": "https://job-boards.greenhouse.io/markforged/jobs/5802712004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-04-18T16:32:16.819441",
-      "category": "software"
-    },
-    {
-      "company": "Atos",
-      "title": "Full Stack Engineer 1",
-      "location": "Remote in UK",
-      "url": "https://jobs.atos.net/job/Remote-Home-Full-Stack-Engineer-1/1385135833/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-18T16:32:16.819441",
       "category": "software"
     }
   ]
