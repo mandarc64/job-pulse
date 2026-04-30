@@ -29,26 +29,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-24T16:49:05.871593",
       "category": "data"
-    },
-    {
-      "company": "University of Rochester",
-      "title": "Research Data Engineer 1",
-      "location": "Rochester, NY",
-      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/School-of-Medicine-and-Dentistry/Research-Data-Engineer-I_R266252?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-04-19T16:32:40.776782",
-      "category": "data"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Analyst NCG/Early Career",
-      "location": "Santa Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Analyst-NCG-Early-Career_R2618071?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-19T16:32:40.776782",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -64,6 +44,46 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Embedded Software Engineer \u2013 Entry Level",
+      "location": "Bloomington, MN",
+      "url": "https://careers-gdms.icims.com/jobs/72198/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-30T17:13:25.821485",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Test Solutions",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-30T17:13:25.821485",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Compiler Engineer \u2013 Backend-New College Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-30T17:13:25.821485",
+      "category": "software"
+    },
+    {
+      "company": "U.S. Venture",
+      "title": "Software Engineer I - IGEN \ud83c\uddfa\ud83c\uddf8",
+      "location": "Appleton, WI",
+      "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-I---IGEN_R7051?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-04-30T17:13:25.821485",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Junior Software Engineer",
@@ -472,16 +492,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-20T16:58:30.019596",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Space and RF Sensors",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite_01838274?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-19T16:32:40.776782",
       "category": "software"
     }
   ]
