@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Ekimetrics",
+      "title": "Junior Data Scientist & Marketing Effectiveness",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/ekimetrics/d9569ab0-8e3a-4a1d-b342-250a91e90348/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-02T16:39:27.026716",
+      "category": "data"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist New Grad \ud83c\udf93",
+      "location": "Austin, TXSanta Clara, CA",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-02T16:39:27.026716",
+      "category": "data"
+    },
+    {
       "company": "RTX",
       "title": "Software Data Engineer 1",
       "location": "Indianapolis, IN",
@@ -74,6 +94,36 @@
     }
   ],
   "software": [
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer New College Grad",
+      "location": "Austin, TXSanta Clara, CA",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-02T16:39:27.026716",
+      "category": "software"
+    },
+    {
+      "company": "Stewart",
+      "title": "Software Engineer 1",
+      "location": "Plymouth, MI",
+      "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-MI-Plymouth---40600-Ann-Arbor-Rd/Software-Engineer-I_JR107742?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-02T16:39:27.026716",
+      "category": "software"
+    },
+    {
+      "company": "CoStar Group",
+      "title": "Software Engineer 1 - C#/.NET/Database",
+      "location": "Irvine, CA",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-02T16:39:27.026716",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Software Engineer \u2013 Entry Level",
@@ -562,56 +612,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-22T16:52:45.022396",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Software Engineer",
-      "location": "Beavercreek, OH",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-21T16:53:27.036325",
-      "category": "software"
-    },
-    {
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineer 1",
-      "location": "Austin, TX",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I_JR104657?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-21T16:53:27.036325",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 with Test Equipment",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I-with-Test-Equipment_01838300?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-21T16:53:27.036325",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1 \ud83c\udf93",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R50810-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-21T16:53:27.036325",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Developer Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Software-Developer-Engineer-I---Onsite_01839113?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-21T16:53:27.036325",
       "category": "software"
     }
   ]
