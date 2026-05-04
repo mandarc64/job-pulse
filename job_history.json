@@ -95,6 +95,66 @@
   ],
   "software": [
     {
+      "company": "Ryder",
+      "title": "Backend Developer I",
+      "location": "Remote in USA (FL)",
+      "url": "https://ryder.wd5.myworkdayjobs.com/en-US/rydercareers/job/USA---Remote-FL/Backend-Developer-I_R170526?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
+      "company": "BAE Systems",
+      "title": "Entry Level Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "Totowa, NJ",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Raytheon RF Test Software Engineer \ud83c\uddfa\ud83c\uddf8",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/XMLNAME-2026-Fulltime----Raytheon-RF-Test-Software-Engineer---Onsite_01841906?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks \ud83c\uddfa\ud83c\uddf8",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/2274d8e3-af4a-4935-b065-f65622b5ea3f?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 ServiceNow",
+      "title": "Associate Software Engineer, Search Infrastructure - Moveworks \ud83c\uddfa\ud83c\uddf8",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/99c06c61-284f-4c2b-bd4d-1a7b53bf3fa4?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
+      "company": "AmTrust Financial",
+      "title": "Software Engineer 1",
+      "location": "Cleveland, OH",
+      "url": "https://careers-amtrustgroup.icims.com/jobs/20226/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-04T17:25:55.049310",
+      "category": "software"
+    },
+    {
       "company": "Applied Materials",
       "title": "Software Engineer New College Grad",
       "location": "Austin, TXSanta Clara, CA",
@@ -562,46 +622,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Military Avionics FMS",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Military-Avionics-FMS--Onsite-_01839874?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-23T17:13:26.536236",
-      "category": "software"
-    },
-    {
-      "company": "Alarm.com",
-      "title": "Software Engineer 1",
-      "location": "Lawrence, KS",
-      "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8490045002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-23T17:13:26.536236",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Raytheon Full Time Conversion Intern - Software Engineer I",
-      "location": "Aurora, CO",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/XMLNAME-2026-Raytheon-Full-Time-Conversion---Software-Engineer-I---Aurora--CO--Onsite-_01839787?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-23T17:13:26.536236",
-      "category": "software"
-    },
-    {
-      "company": "Gumloop",
-      "title": "Software Engineer",
-      "location": "San Francisco, CAVancouver, BC, CAN",
-      "url": "https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-23T17:13:26.536236",
       "category": "software"
     }
   ]
