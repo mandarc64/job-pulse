@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "AMERICAN SYSTEMS",
+      "title": "Data Engineer - Junior",
+      "location": "Quantico, VA",
+      "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "data"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Data Engineer 1",
+      "location": "United States",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Remote-_01842571?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "data"
+    },
+    {
       "company": "Ekimetrics",
       "title": "Junior Data Scientist & Marketing Effectiveness",
       "location": "London, UK",
@@ -59,16 +79,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-27T17:16:40.576120",
       "category": "data"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Data Engineer 1",
-      "location": "Santa Monica, CA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10147074?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -94,6 +104,46 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "software"
+    },
+    {
+      "company": "Zone 5 Technologies",
+      "title": "Embedded Software Engineer 1/2",
+      "location": "San Luis Obispo, CA",
+      "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1487454?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "software"
+    },
+    {
+      "company": "Compa",
+      "title": "Software Engineer New Grad",
+      "location": "Denver, CO",
+      "url": "https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-05T17:17:37.527238",
+      "category": "software"
+    },
     {
       "company": "Ryder",
       "title": "Backend Developer I",
@@ -522,106 +572,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-25T16:34:38.701471",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Software Engineer I - Military Avionics Flight Management Systems",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/New-Grad-2026-Full-Time---Software-Engineer---Military-Avionics-FMS_01840038?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Raytheon Full Time-Software Engineer 1",
-      "location": "Goleta, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01840483?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "TekSynap",
-      "title": "Software Engineer 1",
-      "location": "Washington, DC",
-      "url": "https://careers-teksynap.icims.com/jobs/9159/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MDOdenton, MD",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Fort-Meade/Software-Engineer-I_325298-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "Handshake",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "Julius AI",
-      "title": "Software Engineer \u2013 New Grad - Product",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Notion",
-      "title": "Software Engineer \u2013 New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "Flexport",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://boards.greenhouse.io/flexport/jobs/7839298?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1 Intern",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7576927003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
-      "category": "software"
-    },
-    {
-      "company": "Wonderschool",
-      "title": "Early Career Software Engineer - Applied AI",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-24T16:49:05.871593",
       "category": "software"
     }
   ]
