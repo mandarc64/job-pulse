@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "Canvas Worldwide",
+      "title": "Junior Data Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://jobs.lever.co/canvasww/c5b12129-db3f-44fb-8789-75ee7b0936c6/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "data"
+    },
+    {
+      "company": "Westinghouse Electric Company",
+      "title": "Data Scientist New Grad",
+      "location": "Cranberry Twp, PA",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Data-Scientist-New-Grad-Leadership-Program-NC/1389167200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "data"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Data Engineer 1 \ud83c\udf93",
+      "location": "Mt Laurel Township, NJ",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Engineer-I--US-_R_1487448?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "data"
+    },
+    {
       "company": "Marsh & McLennan",
       "title": "Entry Level Structured Credit Quantitative Analyst",
       "location": "London, UK",
@@ -79,16 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-04-28T17:42:45.431571",
       "category": "data"
-    },
-    {
-      "company": "General Dynamics Information Technology",
-      "title": "Data Engineer-Junior",
-      "location": "Honolulu, HI",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ218784-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-27T17:16:40.576120",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -114,6 +134,96 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Bloomington, MN",
+      "url": "https://careers-gdms.icims.com/jobs/72367/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Orlando, FL",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00182753-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Embedded Communications",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I---Embedded-Communications_01843677?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "The Federal Reserve System",
+      "title": "Federal Reserve Financial Services Software Engineer 1",
+      "location": "NYCMinneapolis, MNAtlanta, GA",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Federal-Reserve-Financial-Services-Software-Engineer-I_R-0000032219-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "Iridium Communications",
+      "title": "Software Engineer 1",
+      "location": "Reston, VAChandler, AZ",
+      "url": "https://careers-iridium.icims.com/jobs/4940/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "PTC",
+      "title": "Junior Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "Fullbay",
+      "title": "Software Engineer 1",
+      "location": "Phoenix, AZ",
+      "url": "https://fullbay.bamboohr.com/careers/235/?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Pinterest",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7872497&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-08T17:07:05.103475",
+      "category": "software"
+    },
     {
       "company": "KBR",
       "title": "Junior Gen AI Developer \ud83c\uddfa\ud83c\uddf8",
@@ -682,36 +792,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-28T17:42:45.431571",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fulton, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01840846?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-27T17:16:40.576120",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Austin, TXBurlington, VTAtlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202676259?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-27T17:16:40.576120",
-      "category": "software"
-    },
-    {
-      "company": "Mirage",
-      "title": "Software Engineer \u2013 Early Career",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-27T17:16:40.576120",
       "category": "software"
     }
   ]
