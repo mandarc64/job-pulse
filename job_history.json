@@ -99,19 +99,39 @@
       "days_ago": 0,
       "first_seen": "2026-05-01T16:50:42.102795",
       "category": "data"
-    },
-    {
-      "company": "Hammel Green And Abrahamson (HGA)",
-      "title": "Junior Data Scientist",
-      "location": "Madison, WIMilwaukee, WIMinneapolis, MN",
-      "url": "https://careers-hga.icims.com/jobs/3415/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-28T17:42:45.431571",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "\u21b3",
+      "title": "Machine Learning Engineer \u2013 Entry-Level / New Grad PhD - Offline Infrastructure \ud83c\udf93",
+      "location": "SF",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7906590&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "ai_ml"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Machine Learning Engineer New Grad - Offline Infrastructure \ud83c\udf93",
+      "location": "Bellevue, WA",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7906593&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "ai_ml"
+    },
+    {
+      "company": "Unity",
+      "title": "Machine Learning Engineer New Grad - Offline Infrastructure \ud83c\udf93",
+      "location": "Mountain View, CA",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7902260&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "ai_ml"
+    },
     {
       "company": "\ud83d\udd25 NVIDIA",
       "title": "Machine Learning Applications and Compiler Engineer New Grad \ud83c\udf93",
@@ -134,6 +154,36 @@
     }
   ],
   "software": [
+    {
+      "company": "Otis Worldwide",
+      "title": "Entry Level Software Engineer",
+      "location": "Farmington, CT",
+      "url": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Entry-Level-Software-Engineer_20156951?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I--Onsite-_01844319?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "software"
+    },
+    {
+      "company": "Medtronic",
+      "title": "Software Engineer 1",
+      "location": "Lafayette, CO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I_R65354-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-09T16:44:32.025319",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Software Engineer \u2013 Entry Level",
@@ -762,36 +812,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Notion",
-      "title": "Software Engineer \u2013 New Grad - AI",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-28T17:42:45.431571",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer \ud83c\uddfa\ud83c\uddf8",
-      "location": "Dahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160035?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-28T17:42:45.431571",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-28T17:42:45.431571",
       "category": "software"
     }
   ]
