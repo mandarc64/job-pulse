@@ -103,6 +103,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Klue",
+      "title": "Software Engineer 1 - Artificial Intelligence",
+      "location": "Toronto, ON, Canada",
+      "url": "https://jobs.ashbyhq.com/klue/ed50e681-1363-4141-ae60-bca17eba5f04/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-05-10T16:45:54.965412",
+      "category": "ai_ml"
+    },
+    {
       "company": "\u21b3",
       "title": "Machine Learning Engineer \u2013 Entry-Level / New Grad PhD - Offline Infrastructure \ud83c\udf93",
       "location": "SF",
@@ -154,6 +164,16 @@
     }
   ],
   "software": [
+    {
+      "company": "Nationwide",
+      "title": "Entry Level Software Engineer - Software Engineer - Java",
+      "location": "Des Moines, IAColumbus, OH",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-05-10T16:45:54.965412",
+      "category": "software"
+    },
     {
       "company": "Otis Worldwide",
       "title": "Entry Level Software Engineer",
@@ -712,106 +732,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-04-30T17:13:25.821485",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Junior Software Engineer",
-      "location": "Dedham, MA",
-      "url": "https://careers-gdms.icims.com/jobs/72233/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Embedded Software Engineer",
-      "location": "Fort Walton Beach, FL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Embedded Software Engineer",
-      "location": "Fort Walton Beach, FL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Entry-Level-Embedded-Software-Engineer_JR2026502637-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "Mixpanel",
-      "title": "Software Engineer \u2013 New Grad",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7773373?utm_source=Simplify&ref=Simplify",
-      "date_posted": "13d",
-      "days_ago": 13,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "Anduril",
-      "title": "Early Career Software Engineer",
-      "location": "Newport Beach, CA",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "6d",
-      "days_ago": 6,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Airbnb",
-      "title": "iOS Software Engineer \u2013 New Grad",
-      "location": "Seattle, WASF",
-      "url": "https://careers.airbnb.com/positions/7859317?gh_jid=7859317&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "GE Healthcare",
-      "title": "Software Engineer 1",
-      "location": "Orange, OH",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Snowflake",
-      "title": "Software Engineer \u2013 Entry Level - Engineering Infrastructure",
-      "location": "Toronto, ON, Canada",
-      "url": "https://jobs.ashbyhq.com/snowflake/a104fbc0-d07c-4974-aeeb-49aa56948fe7/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8367602002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Irvine, CA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202676423?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-29T17:21:48.286548",
       "category": "software"
     }
   ]
