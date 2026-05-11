@@ -103,6 +103,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Spotify",
+      "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-11T17:50:35.427189",
+      "category": "ai_ml"
+    },
+    {
       "company": "Klue",
       "title": "Software Engineer 1 - Artificial Intelligence",
       "location": "Toronto, ON, Canada",
@@ -164,6 +174,26 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Engineer-Simulation - Simulation",
+      "location": "Hazelwood, MO",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-11T17:50:35.427189",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer-Simulation - Simulation",
+      "location": "Hazelwood, MO",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-11T17:50:35.427189",
+      "category": "software"
+    },
     {
       "company": "Nationwide",
       "title": "Entry Level Software Engineer - Software Engineer - Java",
@@ -692,46 +722,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-01T16:50:42.102795",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Embedded Software Engineer \u2013 Entry Level",
-      "location": "Bloomington, MN",
-      "url": "https://careers-gdms.icims.com/jobs/72198/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-30T17:13:25.821485",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Test Solutions",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-30T17:13:25.821485",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Compiler Engineer \u2013 Backend-New College Grad",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-30T17:13:25.821485",
-      "category": "software"
-    },
-    {
-      "company": "U.S. Venture",
-      "title": "Software Engineer I - IGEN \ud83c\uddfa\ud83c\uddf8",
-      "location": "Appleton, WI",
-      "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-I---IGEN_R7051?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-04-30T17:13:25.821485",
       "category": "software"
     }
   ]
