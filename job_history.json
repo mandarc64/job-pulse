@@ -69,26 +69,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-05T17:17:37.527238",
       "category": "data"
-    },
-    {
-      "company": "Ekimetrics",
-      "title": "Junior Data Scientist & Marketing Effectiveness",
-      "location": "London, UK",
-      "url": "https://jobs.lever.co/ekimetrics/d9569ab0-8e3a-4a1d-b342-250a91e90348/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-02T16:39:27.026716",
-      "category": "data"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Scientist New Grad \ud83c\udf93",
-      "location": "Austin, TXSanta Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-02T16:39:27.026716",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -642,36 +622,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-04T17:25:55.049310",
-      "category": "software"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Software Engineer New College Grad",
-      "location": "Austin, TXSanta Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-02T16:39:27.026716",
-      "category": "software"
-    },
-    {
-      "company": "Stewart",
-      "title": "Software Engineer 1",
-      "location": "Plymouth, MI",
-      "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-MI-Plymouth---40600-Ann-Arbor-Rd/Software-Engineer-I_JR107742?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-02T16:39:27.026716",
-      "category": "software"
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Software Engineer 1 - C#/.NET/Database",
-      "location": "Irvine, CA",
-      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Apartmentscom---Software-Engineer-I--C--NET-Database-_R38698?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-02T16:39:27.026716",
       "category": "software"
     }
   ]
