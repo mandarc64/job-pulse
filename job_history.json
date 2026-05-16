@@ -109,26 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-06T17:25:45.921965",
       "category": "data"
-    },
-    {
-      "company": "AMERICAN SYSTEMS",
-      "title": "Data Engineer - Junior",
-      "location": "Quantico, VA",
-      "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
-      "category": "data"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Data Engineer 1",
-      "location": "United States",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Remote-_01842571?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -204,6 +184,16 @@
     }
   ],
   "software": [
+    {
+      "company": "Princeton University",
+      "title": "Research Software Engineer 1",
+      "location": "Princeton, NJ",
+      "url": "https://main-princeton.icims.com/jobs/21827/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-16T16:52:12.026646",
+      "category": "software"
+    },
     {
       "company": "Integrity",
       "title": "Software Engineer 1",
@@ -762,46 +752,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Huntsville, AL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
-      "category": "software"
-    },
-    {
-      "company": "Zone 5 Technologies",
-      "title": "Embedded Software Engineer 1/2",
-      "location": "San Luis Obispo, CA",
-      "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1487454?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
-      "category": "software"
-    },
-    {
-      "company": "Compa",
-      "title": "Software Engineer New Grad",
-      "location": "Denver, CO",
-      "url": "https://jobs.ashbyhq.com/compa/ce7b36cc-3517-46c0-98fe-99924ab400da/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-05T17:17:37.527238",
       "category": "software"
     }
   ]
