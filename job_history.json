@@ -99,16 +99,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-08T17:07:05.103475",
       "category": "data"
-    },
-    {
-      "company": "Marsh & McLennan",
-      "title": "Entry Level Structured Credit Quantitative Analyst",
-      "location": "London, UK",
-      "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/London---Tower-Place-West/Structured-Credit-Quantitative-Analyst--Entry-Graduate-level-considered-_R_346873?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -171,19 +161,19 @@
       "days_ago": 0,
       "first_seen": "2026-05-09T16:44:32.025319",
       "category": "ai_ml"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Machine Learning Applications and Compiler Engineer New Grad \ud83c\udf93",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "CACI",
+      "title": "Junior C# Software Engineer",
+      "location": "Bethesda, MD",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_324627?utm_source=Simplify&ref=Simplify",
+      "date_posted": "8d",
+      "days_ago": 8,
+      "first_seen": "2026-05-17T16:51:22.089177",
+      "category": "software"
+    },
     {
       "company": "Princeton University",
       "title": "Research Software Engineer 1",
@@ -672,86 +662,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Embedded Software Developer",
-      "location": "Huntsville, AL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Embedded-Software-Developer_JR2026503868?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Developer",
-      "location": "Huntsville, AL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Entry-Level-Software-Developer_JR2026503863?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Developer",
-      "location": "Huntsville, AL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-Software-Developer_JR2026503863-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Embedded Software Developer",
-      "location": "Huntsville, AL",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Entry-Level-Embedded-Software-Developer_JR2026503868-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "McDonald's",
-      "title": "Software Engineer 1",
-      "location": "London, UK",
-      "url": "https://jobs.mcdonalds.com/job/London-Software-Engineer-I-N2-8AW/1388162600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "Genuine Parts Company",
-      "title": "Software Engineer 1",
-      "location": "Birmingham, AL",
-      "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000012107-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Austin, TX",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202676821?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
-      "category": "software"
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Junior AI/ML Software Engineer",
-      "location": "Remote in USA",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Junior-AI-ML-Software-Engineer_39068-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-06T17:25:45.921965",
       "category": "software"
     }
   ]
