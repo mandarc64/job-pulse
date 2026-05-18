@@ -103,6 +103,16 @@
   ],
   "ai_ml": [
     {
+      "company": "WeRide",
+      "title": "New Grads - Software Engineer - Computer Vision",
+      "location": "San Jose, CA",
+      "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-05-18T17:59:12.393484",
+      "category": "ai_ml"
+    },
+    {
       "company": "Sompo International Holdings",
       "title": "Machine Learning Engineer 1",
       "location": "Conshohocken, PA",
@@ -164,6 +174,46 @@
     }
   ],
   "software": [
+    {
+      "company": "WeRide",
+      "title": "New Grads - General Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-05-18T17:59:12.393484",
+      "category": "software"
+    },
+    {
+      "company": "WeRide",
+      "title": "New Grads 2026 - Software Engineer - Algorithm",
+      "location": "San Jose, CA",
+      "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-05-18T17:59:12.393484",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Engineer",
+      "location": "Fredericksburg, VADahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-18T17:59:12.393484",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Junior Software Engineer for Naval Research Technology",
+      "location": "Fredericksburg, VADahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0161491-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-18T17:59:12.393484",
+      "category": "software"
+    },
     {
       "company": "CACI",
       "title": "Junior C# Software Engineer",
@@ -582,86 +632,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-08T17:07:05.103475",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Gen AI Developer \ud83c\uddfa\ud83c\uddf8",
-      "location": "El Segundo, CA",
-      "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/El-Segundo-California/Junior-Gen-AI-Developer_R2123034?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Software Engineer",
-      "location": "Chantilly, VA",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Software-Engineer--Junior_R2123242?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "State Street",
-      "title": "Software Engineer 1",
-      "location": "Burlington, MA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I--Officer_R-789697?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1 - Host/Mainframe",
-      "location": "Toronto, ON, CanadaLondon, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Host-Mainframe-_R_1485279?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "Glean",
-      "title": "Software Engineer New Grad",
-      "location": "California",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite) \ud83c\uddfa\ud83c\uddf8",
-      "location": "Huntsville, AL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "General Matter",
-      "title": "Software Engineer (New Grad) \ud83c\uddfa\ud83c\uddf8",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5157066008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
-      "category": "software"
-    },
-    {
-      "company": "Booz Allen",
-      "title": "Full Stack Developer, Junior \ud83d\udec2",
-      "location": "McLean, VA",
-      "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-07T17:43:07.581196",
       "category": "software"
     }
   ]
