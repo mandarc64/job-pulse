@@ -93,6 +93,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Unity",
+      "title": "Machine Learning Engineer New Grad - Vector Core Modeling",
+      "location": "Mountain View, CA",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905751&utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "ai_ml"
+    },
+    {
       "company": "\u21b3",
       "title": "Software Engineer New Grad - Machine Learning Operations",
       "location": "Burlington, MA",
@@ -141,39 +151,139 @@
       "days_ago": 5,
       "first_seen": "2026-05-10T16:45:54.965412",
       "category": "ai_ml"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Machine Learning Engineer \u2013 Entry-Level / New Grad PhD - Offline Infrastructure \ud83c\udf93",
-      "location": "SF",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7906590&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
-      "category": "ai_ml"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Machine Learning Engineer New Grad - Offline Infrastructure \ud83c\udf93",
-      "location": "Bellevue, WA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7906593&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
-      "category": "ai_ml"
-    },
-    {
-      "company": "Unity",
-      "title": "Machine Learning Engineer New Grad - Offline Infrastructure \ud83c\udf93",
-      "location": "Mountain View, CA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7902260&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "AI Software Engineer New Grad - Kernel Libraries \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Space and RF Sensors",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I--Space-and-RF-Sensors----Onsite_01846945?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Entry Level Software Engineer",
+      "location": "Brooklyn, OH",
+      "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "BCBST",
+      "title": "Associate Software Engineer 1",
+      "location": "Remote in USAChattanooga, TN",
+      "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-49305?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Symbotic",
+      "title": "Software Engineer New Grad",
+      "location": "Burlington, MA",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Captivation",
+      "title": "Software Engineer 0 - Java",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5225203008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer New Grad \ud83c\udf93",
+      "location": "Remote in USASanta Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Latitude AI",
+      "title": "Software Engineer 1",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/latitude/jobs/7942554?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Toast",
+      "title": "Software Engineer 1 - Fullstack - Employee Development",
+      "location": "Canada",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7895601&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Dow Jones",
+      "title": "Software Engineer 1 - AI & ML Foundation Technology",
+      "location": "NYC",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Software-Engineer-I---AI---ML-Foundation-Technology_Job_Req_53097?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "location": "Wright-Patterson AFB, OH",
+      "url": "https://jobs.jobvite.com/altamiracorps/job/oaYaAfwC?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1 - Java/Golang",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Golang-_R_1489393?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-20T18:11:38.250478",
+      "category": "software"
+    },
     {
       "company": "Barrios",
       "title": "New Grad Position",
@@ -612,36 +722,6 @@
       "date_posted": "2d",
       "days_ago": 2,
       "first_seen": "2026-05-10T16:45:54.965412",
-      "category": "software"
-    },
-    {
-      "company": "Otis Worldwide",
-      "title": "Entry Level Software Engineer",
-      "location": "Farmington, CT",
-      "url": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Entry-Level-Software-Engineer_20156951?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I--Onsite-_01844319?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
-      "category": "software"
-    },
-    {
-      "company": "Medtronic",
-      "title": "Software Engineer 1",
-      "location": "Lafayette, CO",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I_R65354-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-09T16:44:32.025319",
       "category": "software"
     }
   ]
