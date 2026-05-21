@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "University of Rochester",
+      "title": "Research Data Engineer 1",
+      "location": "Rochester, NY",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Research-Data-Engineer-I_R271557?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-21T17:52:12.697471",
+      "category": "data"
+    },
+    {
       "company": "BCBST",
       "title": "Associate Data Engineer 1",
       "location": "Remote in USAChattanooga, TN",
@@ -141,19 +151,19 @@
       "days_ago": 0,
       "first_seen": "2026-05-11T17:50:35.427189",
       "category": "ai_ml"
-    },
-    {
-      "company": "Klue",
-      "title": "Software Engineer 1 - Artificial Intelligence",
-      "location": "Toronto, ON, Canada",
-      "url": "https://jobs.ashbyhq.com/klue/ed50e681-1363-4141-ae60-bca17eba5f04/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "5d",
-      "days_ago": 5,
-      "first_seen": "2026-05-10T16:45:54.965412",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Julius AI",
+      "title": "Refresh Software Engineer New Grad - Product",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-21T17:52:12.697471",
+      "category": "software"
+    },
     {
       "company": "\ud83d\udd25 NVIDIA",
       "title": "AI Software Engineer New Grad - Kernel Libraries \ud83c\udf93",
@@ -712,16 +722,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-11T17:50:35.427189",
-      "category": "software"
-    },
-    {
-      "company": "Nationwide",
-      "title": "Entry Level Software Engineer - Software Engineer - Java",
-      "location": "Des Moines, IAColumbus, OH",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-05-10T16:45:54.965412",
       "category": "software"
     }
   ]
