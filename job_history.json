@@ -141,19 +141,19 @@
       "days_ago": 0,
       "first_seen": "2026-05-14T17:44:55.412344",
       "category": "ai_ml"
-    },
-    {
-      "company": "Spotify",
-      "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-11T17:50:35.427189",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time-Embedded-Software-Engineer-I_01847120?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-22T17:46:47.816715",
+      "category": "software"
+    },
     {
       "company": "Julius AI",
       "title": "Refresh Software Engineer New Grad - Product",
@@ -702,26 +702,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer-Simulation - Simulation",
-      "location": "Hazelwood, MO",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-11T17:50:35.427189",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer-Simulation - Simulation",
-      "location": "Hazelwood, MO",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-11T17:50:35.427189",
       "category": "software"
     }
   ]
