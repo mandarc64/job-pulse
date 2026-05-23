@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "StoneX Group",
+      "title": "Junior Data Analyst",
+      "location": "Birmingham, AL",
+      "url": "https://careers-stonex.icims.com/jobs/15180/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-05-23T16:53:44.982520",
+      "category": "data"
+    },
+    {
       "company": "University of Rochester",
       "title": "Research Data Engineer 1",
       "location": "Rochester, NY",
@@ -89,19 +99,19 @@
       "days_ago": 0,
       "first_seen": "2026-05-14T17:44:55.412344",
       "category": "data"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Data Engineer 1",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Onsite-_01844461?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Unity",
+      "title": "Machine Learning Engineer New Grad - User Understanding",
+      "location": "Mountain View, CA",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7947300&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-23T16:53:44.982520",
+      "category": "ai_ml"
+    },
     {
       "company": "Unity",
       "title": "Machine Learning Engineer New Grad - Vector Core Modeling",
@@ -144,6 +154,26 @@
     }
   ],
   "software": [
+    {
+      "company": "PagerDuty",
+      "title": "Software Engineer 1 - Core Product - Notification Platform Team",
+      "location": "Toronto, ON, Canada",
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6004772004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-23T16:53:44.982520",
+      "category": "software"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Software Engineer 1",
+      "location": "San Diego, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-23T16:53:44.982520",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Embedded Software Engineer 1",
@@ -622,86 +652,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Odenton, MD",
-      "url": "https://jobs.lever.co/wyetechllc/0829b20b-e835-4188-8147-4c233a7911c9/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/72530/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "System Integration Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/System-Integration-Software-Engineer-I--Onsite-_01822583-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Systems Software Engineer New Grad \ud83c\udf93",
-      "location": "Hillsboro, OR",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "Travelers",
-      "title": "Software Engineer 1 - Investments Technology",
-      "location": "Hartford, CTSt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Investments-Technology_R-50406?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Concord, MATewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844143?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7624168003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-12T17:54:28.265598",
       "category": "software"
     }
   ]
