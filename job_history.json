@@ -49,56 +49,6 @@
       "days_ago": 90,
       "first_seen": "2026-05-15T17:23:15.198463",
       "category": "data"
-    },
-    {
-      "company": "Spotify",
-      "title": "Data Engineer 1 - Revenue",
-      "location": "London, UK",
-      "url": "https://jobs.lever.co/spotify/5d36b6f4-e89d-4a01-985c-59a184080440/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "data"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Data Engineer 1",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Engineer-I_R113132?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "data"
-    },
-    {
-      "company": "RELX",
-      "title": "Data Engineer 1",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R113132-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "data"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Engineer New Grad",
-      "location": "Austin, TX",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "data"
-    },
-    {
-      "company": "ClimateAI",
-      "title": "Data Engineer 1",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/climateai/jobs/5137357007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -140,16 +90,6 @@
       "date_posted": "3mo",
       "days_ago": 90,
       "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "ai_ml"
-    },
-    {
-      "company": "Sompo International Holdings",
-      "title": "Machine Learning Engineer 1",
-      "location": "Conshohocken, PA",
-      "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Conshohocken-Pennsylvania/Machine-Learning-Engineer-I_R4012?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
       "category": "ai_ml"
     }
   ],
@@ -562,106 +502,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Software Engineer New Grad - Security",
-      "location": "Atlanta, GA",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Medtronic",
-      "title": "Software Engineer 1 - Cardiac Rhythm Management",
-      "location": "Minneapolis, MN",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R63656?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Iridium Communications",
-      "title": "Software Engineer 1 - Test Automation Developer",
-      "location": "Chandler, AZ",
-      "url": "https://careers-iridium.icims.com/jobs/4964/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "TSC",
-      "title": "Software Engineer 1",
-      "location": "Silver Spring, MD",
-      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-I_R54764?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Bremerton, WA",
-      "url": "https://careers-gdms.icims.com/jobs/72599/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R54764-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8367555002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Instabase",
-      "title": "Full-stack Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/instabase/jobs/8548929002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WASF",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8548960002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-14T17:44:55.412344",
       "category": "software"
     }
   ]
