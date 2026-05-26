@@ -39,16 +39,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-19T17:59:05.665378",
       "category": "data"
-    },
-    {
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Strategy Developer New Grad",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -432,76 +422,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-16T16:52:12.026646",
-      "category": "software"
-    },
-    {
-      "company": "Integrity",
-      "title": "Software Engineer 1",
-      "location": "Grimes, IA",
-      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "Genuine Parts Company",
-      "title": "Software Engineer 1",
-      "location": "Birmingham, AL",
-      "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000010997?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Manassas, VA",
-      "url": "https://careers-gdms.icims.com/jobs/72627/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Entry Level Software Engineer",
-      "location": "Draper, UT",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "Anduril",
-      "title": "Early Career Software Engineer",
-      "location": "Seattle, WA",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "DAT Freight & Analytics",
-      "title": "Software Engineer 1",
-      "location": "Denver, CO",
-      "url": "https://careers.dat.com/jobs/5990621004?gh_jid=5990621004&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1390981800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-15T17:23:15.198463",
       "category": "software"
     }
   ]
