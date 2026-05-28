@@ -115,6 +115,56 @@
   ],
   "software": [
     {
+      "company": "General Motors",
+      "title": "Early Career Software Developer - Brake Controls and Diagnostics",
+      "location": "Markham, ON, CanadaOshawa, ON, Canada",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Brake-Controls-and-Diagnostics_JR-202611503?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-28T18:31:51.066094",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Receiver - Exciter",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-28T18:31:51.066094",
+      "category": "software"
+    },
+    {
+      "company": "Dexcom",
+      "title": "IOS/Andriod Engineer 1",
+      "location": "Portland, OR",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Portland-Oregon/iOS-Andriod-Engineer-1_JR118876?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-28T18:31:51.066094",
+      "category": "software"
+    },
+    {
+      "company": "Rocket Lab USA",
+      "title": "Flight Software Engineer 1",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7734583003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-28T18:31:51.066094",
+      "category": "software"
+    },
+    {
+      "company": "Medtronic",
+      "title": "Cloud Software Engineer 1 - Neuro",
+      "location": "Brooklyn Park, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Cloud-Software-Engineer-I---Neuro---Rice-Creek-Fridley--MN_R66348?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-05-28T18:31:51.066094",
+      "category": "software"
+    },
+    {
       "company": "Sigma Computing",
       "title": "Software Engineer New Grad",
       "location": "SFNYC",
@@ -532,16 +582,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Junior C# Software Engineer",
-      "location": "Bethesda, MD",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_324627?utm_source=Simplify&ref=Simplify",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-05-17T16:51:22.089177",
       "category": "software"
     }
   ]
