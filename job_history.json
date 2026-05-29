@@ -101,16 +101,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-19T17:59:05.665378",
       "category": "ai_ml"
-    },
-    {
-      "company": "WeRide",
-      "title": "New Grads - Software Engineer - Computer Vision",
-      "location": "San Jose, CA",
-      "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "ai_ml"
     }
   ],
   "software": [
@@ -542,46 +532,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "WeRide",
-      "title": "New Grads - General Software Engineer",
-      "location": "San Jose, CA",
-      "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "software"
-    },
-    {
-      "company": "WeRide",
-      "title": "New Grads 2026 - Software Engineer - Algorithm",
-      "location": "San Jose, CA",
-      "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-18T17:59:12.393484",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Junior Software Engineer for Naval Research Technology",
-      "location": "Fredericksburg, VADahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0161491-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-18T17:59:12.393484",
       "category": "software"
     }
   ]
