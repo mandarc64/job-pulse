@@ -49,26 +49,6 @@
       "days_ago": 0,
       "first_seen": "2026-05-21T17:52:12.697471",
       "category": "data"
-    },
-    {
-      "company": "BCBST",
-      "title": "Associate Data Engineer 1",
-      "location": "Remote in USAChattanooga, TN",
-      "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Data-Engineer-1_R-49500?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "data"
-    },
-    {
-      "company": "General Dynamics Information Technology",
-      "title": "Data Engineer-Junior",
-      "location": "Honolulu, HI",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Data-Engineer-Junior_RQ220315-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -90,16 +70,6 @@
       "date_posted": "6d",
       "days_ago": 6,
       "first_seen": "2026-05-20T18:11:38.250478",
-      "category": "ai_ml"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Machine Learning Operations",
-      "location": "Burlington, MA",
-      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer---ML-Ops_R6028?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
       "category": "ai_ml"
     }
   ],
@@ -432,106 +402,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-20T18:11:38.250478",
-      "category": "software"
-    },
-    {
-      "company": "Barrios",
-      "title": "New Grad Position",
-      "location": "US TX Houston",
-      "url": "https://careers-barrios.icims.com/jobs/2793/lunar-terrain-vehicle---junior-software-engineer/job",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Smith+Nephew",
-      "title": "Embedded Software Engineer 1",
-      "location": "Andover, MA",
-      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Embedded-Software-Engineer-I_R90678?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Software Engineer 1 - Instrument Software",
-      "location": "Cambridge, MA",
-      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4186444009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Numerical Analysis - C++ \ud83c\udf93",
-      "location": "Boston, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BOSTON-02/Software-Engineer_R52506?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer New Grad - Numerical Analysis - C++ \ud83c\udf93",
-      "location": "Boston, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-02/Software-Engineer_R52506-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Draper, UT",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I---20148_R202677135?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Symbotic",
-      "title": "3D Graphics Software Engineer New Grad",
-      "location": "Milpitas, CA",
-      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/New-Grad--3D-Graphics-Software-Engineer_R6845?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer \u2013 New College Grad - Numerical Analysis - C++ \ud83c\udf93",
-      "location": "Boston, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/BOSTON-02/Software-Engineer--Numerical-Analysis--C----Optimization--Mathematics----New-College-Grad_R52506-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer New Grad - Numerical Analysis - C++ \ud83c\udf93",
-      "location": "Boston, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer--Numerical-Analysis--C----Optimization--Mathematics----New-College-Grad_R52506?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
-      "category": "software"
-    },
-    {
-      "company": "Halliburton",
-      "title": "Software Engineer Early Career",
-      "location": "Houston, TX",
-      "url": "https://jobs.halliburton.com/job/Houston-a_-Software-Engineer-Early-Career-Landmark-TX-77032/1392092600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-19T17:59:05.665378",
       "category": "software"
     }
   ]
