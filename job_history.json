@@ -39,16 +39,6 @@
       "days_ago": 1,
       "first_seen": "2026-05-23T16:53:44.982520",
       "category": "data"
-    },
-    {
-      "company": "University of Rochester",
-      "title": "Research Data Engineer 1",
-      "location": "Rochester, NY",
-      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Research-Data-Engineer-I_R271557?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-21T17:52:12.697471",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -64,6 +54,56 @@
     }
   ],
   "software": [
+    {
+      "company": "General Motors",
+      "title": "Software Developer \u2013 Early Career",
+      "location": "Markham, ON, CanadaOshawa, ON, Canada",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896?utm_source=Simplify&ref=Simplify",
+      "date_posted": "16d",
+      "days_ago": 16,
+      "first_seen": "2026-06-01T20:12:31.856297",
+      "category": "software"
+    },
+    {
+      "company": "Ciena",
+      "title": "Platform Software Developer New Grad",
+      "location": "Atlanta, GA",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-06-01T20:12:31.856297",
+      "category": "software"
+    },
+    {
+      "company": "General Motors",
+      "title": "Software Developer \u2013 Early Career",
+      "location": "Markham, ON, Canada",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755?utm_source=Simplify&ref=Simplify",
+      "date_posted": "16d",
+      "days_ago": 16,
+      "first_seen": "2026-06-01T20:12:31.856297",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Concord, MATewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01848697?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-06-01T20:12:31.856297",
+      "category": "software"
+    },
+    {
+      "company": "Travelers",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "location": "4 locationsSparks, MDHartford, CTAtlanta, GASt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Personal-Insurance--Typescript--NodeJs--C---AI-_R-50807?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-01T20:12:31.856297",
+      "category": "software"
+    },
     {
       "company": "General Motors",
       "title": "Early Career Software Developer - Brake Controls and Diagnostics",
@@ -252,16 +292,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-22T17:46:47.816715",
-      "category": "software"
-    },
-    {
-      "company": "Julius AI",
-      "title": "Refresh Software Engineer New Grad - Product",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-21T17:52:12.697471",
       "category": "software"
     }
   ]
