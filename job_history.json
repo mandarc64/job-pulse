@@ -55,6 +55,56 @@
   ],
   "software": [
     {
+      "company": "Snap Finance",
+      "title": "Software Engineer 1",
+      "location": "Arizona",
+      "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Sr-Software-Engineer---Backend_R-2778?utm_source=Simplify&ref=Simplify",
+      "date_posted": "17d",
+      "days_ago": 17,
+      "first_seen": "2026-06-02T19:37:20.526241",
+      "category": "software"
+    },
+    {
+      "company": "Wyetech",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "url": "https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-02T19:37:20.526241",
+      "category": "software"
+    },
+    {
+      "company": "mthree",
+      "title": "Junior Software Developer",
+      "location": "London, UKChristchurch, UKGlasgow, UK",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4654059006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-02T19:37:20.526241",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-02T19:37:20.526241",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1 - Java/Python/Golang",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Python-Golang-_R_1485363?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-02T19:37:20.526241",
+      "category": "software"
+    },
+    {
       "company": "General Motors",
       "title": "Software Developer \u2013 Early Career",
       "location": "Markham, ON, CanadaOshawa, ON, Canada",
@@ -282,16 +332,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-23T16:53:44.982520",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Embedded Software Engineer 1",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Raytheon-Full-Time-Embedded-Software-Engineer-I_01847120?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-22T17:46:47.816715",
       "category": "software"
     }
   ]
