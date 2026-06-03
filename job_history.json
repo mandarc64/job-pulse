@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "TransMarket Group",
+      "title": "Junior Quantitative Trader",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007?gh_jid=5151574007&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "data"
+    },
+    {
+      "company": "BCBST",
+      "title": "Associate Data Engineer 1",
+      "location": "Chattanooga, TN",
+      "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Associate-Data-Engineer-I_R-49848?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "data"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Data Engineer 1 - Mainframe",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I--Mainframe-_R_1491772?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "data"
+    },
+    {
       "company": "Warner Bros.",
       "title": "Data Engineer 1 - CNN Digital Products and Services",
       "location": "NYCAtlanta, GA",
@@ -29,31 +59,70 @@
       "days_ago": 0,
       "first_seen": "2026-05-27T18:21:22.233471",
       "category": "data"
+    }
+  ],
+  "ai_ml": [],
+  "software": [
+    {
+      "company": "Epic Kids",
+      "title": "Junior Software Engineer - Full-Stack",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/epickids/jobs/7751646003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
     },
     {
-      "company": "StoneX Group",
-      "title": "Junior Data Analyst",
-      "location": "Birmingham, AL",
-      "url": "https://careers-stonex.icims.com/jobs/15180/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-05-23T16:53:44.982520",
-      "category": "data"
-    }
-  ],
-  "ai_ml": [
-    {
-      "company": "Unity",
-      "title": "Machine Learning Engineer New Grad - User Understanding",
-      "location": "Mountain View, CA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7947300&utm_source=Simplify&ref=Simplify",
+      "company": "Motorola",
+      "title": "Junior Backend Engineer",
+      "location": "Edinburgh, UK",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538?utm_source=Simplify&ref=Simplify",
       "date_posted": "0d",
       "days_ago": 0,
-      "first_seen": "2026-05-23T16:53:44.982520",
-      "category": "ai_ml"
-    }
-  ],
-  "software": [
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Arlington, VAAlexandria, VA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Junior-Software-Engineer_R-00184572?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 - QA",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202676249?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1 - Reconciliations",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Reconciliations_R_1492243?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-03T19:43:31.854944",
+      "category": "software"
+    },
     {
       "company": "Snap Finance",
       "title": "Software Engineer 1",
@@ -312,26 +381,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-05-24T16:54:19.345922",
-      "category": "software"
-    },
-    {
-      "company": "PagerDuty",
-      "title": "Software Engineer 1 - Core Product - Notification Platform Team",
-      "location": "Toronto, ON, Canada",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6004772004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-23T16:53:44.982520",
-      "category": "software"
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Software Engineer 1",
-      "location": "San Diego, CA",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-05-23T16:53:44.982520",
       "category": "software"
     }
   ]
