@@ -83,6 +83,16 @@
   ],
   "ai_ml": [
     {
+      "company": "PROS Holdings, Inc.",
+      "title": "Machine Learning Engineer 1",
+      "location": "Bangor, ME",
+      "url": "https://pros.wd5.myworkdayjobs.com/pros_careers/job/BGR-Sofia-Hybrid/Machine-Learning-Engineer-I_R3566?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "ai_ml"
+    },
+    {
       "company": "TD Bank",
       "title": "Software Engineer 1 - Artificial Intelligence",
       "location": "Toronto, ON, Canada",
@@ -94,6 +104,86 @@
     }
   ],
   "software": [
+    {
+      "company": "Cox",
+      "title": "Entry Level Software Engineer",
+      "location": "Austin, TX",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Entry-Level-Software-Engineer---Austin--TX_R202678580?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "Truist Bank",
+      "title": "Java Software Engineer 1 - Full-Stack - Financial Crimes",
+      "location": "Raleigh, NC",
+      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Java-Software-Engineer-I---Full-Stack----Financial-Crimes_R0115229?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer",
+      "location": "Tukwila, WA",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Entry-Level-Software-Engineer_JR2026508309?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "The Coca-Cola Company",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-142228?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer",
+      "location": "Tukwila, WA",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Entry-Level-Software-Engineer_JR2026508309-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Tucson--AZ--Hybrid-_01848449?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer 1",
+      "location": "Cardiff, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
+    {
+      "company": "RELX",
+      "title": "Software Engineer 1",
+      "location": "Cardiff, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Cardiff/Software-Engineer-I_R112653-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-11T18:43:07.897744",
+      "category": "software"
+    },
     {
       "company": "Northrop Grumman",
       "title": "Software Engineer 1/2",
