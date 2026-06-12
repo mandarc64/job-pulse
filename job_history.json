@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Bonterra",
+      "title": "Data Engineer 1 - Data Services",
+      "location": "Remote in USA",
+      "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Data-Engineer-1--Data-Services_R2026-0253?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "data"
+    },
+    {
+      "company": "University of Texas at Austin",
+      "title": "Data Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "data"
+    },
+    {
       "company": "Cox",
       "title": "Entry Level Data Engineer",
       "location": "Atlanta, GA",
@@ -83,6 +103,16 @@
   ],
   "ai_ml": [
     {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Research Scientist New Grad - Efficient Deep Learning \ud83c\udf93",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "ai_ml"
+    },
+    {
       "company": "PROS Holdings, Inc.",
       "title": "Machine Learning Engineer 1",
       "location": "Bangor, ME",
@@ -104,6 +134,66 @@
     }
   ],
   "software": [
+    {
+      "company": "JustAnswer",
+      "title": "New Grad Position",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/justanswer/jobs/8587759002",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer \u2013 Entry Level",
+      "location": "Whitsett, NC",
+      "url": "https://careers-gdms.icims.com/jobs/73056/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Engineer",
+      "location": "Oklahoma City, OK",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
+    {
+      "company": "The Boeing Company",
+      "title": "Entry Level Software Engineer",
+      "location": "Oklahoma City, OK",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
+    {
+      "company": "LivaNova",
+      "title": "Software Engineer 1",
+      "location": "Webster, TX",
+      "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Engineer-I_JR-14571?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-12T18:01:02.517548",
+      "category": "software"
+    },
     {
       "company": "Cox",
       "title": "Entry Level Software Engineer",
@@ -612,56 +702,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-02T19:37:20.526241",
-      "category": "software"
-    },
-    {
-      "company": "General Motors",
-      "title": "Software Developer \u2013 Early Career",
-      "location": "Markham, ON, CanadaOshawa, ON, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896?utm_source=Simplify&ref=Simplify",
-      "date_posted": "16d",
-      "days_ago": 16,
-      "first_seen": "2026-06-01T20:12:31.856297",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Platform Software Developer New Grad",
-      "location": "Atlanta, GA",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-06-01T20:12:31.856297",
-      "category": "software"
-    },
-    {
-      "company": "General Motors",
-      "title": "Software Developer \u2013 Early Career",
-      "location": "Markham, ON, Canada",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755?utm_source=Simplify&ref=Simplify",
-      "date_posted": "16d",
-      "days_ago": 16,
-      "first_seen": "2026-06-01T20:12:31.856297",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Concord, MATewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01848697?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-06-01T20:12:31.856297",
-      "category": "software"
-    },
-    {
-      "company": "Travelers",
-      "title": "Software Engineer 1 - Multiple Teams",
-      "location": "4 locationsSparks, MDHartford, CTAtlanta, GASt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Personal-Insurance--Typescript--NodeJs--C---AI-_R-50807?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-01T20:12:31.856297",
       "category": "software"
     }
   ]
