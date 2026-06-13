@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "\ud83d\udd25 Meta",
+      "title": "Data Engineer \u2013 University Grad - Product Analytics",
+      "location": "Menlo Park, CANYCBellevue, WA",
+      "url": "https://www.metacareers.com/jobs/1468691051611430?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-13T17:16:11.588032",
+      "category": "data"
+    },
+    {
       "company": "Bonterra",
       "title": "Data Engineer 1 - Data Services",
       "location": "Remote in USA",
@@ -134,6 +144,26 @@
     }
   ],
   "software": [
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer 1",
+      "location": "Colorado",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Colorado/Software-Engineer-I_R114780?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-13T17:16:11.588032",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-13T17:16:11.588032",
+      "category": "software"
+    },
     {
       "company": "JustAnswer",
       "title": "New Grad Position",
@@ -652,56 +682,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-03T19:43:31.854944",
-      "category": "software"
-    },
-    {
-      "company": "Snap Finance",
-      "title": "Software Engineer 1",
-      "location": "Arizona",
-      "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Sr-Software-Engineer---Backend_R-2778?utm_source=Simplify&ref=Simplify",
-      "date_posted": "17d",
-      "days_ago": 17,
-      "first_seen": "2026-06-02T19:37:20.526241",
-      "category": "software"
-    },
-    {
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "url": "https://jobs.lever.co/wyetechllc/e9ee766a-35f4-44a0-80b3-122a74ea677d/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-02T19:37:20.526241",
-      "category": "software"
-    },
-    {
-      "company": "mthree",
-      "title": "Junior Software Developer",
-      "location": "London, UKChristchurch, UKGlasgow, UK",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4654059006?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-02T19:37:20.526241",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01849599?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-02T19:37:20.526241",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1 - Java/Python/Golang",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Python-Golang-_R_1485363?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-02T19:37:20.526241",
       "category": "software"
     }
   ]
