@@ -69,16 +69,6 @@
       "days_ago": 0,
       "first_seen": "2026-06-05T17:49:03.118039",
       "category": "data"
-    },
-    {
-      "company": "Arkansas Center for Data Sciences",
-      "title": "New Grad Position",
-      "location": "North Little Rock, AR",
-      "url": "https://jobs.lever.co/acds/158471e5-34e2-45c5-9ef6-70039aa69179/apply",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -100,16 +90,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-11T18:43:07.897744",
-      "category": "ai_ml"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1 - Artificial Intelligence",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---AI_R_1492595?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
       "category": "ai_ml"
     }
   ],
@@ -502,96 +482,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics UK",
-      "title": "Junior Software Engineering Developer New Grad",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://jobs.smartrecruiters.com/GDMSI/744000130212536?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "Toyota Connected",
-      "title": "Entry Level Software Engineer",
-      "location": "Plano, TX",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8577877002&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Salesforce",
-      "title": "Software Engineer 1 - Service Network - Slack",
-      "location": "Seattle, WASF",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer-I--Service-Network---Slack_JR342034-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Software Engineer New Grad - Hardware Tools and Methodology \ud83c\udf93",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Slack",
-      "title": "Software Engineer 1 - Service Network - Slack",
-      "location": "Seattle, WASF",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/Washington---Seattle/Software-Engineer-I--Service-Network---Slack_JR342034?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/72585/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Frontend Software Engineer",
-      "location": "Ohio",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Junior-Frontend-Software-Engineer_R2124618?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "Visionist",
-      "title": "Junior Software Engineer",
-      "location": "Laurel, MD",
-      "url": "https://jobs.jobvite.com/visionist/job/oEBdAfwM?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Pinterest",
-      "title": "Software Engineer 1 - Backend",
-      "location": "Seattle, WACalifornia",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-04T18:10:32.079414",
       "category": "software"
     }
   ]
