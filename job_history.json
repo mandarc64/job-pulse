@@ -39,36 +39,6 @@
       "days_ago": 0,
       "first_seen": "2026-06-10T18:26:35.439160",
       "category": "data"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Audit Analytics and AI Analyst New Grad - Data Science",
-      "location": "Toronto, ON, Canada",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "data"
-    },
-    {
-      "company": "Bank of Montreal",
-      "title": "Audit Analytics and AI Analyst New Grad - Data Science",
-      "location": "Toronto, ON, Canada",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "data"
-    },
-    {
-      "company": "LG Ad Solutions",
-      "title": "Entry Level Global Reporting & Analytics Analyst - Digital Campaign Management - Product Strategy and Business Intelligence",
-      "location": "United Kingdom",
-      "url": "https://jobs.ashbyhq.com/lgads/e5e78b30-13dc-4d12-b0ec-eb819de7d53a/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -94,6 +64,16 @@
     }
   ],
   "software": [
+    {
+      "company": "JustAnswer",
+      "title": "New Grad Position",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/justanswer/jobs/8509749002",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-06-16T19:29:36.827108",
+      "category": "software"
+    },
     {
       "company": "LexisNexis Risk Solutions",
       "title": "Software Engineer 1",
@@ -452,36 +432,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-09T17:55:29.635204",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer",
-      "location": "Richardson, TX",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Core Systems & Libraries",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-1---Core-Systems---Libraries--Onsite-_01847677?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer",
-      "location": "Richardson, TX",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-05T17:49:03.118039",
       "category": "software"
     }
   ]
