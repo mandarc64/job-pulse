@@ -59,16 +59,6 @@
       "days_ago": 0,
       "first_seen": "2026-06-12T18:01:02.517548",
       "category": "data"
-    },
-    {
-      "company": "Cox",
-      "title": "Entry Level Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I---11361_R202678512?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -622,86 +612,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-11T18:43:07.897744",
-      "category": "software"
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Software Engineer 1/2",
-      "location": "Warner Robins, GA",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/GAWR03GC/Engineer-Software-T1-T2_R10235745?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer - Software Engineer I",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Tucson--AZ--Hybrid-_01848436?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I_01845113?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "Sunnyvale, CA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7621174003&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "Toronto, ON, CanadaSunnyvale, CA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7731286003&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "Cerebras",
-      "title": "New Grad Software Engineer",
-      "location": "Toronto, ON, Canada",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7621008003&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "Further",
-      "title": "Entry Level Software Developer \u2013 Graduate Leadership Program",
-      "location": "Dallas, TX",
-      "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-10T18:26:35.439160",
       "category": "software"
     }
   ]
