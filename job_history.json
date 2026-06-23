@@ -39,26 +39,6 @@
       "days_ago": 0,
       "first_seen": "2026-06-13T17:16:11.588032",
       "category": "data"
-    },
-    {
-      "company": "Bonterra",
-      "title": "Data Engineer 1 - Data Services",
-      "location": "Remote in USA",
-      "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Data-Engineer-1--Data-Services_R2026-0253?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "data"
-    },
-    {
-      "company": "University of Texas at Austin",
-      "title": "Data Engineer 1",
-      "location": "Austin, TX",
-      "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -91,19 +71,59 @@
       "days_ago": 0,
       "first_seen": "2026-06-17T18:10:30.126794",
       "category": "ai_ml"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Research Scientist New Grad - Efficient Deep Learning \ud83c\udf93",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "WGU",
+      "title": "Software Engineer 1",
+      "location": "Salt Lake City, UT",
+      "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-I_JR-025400?utm_source=Simplify&ref=Simplify",
+      "date_posted": "11d",
+      "days_ago": 11,
+      "first_seen": "2026-06-23T17:47:22.084335",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Engineer",
+      "location": "Irvine, CA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-23T17:47:22.084335",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Entry Level Software Engineer",
+      "location": "Burlington, VT",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-23T17:47:22.084335",
+      "category": "software"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Software Engineer 1",
+      "location": "San Diego, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-23T17:47:22.084335",
+      "category": "software"
+    },
+    {
+      "company": "DAT Freight & Analytics",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-23T17:47:22.084335",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Entry Level Software Engineer",
@@ -502,66 +522,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-13T17:16:11.588032",
-      "category": "software"
-    },
-    {
-      "company": "JustAnswer",
-      "title": "New Grad Position",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/justanswer/jobs/8587759002",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer \u2013 Entry Level",
-      "location": "Whitsett, NC",
-      "url": "https://careers-gdms.icims.com/jobs/73056/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer",
-      "location": "Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer",
-      "location": "Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
-      "category": "software"
-    },
-    {
-      "company": "LivaNova",
-      "title": "Software Engineer 1",
-      "location": "Webster, TX",
-      "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Engineer-I_JR-14571?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-12T18:01:02.517548",
       "category": "software"
     }
   ]
