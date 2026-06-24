@@ -29,16 +29,6 @@
       "days_ago": 0,
       "first_seen": "2026-06-17T18:10:30.126794",
       "category": "data"
-    },
-    {
-      "company": "\ud83d\udd25 Meta",
-      "title": "Data Engineer \u2013 University Grad - Product Analytics",
-      "location": "Menlo Park, CANYCBellevue, WA",
-      "url": "https://www.metacareers.com/jobs/1468691051611430?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-13T17:16:11.588032",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -74,6 +64,16 @@
     }
   ],
   "software": [
+    {
+      "company": "United Launch Alliance",
+      "title": "CI/CD Infrastructure Software Engineer 1",
+      "location": "Centennial, CODenver, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-CICD-Infrastructure-Software-Engineer-1-CO-80112/1402696200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-24T17:48:44.705152",
+      "category": "software"
+    },
     {
       "company": "WGU",
       "title": "Software Engineer 1",
@@ -502,26 +502,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-06-16T19:29:36.827108",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer 1",
-      "location": "Colorado",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Colorado/Software-Engineer-I_R114780?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-13T17:16:11.588032",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-13T17:16:11.588032",
       "category": "software"
     }
   ]
