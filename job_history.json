@@ -9,61 +9,20 @@
       "days_ago": 16,
       "first_seen": "2026-06-18T18:22:41.031608",
       "category": "data"
-    },
-    {
-      "company": "Oklahoma State Government",
-      "title": "Junior Data Scientist",
-      "location": "Oklahoma City, OK",
-      "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Junior-Data-Scientist_JR61363?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "data"
-    },
-    {
-      "company": "AbbVie",
-      "title": "Associate Data Engineer 1",
-      "location": "Vernon Hills, IL",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013652366?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "data"
     }
   ],
-  "ai_ml": [
-    {
-      "company": "\u21b3",
-      "title": "Machine Learning Engineer New Grad - Next-Generation Recommendation Systems \ud83c\udf93",
-      "location": "Bellevue, WA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7999717&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "ai_ml"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Machine Learning Engineer New Grad - Next-Generation Recommendation Systems \ud83c\udf93",
-      "location": "Mountain View, CA",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7999719&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "ai_ml"
-    },
-    {
-      "company": "Unity",
-      "title": "Machine Learning Engineer New Grad / PhD - Next-Generation Recommendation Systems \ud83c\udf93",
-      "location": "NYC",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7992078&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "ai_ml"
-    }
-  ],
+  "ai_ml": [],
   "software": [
+    {
+      "company": "Cox",
+      "title": "Software Engineer 1",
+      "location": "Austin, TXBurlington, VTAtlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-28T17:02:20.641943",
+      "category": "software"
+    },
     {
       "company": "Four Hands",
       "title": "Software Engineer New Grad",
@@ -432,76 +391,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Forward Deployed Software Engineer New Grad",
-      "location": "Washington, DC",
-      "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Junior C# Software Engineer",
-      "location": "Bethesda, MD",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_327770?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Embedded Software Engineer - Sensors - Software Engineer I",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/XMLNAME-2027-Raytheon-Full-Time---Sensors---Software-Engineer-I---McKinney--TX--Onsite-_01849891-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Manassas, VA",
-      "url": "https://careers-gdms.icims.com/jobs/73140/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "Collective",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "Axon",
-      "title": "Software Engineer 1",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7690510003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer - Software Engineer I",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-17T18:10:30.126794",
       "category": "software"
     }
   ]
