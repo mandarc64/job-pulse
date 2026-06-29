@@ -1,18 +1,17 @@
 {
-  "data": [
-    {
-      "company": "Teamworks",
-      "title": "Data Engineer 1",
-      "location": "North Carolina",
-      "url": "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "16d",
-      "days_ago": 16,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "data"
-    }
-  ],
+  "data": [],
   "ai_ml": [],
   "software": [
+    {
+      "company": "The Boeing Company",
+      "title": "Test and Inspection Embedded Software Engineer-Entry Level",
+      "location": "St. Louis, MOHazelwood, MO",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Test-and-Inspection-Embedded-Software-Engineer-Entry-Level_JR2026516830-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-06-29T18:04:47.328307",
+      "category": "software"
+    },
     {
       "company": "Cox",
       "title": "Software Engineer 1",
@@ -251,146 +250,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-19T17:50:19.983132",
-      "category": "software"
-    },
-    {
-      "company": "Datalab USA",
-      "title": "Production Programmer \u2013 Entry Level SQL Developer",
-      "location": "Germantown, MD",
-      "url": "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Alation",
-      "title": "UX Software Engineer 1",
-      "location": "San Carlos, CA",
-      "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Engineer-Intern--Applied-AI_R10000689?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Nightwing Intelligence Solutions",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "MedImpact",
-      "title": "Full Stack Software Engineer 1",
-      "location": "San Diego, CA",
-      "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer",
-      "location": "Pittsburgh, PA",
-      "url": "https://careers-gdms.icims.com/jobs/73178/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Pittsburgh, PA",
-      "url": "https://careers-gdms.icims.com/jobs/73179/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Toyota",
-      "title": "Software Engineer \u2013 Early Career Professional",
-      "location": "Plano, TX",
-      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325075?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1 - Java/JSP/Springboot",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Java-JSP-SpringBoot_R_1493868?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "WebFX",
-      "title": "Junior Full-Stack Software Engineer",
-      "location": "Ann Arbor, MI",
-      "url": "https://jobs.lever.co/webfx/3c850193-9429-43fd-9afb-052adea191b3/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Medtronic",
-      "title": "Software Engineer 1 - Cardiac Rhythm Management",
-      "location": "Blaine, MN",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I--CRM_R68749?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer - Rotorcraft Training Systems",
-      "location": "Mesa, AZ",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Software-Engineer---Rotorcraft-Training-Systems_JR2026509014?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer - Rotorcraft Training Systems",
-      "location": "Mesa, AZ",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-Software-Engineer---Rotorcraft-Training-Systems_JR2026509014-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Blue Yonder",
-      "title": "Software Engineer 1",
-      "location": "Dallas, TX",
-      "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_260056?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
-      "category": "software"
-    },
-    {
-      "company": "Lexical Intelligence",
-      "title": "NLM Software Engineer 1",
-      "location": "Bethesda, MD",
-      "url": "https://lexical.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-18T18:22:41.031608",
       "category": "software"
     }
   ]
