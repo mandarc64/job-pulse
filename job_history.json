@@ -1,7 +1,379 @@
 {
-  "data": [],
-  "ai_ml": [],
+  "data": [
+    {
+      "company": "Steampunk",
+      "title": "Junior Data Analyst",
+      "location": "El Paso, TX",
+      "url": "https://careers-steampunk.icims.com/jobs/7740/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "data"
+    },
+    {
+      "company": "Manulife Financial",
+      "title": "Data Analyst New Grad - Operations Data Analyst",
+      "location": "Montreal, QC, Canada",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Montreal-Quebec/GRO-Program---Operations-Data-Analyst--Montreal-_JR26061468?utm_source=Simplify&ref=Simplify",
+      "date_posted": "8d",
+      "days_ago": 8,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "data"
+    },
+    {
+      "company": "Flashpoint",
+      "title": "Data Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "data"
+    }
+  ],
+  "ai_ml": [
+    {
+      "company": "Gen Digital",
+      "title": "Machine Learning Engineer 1 \ud83c\udf93",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/gen-digital/04d8f8b7-135c-4b93-8dbb-f47b9ddb51ea/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "ai_ml"
+    },
+    {
+      "company": "The Nuclear Company",
+      "title": "AI Engineer 1 - Product Engineering",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285646008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "ai_ml"
+    }
+  ],
   "software": [
+    {
+      "company": "United Launch Alliance",
+      "title": "Embedded Flight Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1403799100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Babel Street",
+      "title": "Data Warehouse Software Engineer 1",
+      "location": "4 locationsCambridge, MARemote in USAReston, VASolon, OH",
+      "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833?utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer 1",
+      "location": "Dulles, VA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7738253003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "DAT Freight & Analytics",
+      "title": "Software Engineer 1",
+      "location": "Denver, CO",
+      "url": "https://careers.dat.com/jobs/6007145004?gh_jid=6007145004&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Peraton",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Software Engineer 1",
+      "location": "Montreal, QC, Canada",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Montreal-Canada/Software-Engineer-I_JR102006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "7d",
+      "days_ago": 7,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "United Launch Alliance",
+      "title": "Simulation Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Simulation-Software-Engineer-1-CO-80112/1402883800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Aledade",
+      "title": "Software Engineer 1",
+      "location": "Remote in USA",
+      "url": "https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Entry Level Software Engineer",
+      "location": "Austin, TX",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Entry-Level-Software-Engineer--Austin--TX-_R202679234?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "NXP Semiconductors",
+      "title": "NFC System Software Engineer - Entry Level",
+      "location": "San Jose, CA",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Entry Level Software Engineer",
+      "location": "5 locationsAustin, TXIrvine, CALong Island, New YorkBurlington, VTAtlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer_R202675618?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Cylake",
+      "title": "Software Engineer \u2013 University Grad",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Flight Computer Emulation Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Flight-Computer-Emulation-Software-Engineer-1-CO-80112/1403799500/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "United Launch Alliance",
+      "title": "Integrated Test Environment Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "NCR Voyix",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595?utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "StubHub",
+      "title": "Software Engineer 1 New Grad - Open Distribution",
+      "location": "Culver City, CA",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906365101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Palantir",
+      "title": "Forward Deployed Software Engineer New Grad - Commercial",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Forward Deployed Software Engineer New Grad - Commercial",
+      "location": "Chicago, IL",
+      "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - Defense",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - Defense",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - Defense",
+      "location": "Washington, DC",
+      "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Palantir",
+      "title": "Software Engineer New Grad - Production Infrastructure",
+      "location": "Washington, DC",
+      "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Integration Innovation (i3)",
+      "title": "Entry Level Software Engineer",
+      "location": "Huntsville, AL",
+      "url": "https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "PointOne",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Altamira Technologies",
+      "title": "Junior Software Engineer",
+      "location": "4 locationsAugusta, GAState College, PACentennial, COGainesville, VA",
+      "url": "https://jobs.jobvite.com/altamiracorps/job/oPlpAfwT?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "DAT Freight & Analytics",
+      "title": "Software Engineer 1",
+      "location": "Seattle, WA",
+      "url": "https://careers.dat.com/jobs/6091895004?gh_jid=6091895004&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "title": "Mainframe Software Engineer 1",
+      "location": "Columbus, GA",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0307488-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Adtran",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005699?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Sophos",
+      "title": "Software Engineer 1",
+      "location": "Remote in UK",
+      "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Lone Tree, CO",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030195?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Product Software Engineer 1",
+      "location": "Glendale, CA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-01T17:48:52.527874",
+      "category": "software"
+    },
     {
       "company": "The Boeing Company",
       "title": "Test and Inspection Embedded Software Engineer-Entry Level",
@@ -130,36 +502,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-22T19:23:16.167047",
-      "category": "software"
-    },
-    {
-      "company": "ZOLL Medical Corporation",
-      "title": "Software Engineer 1",
-      "location": "Broomfield, CO",
-      "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-CO-Broomfield/Software-Engineer-I_R18788?utm_source=Simplify&ref=Simplify",
-      "date_posted": "17d",
-      "days_ago": 17,
-      "first_seen": "2026-06-20T17:19:30.949670",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Tactical Communications",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-1---Tactical-Communications--Onsite-_01851404-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-20T17:19:30.949670",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fulton, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-1--Onsite-_01853876?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-20T17:19:30.949670",
       "category": "software"
     }
   ]
