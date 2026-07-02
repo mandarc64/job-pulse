@@ -55,6 +55,116 @@
   ],
   "software": [
     {
+      "company": "\u21b3",
+      "title": "Junior Front-End Web Developer",
+      "location": "Ann Arbor, MI",
+      "url": "https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "14d",
+      "days_ago": 14,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Backend Software Engineer - Nutshell CRM - AWS & React Native",
+      "location": "Ann Arbor, MI",
+      "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "14d",
+      "days_ago": 14,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "United Launch Alliance",
+      "title": "Ground Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-Engineer-1-CO-80112/1404920100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Adtran",
+      "title": "Software Engineer 1",
+      "location": "Atlanta, GA",
+      "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Confido",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Varsity Brands",
+      "title": "Software Engineer 1",
+      "location": "Memphis, TN",
+      "url": "https://careers.varsitybrands.com/global/en/job/JR113976?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Developer",
+      "location": "Bethesda, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Developer_R-00179871?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 - Mainframe - Cobol",
+      "location": "5 locationsBrookfield, WIHopkins, MNIrving, TXAtlanta, GACincinnati, OH",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Research Software Engineer 1",
+      "location": "Aurora, CO",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Research-Software-Engineer-Level-1_R10237693?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "Citi",
+      "title": "Junior Applications Developer - Programmer Analyst",
+      "location": "Jacksonville, FL",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1 - Financial Planning",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Financial-Planning_R_1495272-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-02T17:39:30.050500",
+      "category": "software"
+    },
+    {
       "company": "United Launch Alliance",
       "title": "Embedded Flight Software Engineer 1",
       "location": "Centennial, CO",
