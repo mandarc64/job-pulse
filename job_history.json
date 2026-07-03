@@ -33,6 +33,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Bot Auto",
+      "title": "Machine Learning/Deep Learning Engineer New Grad \ud83c\udf93",
+      "location": "Houston, TXOakland, CA",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5290395008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-03T17:17:32.770556",
+      "category": "ai_ml"
+    },
+    {
       "company": "Gen Digital",
       "title": "Machine Learning Engineer 1 \ud83c\udf93",
       "location": "Mountain View, CA",
@@ -54,6 +64,36 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 Embedded Communications",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I-Embedded-Communications-ONSITE_01857004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-03T17:17:32.770556",
+      "category": "software"
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer 1",
+      "location": "Delaware",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Delaware/Software-Engineer-I_R115637?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-03T17:17:32.770556",
+      "category": "software"
+    },
+    {
+      "company": "Capital One",
+      "title": "Software Engineer New Grad - Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-03T17:17:32.770556",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Junior Front-End Web Developer",
@@ -572,46 +612,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-23T17:47:22.084335",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Entry Level Software Engineer",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/73193/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-22T19:23:16.167047",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer \ud83c\udf93",
-      "location": "Dallas, TX",
-      "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108734797?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-22T19:23:16.167047",
-      "category": "software"
-    },
-    {
-      "company": "AG Technologies",
-      "title": "Entry Level Software Engineer \ud83c\udf93",
-      "location": "Chesterfield, MO",
-      "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-22T19:23:16.167047",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-22T19:23:16.167047",
       "category": "software"
     }
   ]
