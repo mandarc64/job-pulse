@@ -52,7 +52,7 @@ DEGREES = {}   # degree option ids if you ever want to constrain those
 
 # Only include listings whose "Date Posted" is within this many days.
 # Set to 0 (or None) to keep every match regardless of age.
-MAX_AGE_DAYS = 10
+MAX_AGE_DAYS = 0
 
 # Own tracker file so it never collides with job-pulse's seen_links.json.
 SEEN_FILE = os.path.join(os.path.dirname(__file__), "masscec_seen.json")
