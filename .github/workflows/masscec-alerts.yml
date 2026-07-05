@@ -1,0 +1,50 @@
+name: MassCEC Daily Job Alerts
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 09:00 America/New_York (EDT). Use 14 for EST winter.
+  workflow_dispatch:         # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write            # lets the job commit updated seen_links.json
+
+jobs:
+  send-alerts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run MassCEC job alerts
+        env:
+          SMTP_HOST:  ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:  ${{ secrets.SMTP_PORT }}
+          SMTP_USER:  ${{ secrets.SMTP_USER }}
+          SMTP_PASS:  ${{ secrets.SMTP_PASS }}
+          TO_EMAIL:   ${{ secrets.TO_EMAIL }}
+          CC_EMAIL:   ${{ secrets.CC_EMAIL }}
+          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
+          FROM_NAME:  "MassCEC Job Alert"
+        run: python masscec_alerts.py
+
+      - name: Commit updated tracker
+        run: |
+          if git diff --quiet -- masscec_seen.json; then
+            echo "No changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add masscec_seen.json
+            git commit -m "Update MassCEC seen links [skip ci]"
+            git push
+          fi
