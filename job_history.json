@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Alta Resource Technologies",
+      "title": "Data Engineer Junior",
+      "location": "Boulder, CO",
+      "url": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-05T17:01:21.093024",
+      "category": "data"
+    },
+    {
       "company": "Steampunk",
       "title": "Junior Data Analyst",
       "location": "El Paso, TX",
@@ -562,16 +572,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-26T17:42:18.452506",
-      "category": "software"
-    },
-    {
-      "company": "United Launch Alliance",
-      "title": "CI/CD Infrastructure Software Engineer 1",
-      "location": "Centennial, CODenver, CO",
-      "url": "https://jobs.ulalaunch.com/job/Centennial-CICD-Infrastructure-Software-Engineer-1-CO-80112/1402696200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-24T17:48:44.705152",
       "category": "software"
     }
   ]
