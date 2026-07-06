@@ -85,6 +85,26 @@
   ],
   "software": [
     {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad",
+      "location": "Denver, CO",
+      "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "7d",
+      "days_ago": 7,
+      "first_seen": "2026-07-06T18:06:17.351351",
+      "category": "software"
+    },
+    {
+      "company": "Everfox",
+      "title": "Software Engineer 1",
+      "location": "Hereford, UK",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-06T18:06:17.351351",
+      "category": "software"
+    },
+    {
       "company": "RTX",
       "title": "Software Engineer 1 Embedded Communications",
       "location": "Fort Wayne, IN",
