@@ -43,6 +43,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Quora",
+      "title": "Machine Learning Engineer New Grad",
+      "location": "Remote in USARemote in Canada",
+      "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "ai_ml"
+    },
+    {
       "company": "Preference Model",
       "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93",
       "location": "Seattle, WAToronto, ON, CanadaSF",
@@ -84,6 +94,76 @@
     }
   ],
   "software": [
+    {
+      "company": "CACI",
+      "title": "Junior Software Engineer",
+      "location": "4 locationsSpringfield, VASt. Louis, MODenver, CODulles, VA",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867?utm_source=Simplify&ref=Simplify",
+      "date_posted": "7d",
+      "days_ago": 7,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "Travelers",
+      "title": "Software Engineer 1 - AI Driven",
+      "location": "Hartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01857780?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "Built Technologies",
+      "title": "Software Engineer 1 - Internal Tooling",
+      "location": "Nashville, TN",
+      "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Product Software Engineer 1",
+      "location": "Santa Monica, CA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Software Engineer 1 or 2",
+      "location": "Aurora, COMorrisville, NCFairfax, VA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239507?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
+    {
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer - Backend",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6112395004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-09T17:49:58.220322",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1 Embedded Communications",
@@ -792,16 +872,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-06-29T18:04:47.328307",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Software Engineer 1",
-      "location": "Austin, TXBurlington, VTAtlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-06-28T17:02:20.641943",
       "category": "software"
     }
   ]
