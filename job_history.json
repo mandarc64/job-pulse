@@ -43,6 +43,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Gen Digital",
+      "title": "AI & Machine Learning Engineer 1 \ud83c\udf93",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "ai_ml"
+    },
+    {
       "company": "Quora",
       "title": "Machine Learning Engineer New Grad",
       "location": "Remote in USARemote in Canada",
@@ -94,6 +104,56 @@
     }
   ],
   "software": [
+    {
+      "company": "HNTB",
+      "title": "Software Engineer 1",
+      "location": "Tallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Software Engineer - AI/ML Applications",
+      "location": "Huntsville, AL",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "software"
+    },
+    {
+      "company": "Kustomer",
+      "title": "Software Engineer \u2013 Early Career - Full Stack",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "software"
+    },
+    {
+      "company": "Toast",
+      "title": "Software Engineer 1 - Fullstack",
+      "location": "Toronto, ON, Canada",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8046879&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-11T16:47:57.048792",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Embedded Cybersecurity Software Engineer 1",
