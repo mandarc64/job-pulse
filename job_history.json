@@ -61,19 +61,109 @@
       "days_ago": 0,
       "first_seen": "2026-07-09T17:49:58.220322",
       "category": "ai_ml"
-    },
-    {
-      "company": "Preference Model",
-      "title": "Member of Technical Staff New Grad - Machine Learning Capabilities \ud83c\udf93",
-      "location": "Seattle, WAToronto, ON, CanadaSF",
-      "url": "https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-04T16:57:08.265314",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "CesiumAstro",
+      "title": "Embedded Software Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/CesiumAstro/1c793184-7d93-49e8-9e4c-ee2372c23096/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Capital One",
+      "title": "Software Engineer New Grad - Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Conversion Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Spotify",
+      "title": "iOS Engineer 1 - Subscriptions",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/spotify/5089cbe3-5e62-4c24-89a2-9a1487eb5034/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "location": "Charlotte, NC",
+      "url": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "InstaLILY",
+      "title": "Software Engineer 1 - General",
+      "location": "SFNYC",
+      "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer 1 - Computational Fluid Dynamics - Computational Fluid Dynamics",
+      "location": "London, UK",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LONDON-01/Software-Engineer-I---Computational-Fluid-Dynamics--CFD-_R55487-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer 1 - Discovery",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Checkout.com",
+      "title": "Software Engineer 1",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/checkout.com/c37d4aba-998a-4266-8525-2b5fad1bfb56/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
+    {
+      "company": "Faros AI",
+      "title": "Software Engineer New Grad",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-15T17:09:40.308240",
+      "category": "software"
+    },
     {
       "company": "Humana",
       "title": "Junior Software Engineer Cloud Cost Optimization",
