@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "TD Bank",
+      "title": "Data Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1498701?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "data"
+    },
+    {
+      "company": "CACI",
+      "title": "Data Scientist - Junior",
+      "location": "Aberdeen, MDAiea, HI",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "data"
+    },
+    {
       "company": "Yes Energy",
       "title": "Data Engineer 1",
       "location": "Boston, MABoulder, CO",
@@ -54,6 +74,56 @@
     }
   ],
   "software": [
+    {
+      "company": "NAVEX",
+      "title": "New Grad Position",
+      "location": "Lake Oswego, OR +2",
+      "url": "https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/4334",
+      "date_posted": "46d",
+      "days_ago": 46,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "software"
+    },
+    {
+      "company": "NAVEX",
+      "title": "New Grad Position",
+      "location": "Lake Oswego, OR",
+      "url": "https://jobs.dayforcehcm.com/en-US/navex/121384/jobs/4337",
+      "date_posted": "45d",
+      "days_ago": 45,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "software"
+    },
+    {
+      "company": "Adtran",
+      "title": "Software Engineer 1",
+      "location": "Norcross, GA",
+      "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "software"
+    },
+    {
+      "company": "Antares Nuclear",
+      "title": "Reactor Software Engineer 1/2",
+      "location": "LA",
+      "url": "https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "software"
+    },
+    {
+      "company": "Acrisure",
+      "title": "Software Engineer 1",
+      "location": "4 locationsUniondale, NYAustin, TXGrand Rapids, MIAtlanta, GA",
+      "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-17T17:05:21.109314",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1 - Apnt",
@@ -732,26 +802,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-07T17:53:42.301116",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "Denver, CO",
-      "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-07-06T18:06:17.351351",
-      "category": "software"
-    },
-    {
-      "company": "Everfox",
-      "title": "Software Engineer 1",
-      "location": "Hereford, UK",
-      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-06T18:06:17.351351",
       "category": "software"
     }
   ]
