@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "\ud83d\udd25 Crowdstrike",
+      "title": "Engineer 1 New Grad - Data Scientist \ud83c\udf93",
+      "location": "Sunnyvale, CA",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "data"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Data Engineer 1 - ETL developer \ud83c\udf93",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I--ETL-developer-_R_1491747-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "data"
+    },
+    {
+      "company": "GRAIL",
+      "title": "Data Analytics Engineer 1",
+      "location": "Durham, NC",
+      "url": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "data"
+    },
+    {
       "company": "TD Bank",
       "title": "Data Engineer 1",
       "location": "Toronto, ON, Canada",
@@ -64,6 +94,136 @@
     }
   ],
   "software": [
+    {
+      "company": "Revel",
+      "title": "Embedded Software Engineer - Entry-Junior",
+      "location": "LA",
+      "url": "https://jobs.ashbyhq.com/revel/444b5704-3840-4b0a-ba34-f82eab8c430f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Axos Bank",
+      "title": "Junior Business & Technology Analyst - Application Developer",
+      "location": "San Diego, CA",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Junior-Business---Technology-Analyst---Application-Developer_JR4465?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Travelers",
+      "title": "Software Engineer 1",
+      "location": "Hartford, CT",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-50268?utm_source=Simplify&ref=Simplify",
+      "date_posted": "17d",
+      "days_ago": 17,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Travelers",
+      "title": "Software Engineer 1 - Guidewire Policy Configuration",
+      "location": "Sparks, MDHartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Capital One",
+      "title": "Software Engineer New Grad - Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Software Engineer 1",
+      "location": "O'Fallon, MO",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "STV",
+      "title": "Junior Software Engineer",
+      "location": "Boston, MANYC",
+      "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Everfox",
+      "title": "Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Hipp Health",
+      "title": "Software Engineer New Grad",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Strada",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Morris Health Technologies Inc.",
+      "title": "Software Engineer 1",
+      "location": "Logan, UT",
+      "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Full Stack Software Engineer - Entry-Junior",
+      "location": "LA",
+      "url": "https://jobs.ashbyhq.com/revel/49e46e96-e266-4ef6-8b62-e056d695dc52/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
+    {
+      "company": "Revel",
+      "title": "Software Engineer - Test - Entry-Junior",
+      "location": "SFLA",
+      "url": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-21T17:09:10.547821",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -442,96 +602,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-11T16:47:57.048792",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Embedded Cybersecurity Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Undergrads",
-      "location": "Burlington, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Undergrads",
-      "location": "Burlington, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer New Grad - Undergrads",
-      "location": "Burlington, MA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Entry Level Software Developer",
-      "location": "St. Louis, MO",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "San Diego, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineer-I--Onsite-_01858576?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fulton, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01858115?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "Pylon",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-10T17:42:31.275896",
-      "category": "software"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Product Software Engineer 1",
-      "location": "Bristol, CT",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-10T17:42:31.275896",
       "category": "software"
     }
   ]
