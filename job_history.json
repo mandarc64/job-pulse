@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "University of Maryland - College Park",
+      "title": "Junior Data Engineer - Faculty Specialist",
+      "location": "Hyattsville, MD",
+      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "data"
+    },
+    {
+      "company": "Travelers",
+      "title": "Data Engineer 1 - Python - AWS",
+      "location": "Hartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835?utm_source=Simplify&ref=Simplify",
+      "date_posted": "29d",
+      "days_ago": 29,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "data"
+    },
+    {
+      "company": "Accor",
+      "title": "Junior Data Analyst",
+      "location": "London, UK",
+      "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000139103717?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "data"
+    },
+    {
       "company": "Travelers",
       "title": "Data Engineer 1 - Multiple Teams",
       "location": "Hartford, CTRichardson, TXSt Paul, MN",
@@ -93,6 +123,26 @@
   ],
   "ai_ml": [
     {
+      "company": "FOX",
+      "title": "Machine Learning Engineer 1",
+      "location": "NYC",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033154?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "ai_ml"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93",
+      "location": "5 locationsWashingtonCaliforniaTexasNYCMassachusetts",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "ai_ml"
+    },
+    {
       "company": "Allen Control Systems",
       "title": "Junior Computer Vision & Machine Learning Engineer",
       "location": "Austin, TX",
@@ -124,6 +174,66 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
+    {
+      "company": "AeroVironment",
+      "title": "Software Engineer 1 - Applications",
+      "location": "Melbourne, FL",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
+    {
+      "company": "Traba",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Concord, MATewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-23T17:12:43.299139",
+      "category": "software"
+    },
     {
       "company": "Nidec",
       "title": "Software Engineer 1",
