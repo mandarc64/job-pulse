@@ -109,16 +109,6 @@
       "days_ago": 0,
       "first_seen": "2026-07-17T17:05:21.109314",
       "category": "data"
-    },
-    {
-      "company": "Yes Energy",
-      "title": "Data Engineer 1",
-      "location": "Boston, MABoulder, CO",
-      "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5344484008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -151,29 +141,39 @@
       "days_ago": 60,
       "first_seen": "2026-07-22T17:09:47.701604",
       "category": "ai_ml"
-    },
-    {
-      "company": "FOX",
-      "title": "Machine Learning Engineer 1",
-      "location": "NYC",
-      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "ai_ml"
-    },
-    {
-      "company": "Milwaukee Tool",
-      "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology",
-      "location": "Brookfield, WI",
-      "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Nexxen",
+      "title": "Software Engineer 1 - DSP Runtime",
+      "location": "NYCBaltimore, MD",
+      "url": "https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-07-25T16:50:29.313801",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, CanadaLondon, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501250?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-25T16:50:29.313801",
+      "category": "software"
+    },
+    {
+      "company": "Iridium Communications",
+      "title": "Engineer 1 - Software Engineer",
+      "location": "Reston, VAChandler, AZ",
+      "url": "https://careers-iridium.icims.com/jobs/5047/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-25T16:50:29.313801",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1",
@@ -782,96 +782,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-15T17:09:40.308240",
-      "category": "software"
-    },
-    {
-      "company": "Humana",
-      "title": "Junior Software Engineer Cloud Cost Optimization",
-      "location": "10 locationsBoston, MALouisville, KYNashville, TNTampa, FLDallas, TXChicago, ILCharlotte, NCFort Lauderdale, FLNYCAtlanta, GA",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Junior-Software-Engineer--Cloud-Cost-Optimization_R-413873-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Backend Compiler Engineer New Grad",
-      "location": "CanadaSanta Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server \ud83c\udf93",
-      "location": "Remote in USASanta Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "Aledade",
-      "title": "Senior Software Engineer 1 - Data & Insights Engineering",
-      "location": "Remote in USA",
-      "url": "https://jobs.lever.co/aledade/3eafe371-4bee-492f-af5c-fd2e3f71b8da/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "Northslope Technologies",
-      "title": "Forward Deployed Software Engineer New Grad",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "WhatNot",
-      "title": "Software Engineer New Grad",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "Varsity Brands",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://careers.varsitybrands.com/global/en/job/JR114172?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
-      "category": "software"
-    },
-    {
-      "company": "Katalyst Space Technologies",
-      "title": "Software Engineer 1 - Model and Simulation",
-      "location": "Broomfield, CO",
-      "url": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-14T17:06:45.445487",
       "category": "software"
     }
   ]
