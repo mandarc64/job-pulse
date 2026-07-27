@@ -145,6 +145,56 @@
   ],
   "software": [
     {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer 1 Graduate",
+      "location": "Southampton, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-27T17:37:28.442265",
+      "category": "software"
+    },
+    {
+      "company": "RELX",
+      "title": "Software Engineer 1 - Graduate",
+      "location": "Southampton, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-27T17:37:28.442265",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Java Software Engineer 1",
+      "location": "State College, PA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-27T17:37:28.442265",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Dulles, VA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-27T17:37:28.442265",
+      "category": "software"
+    },
+    {
+      "company": "UW Credit Union",
+      "title": "Software Engineer 1",
+      "location": "Madison, WI",
+      "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-27T17:37:28.442265",
+      "category": "software"
+    },
+    {
       "company": "Huntington Ingalls Industries",
       "title": "Software Engineer 1",
       "location": "Newport News, VA",
@@ -632,66 +682,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Apnt",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---APNT--Onsite-_01859795?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-16T17:07:43.446684",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-16T17:07:43.446684",
-      "category": "software"
-    },
-    {
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "url": "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-16T17:07:43.446684",
-      "category": "software"
-    },
-    {
-      "company": "Lightfield",
-      "title": "Software Engineer New Grad - Applied AI",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-16T17:07:43.446684",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Full-Stack Software Engineer New Grad - Product",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-16T17:07:43.446684",
-      "category": "software"
-    },
-    {
-      "company": "Cybernetic Labs",
-      "title": "Software Engineer New Grad - Agent Platform",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-16T17:07:43.446684",
       "category": "software"
     }
   ]
