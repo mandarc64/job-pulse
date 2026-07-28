@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Travelers",
+      "title": "Data Engineer 1 - Multiple Teams",
+      "location": "Sparks, MDHartford, CTSt Paul, MN",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "data"
+    },
+    {
+      "company": "Meds",
+      "title": "Entry Level Data Analyst",
+      "location": "Austin, TX",
+      "url": "https://jobs.lever.co/meds/366be0ea-89b9-4193-a486-a92f3ee4d1d6/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "data"
+    },
+    {
       "company": "University of Maryland - College Park",
       "title": "Junior Data Engineer - Faculty Specialist",
       "location": "Hyattsville, MD",
@@ -89,29 +109,19 @@
       "days_ago": 0,
       "first_seen": "2026-07-21T17:09:10.547821",
       "category": "data"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Data Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1498701?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "data"
-    },
-    {
-      "company": "CACI",
-      "title": "Data Scientist - Junior",
-      "location": "Aberdeen, MDAiea, HI",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Tax Relief Advocates",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Irvine, CA",
+      "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "ai_ml"
+    },
     {
       "company": "FOX",
       "title": "Machine Learning Engineer 1",
@@ -144,6 +154,86 @@
     }
   ],
   "software": [
+    {
+      "company": "Barry-Wehmiller",
+      "title": "Entry Level Software Engineer",
+      "location": "Denver, CO",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "Cox Automotive",
+      "title": "Software Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "Rocket Companies",
+      "title": "Software Engineer 1",
+      "location": "TexasMichigan",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Software-Engineer-I_R-083975?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "RunSybil",
+      "title": "Software Engineer 1",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "Chainlink Labs",
+      "title": "Software Engineer 1",
+      "location": "8 locationsLas Vegas, NVTampa, FLRemote in UKRemote in IrelandCharlotte, NCPhoenix, AZRemote in SpainRemote in Canada",
+      "url": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Software Engineer 1",
+      "location": "Bellevue, WA",
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "Mitratech",
+      "title": "Software Engineer 1 - Assurehire - Go",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
+    {
+      "company": "Color",
+      "title": "Software Engineer New Grad",
+      "location": "San Bruno, CA",
+      "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-28T17:21:29.752442",
+      "category": "software"
+    },
     {
       "company": "LexisNexis Risk Solutions",
       "title": "Software Engineer 1 Graduate",
@@ -632,56 +722,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-20T17:29:37.653157",
-      "category": "software"
-    },
-    {
-      "company": "NAVEX",
-      "title": "New Grad Position",
-      "location": "Lake Oswego, OR +2",
-      "url": "https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/4334",
-      "date_posted": "46d",
-      "days_ago": 46,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "software"
-    },
-    {
-      "company": "NAVEX",
-      "title": "New Grad Position",
-      "location": "Lake Oswego, OR",
-      "url": "https://jobs.dayforcehcm.com/en-US/navex/121384/jobs/4337",
-      "date_posted": "45d",
-      "days_ago": 45,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "software"
-    },
-    {
-      "company": "Adtran",
-      "title": "Software Engineer 1",
-      "location": "Norcross, GA",
-      "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "software"
-    },
-    {
-      "company": "Antares Nuclear",
-      "title": "Reactor Software Engineer 1/2",
-      "location": "LA",
-      "url": "https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-17T17:05:21.109314",
-      "category": "software"
-    },
-    {
-      "company": "Acrisure",
-      "title": "Software Engineer 1",
-      "location": "4 locationsUniondale, NYAustin, TXGrand Rapids, MIAtlanta, GA",
-      "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-17T17:05:21.109314",
       "category": "software"
     }
   ]
