@@ -155,6 +155,96 @@
   ],
   "software": [
     {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862658?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "Realm",
+      "title": "Software Engineer New Grad",
+      "location": "Remote in USA",
+      "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "Cubic",
+      "title": "Software Engineer 1 - Unified Video Sustainment",
+      "location": "Ashburn, VA",
+      "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "Qualifacts",
+      "title": "Software Engineer 1",
+      "location": "Ontario, Canada",
+      "url": "https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Burlington, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Dulles, VA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501242?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
+      "company": "Crusoe",
+      "title": "Software Engineer 1 - Storage",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-29T17:08:01.765698",
+      "category": "software"
+    },
+    {
       "company": "Barry-Wehmiller",
       "title": "Entry Level Software Engineer",
       "location": "Denver, CO",
