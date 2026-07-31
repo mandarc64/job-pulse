@@ -165,6 +165,96 @@
   ],
   "software": [
     {
+      "company": "Amerisure",
+      "title": "Software Engineer 1",
+      "location": "Southfield, MI",
+      "url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "Bank of Montreal",
+      "title": "Software Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fulton, MD",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "Cisco",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://careers.cisco.com/global/en/job/1449197?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Forward Deployed Software Engineer New Grad - UK Government",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer \u2013 New Grad",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Palantir",
+      "title": "Software Engineer New Grad - Infrastructure",
+      "location": "London, UK",
+      "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-07-31T17:22:14.431901",
+      "category": "software"
+    },
+    {
       "company": "Rollout",
       "title": "Founding Software Engineer",
       "location": "Louisville, KYNYC",
@@ -872,36 +962,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-21T17:09:10.547821",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-20T17:29:37.653157",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer",
-      "location": "Hazelwood, MO",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-20T17:29:37.653157",
-      "category": "software"
-    },
-    {
-      "company": "The Boeing Company",
-      "title": "Entry Level Software Engineer",
-      "location": "Hazelwood, MO",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-20T17:29:37.653157",
       "category": "software"
     }
   ]
