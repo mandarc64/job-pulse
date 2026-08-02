@@ -89,36 +89,6 @@
       "days_ago": 0,
       "first_seen": "2026-07-23T17:12:43.299139",
       "category": "data"
-    },
-    {
-      "company": "Travelers",
-      "title": "Data Engineer 1 - Multiple Teams",
-      "location": "Hartford, CTRichardson, TXSt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910?utm_source=Simplify&ref=Simplify",
-      "date_posted": "18d",
-      "days_ago": 18,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "data"
-    },
-    {
-      "company": "Travelers",
-      "title": "Data Engineer 1 - Aws - Databricks",
-      "location": "Hartford, CT",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521?utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "data"
-    },
-    {
-      "company": "CarbonChain",
-      "title": "Junior Data Engineer",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -161,19 +131,159 @@
       "days_ago": 1,
       "first_seen": "2026-07-23T17:12:43.299139",
       "category": "ai_ml"
-    },
-    {
-      "company": "Allen Control Systems",
-      "title": "Junior Computer Vision & Machine Learning Engineer",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Garmin",
+      "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/18193?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer 1",
+      "location": "Boulder, CO",
+      "url": "https://careers.garmin.com/jobs/18602?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Embedded Aviation",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/18513?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "KBR",
+      "title": "Junior Software Engineer",
+      "location": "Colorado Springs, COBeavercreek, OH",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608?utm_source=Simplify&ref=Simplify",
+      "date_posted": "16d",
+      "days_ago": 16,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "Trainline",
+      "title": "Junior .NET Engineer - Backend",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/trainline/68f597e9-60b3-482e-8d73-618d24b0bf8e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "11d",
+      "days_ago": 11,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "East Hartford, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Binghamton, NY",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "Trainline",
+      "title": "Junior .NET Engineer - .NET Backend",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/trainline/20a8a318-136e-44c7-844d-7d305e416671/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "Noblis",
+      "title": "Junior Software Developer",
+      "location": "Reston, VA",
+      "url": "https://careers.noblis.org/jobs/27467?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Aviation Web Development",
+      "location": "Chandler, AZ",
+      "url": "https://careers.garmin.com/jobs/17742?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/19098?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Chandler, AZ",
+      "url": "https://careers.garmin.com/jobs/18511?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Web Development/Applications",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/18510?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Connect IQ Applications",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/18475?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Real Time Aviation Data",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/18762?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-02T16:52:15.392617",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -842,86 +952,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "Nidec",
-      "title": "Software Engineer 1",
-      "location": "St. Louis, MO",
-      "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664?utm_source=Simplify&ref=Simplify",
-      "date_posted": "5d",
-      "days_ago": 5,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard (HP)",
-      "title": "Entry Level Embedded Controller Firmware Developer",
-      "location": "Spring, TX",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Entry-level-Embedded-Controller-Firmware-Developer_3161371?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Conversion - Software Engineer 1",
-      "location": "St. Petersburg, FL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "Travelers",
-      "title": "Software Engineer 1",
-      "location": "4 locationsSparks, MDHartford, CTAtlanta, GASt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "21d",
-      "days_ago": 21,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "Maritz",
-      "title": "Software Engineer 1",
-      "location": "Fenton, MO",
-      "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306?utm_source=Simplify&ref=Simplify",
-      "date_posted": "12d",
-      "days_ago": 12,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Systems Software Engineer New Grad - Accelerated Kubernetes Performance and Scale",
-      "location": "Seattle, WASanta Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957?utm_source=Simplify&ref=Simplify",
-      "date_posted": "5d",
-      "days_ago": 5,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Software Engineer 1",
-      "location": "O'Fallon, MO",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-278868?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-22T17:09:47.701604",
-      "category": "software"
-    },
-    {
-      "company": "Westinghouse Electric Company",
-      "title": "Safety Software Engineer 1&C HMI Systems",
-      "location": "Cranberry Twp, PA",
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-22T17:09:47.701604",
       "category": "software"
     }
   ]
