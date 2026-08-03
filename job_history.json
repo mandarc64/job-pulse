@@ -1,6 +1,76 @@
 {
   "data": [
     {
+      "company": "Maven Securities",
+      "title": "Quantitative Researcher New Grad",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "WebFX",
+      "title": "Junior Business Data Analyst",
+      "location": "Harrisburg, PA",
+      "url": "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA?utm_source=Simplify&ref=Simplify",
+      "date_posted": "11d",
+      "days_ago": 11,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "CoxHealth",
+      "title": "Analytics Engineer 1",
+      "location": "Springfield, MO",
+      "url": "https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Analytics-Engineer-I_R17671?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Data Engineer/Junior Data Scientist",
+      "location": "Atlanta, GA",
+      "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Junior Data Engineer/Junior Data Scientist",
+      "location": "NYC",
+      "url": "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Data Scientist",
+      "location": "London, UK",
+      "url": "https://careers.publicisgroupe.com/jobs/155621?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
+      "company": "Publicis Groupe",
+      "title": "Junior Data Analyst",
+      "location": "Toronto, ON, Canada",
+      "url": "https://careers.publicisgroupe.com/jobs/167988?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "data"
+    },
+    {
       "company": "Bluehawk",
       "title": "Exploitation Specialist - Data Scientist - Junior",
       "location": "Springfield, VA",
@@ -59,36 +129,6 @@
       "days_ago": 0,
       "first_seen": "2026-07-28T17:21:29.752442",
       "category": "data"
-    },
-    {
-      "company": "University of Maryland - College Park",
-      "title": "Junior Data Engineer - Faculty Specialist",
-      "location": "Hyattsville, MD",
-      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "data"
-    },
-    {
-      "company": "Travelers",
-      "title": "Data Engineer 1 - Python - AWS",
-      "location": "Hartford, CTSt Paul, MN",
-      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835?utm_source=Simplify&ref=Simplify",
-      "date_posted": "29d",
-      "days_ago": 29,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "data"
-    },
-    {
-      "company": "Accor",
-      "title": "Junior Data Analyst",
-      "location": "London, UK",
-      "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000139103717?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -111,29 +151,89 @@
       "days_ago": 0,
       "first_seen": "2026-07-28T17:21:29.752442",
       "category": "ai_ml"
-    },
-    {
-      "company": "FOX",
-      "title": "Machine Learning Engineer 1",
-      "location": "NYC",
-      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033154?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "ai_ml"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Deep Learning Software Engineer New Grad - Inference \ud83c\udf93",
-      "location": "5 locationsWashingtonCaliforniaTexasNYCMassachusetts",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "Lightfield",
+      "title": "Early Career Infrastructure Software Engineer",
+      "location": "Cambridge, MABoston, MA",
+      "url": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "Walgreens",
+      "title": "Software Engineer 1 - Java",
+      "location": "Deerfield, IL",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "Retell AI",
+      "title": "Software Engineer New Grad - Founders Initiatives",
+      "location": "SFRedwood City, CA",
+      "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+      "location": "San Jose, CA",
+      "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - AI Infra Compute \ud83c\udf93",
+      "location": "Seattle, WA",
+      "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - Traffic Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 ByteDance",
+      "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+      "location": "Seattle, WA",
+      "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-03T17:45:13.648759",
+      "category": "software"
+    },
     {
       "company": "Garmin",
       "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team",
@@ -892,66 +992,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Marlborough, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "AeroVironment",
-      "title": "Software Engineer 1 - Applications",
-      "location": "Melbourne, FL",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "Traba",
-      "title": "Software Engineer New Grad",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-23T17:12:43.299139",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Concord, MATewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-23T17:12:43.299139",
       "category": "software"
     }
   ]
