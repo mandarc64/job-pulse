@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Waystar",
+      "title": "Junior Data Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Engineer_R3322?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "data"
+    },
+    {
+      "company": "M&G",
+      "title": "Junior Data Scientist - Fraud & AML Monitoring",
+      "location": "Edinburgh, UKStirling, UK",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Fraud---AML-Monitoring-Data-Scientist_R18128?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "data"
+    },
+    {
       "company": "Maven Securities",
       "title": "Quantitative Researcher New Grad",
       "location": "Chicago, IL",
@@ -154,6 +174,56 @@
     }
   ],
   "software": [
+    {
+      "company": "Robert Half",
+      "title": "Software Engineer 1 - Generative AI Applications",
+      "location": "NYC",
+      "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/NEW-YORK-MIDTOWN/Software-Engineer-I--Generative-AI-Applications_JR-261077?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "software"
+    },
+    {
+      "company": "SOCOTEC Global",
+      "title": "Junior Software Engineer",
+      "location": "NYC",
+      "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "software"
+    },
+    {
+      "company": "Pariveda Solutions",
+      "title": "Entry Level Software Engineer",
+      "location": "9 locationsSeattle, WAHouston, TXSFLADallas, TXPhiladelphia, PAChicago, ILNYCAtlanta, GA",
+      "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "software"
+    },
+    {
+      "company": "SimpliSafe",
+      "title": "Software Engineer 1 - User Systems",
+      "location": "Boston, MA",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fullerton, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-04T17:38:07.784036",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -892,106 +962,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-25T16:50:29.313801",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Tewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01861526?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Observable Space",
-      "title": "Junior Embedded Software Engineer",
-      "location": "LA",
-      "url": "https://jobs.ashbyhq.com/observable-space/97e8073f-a23e-4360-ba9c-a3869ad58ab1/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Franklin Templeton",
-      "title": "Junior Quant Developer",
-      "location": "NYC",
-      "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/New-York-New-York-United-States-of-America/Junior-Quant-Developer_868307-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "20d",
-      "days_ago": 20,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Software Engineer 1",
-      "location": "O'Fallon, MO",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435?utm_source=Simplify&ref=Simplify",
-      "date_posted": "7d",
-      "days_ago": 7,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters \ud83c\udf93",
-      "location": "Redmond, WASanta Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Software Engineer New Grad - Physical Design Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Cerebras",
-      "title": "ML Software Engineer New Grad - Integration & Quality",
-      "location": "Toronto, ON, CanadaSunnyvale, CA",
-      "url": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Zello",
-      "title": "Software Engineer 1 - AI Generalist",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-24T17:23:20.145407",
-      "category": "software"
-    },
-    {
-      "company": "Medtronic",
-      "title": "Software Engineer 1 - AI-Driven Data Solutions",
-      "location": "Lafayette, CO",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-24T17:23:20.145407",
       "category": "software"
     }
   ]
