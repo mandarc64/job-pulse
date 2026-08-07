@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Tyson Foods",
+      "title": "Data Engineer 1 - Inventory Optimization",
+      "location": "Springdale, AR",
+      "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-07T16:45:16.553209",
+      "category": "data"
+    },
+    {
       "company": "Waystar",
       "title": "Junior Data Engineer",
       "location": "Atlanta, GA",
@@ -152,6 +162,16 @@
     }
   ],
   "ai_ml": [
+    {
+      "company": "\ud83d\udd25 ByteDance",
+      "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
+      "location": "San Jose, CA",
+      "url": "https://jobs.bytedance.com/en/position/7667726338627356933/detail?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-07T16:45:16.553209",
+      "category": "ai_ml"
+    },
     {
       "company": "Gladstone Institutes",
       "title": "Research Engineer 1 - AI / Machine Learning - Jain Lab",
@@ -942,66 +962,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-28T17:21:29.752442",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer 1 Graduate",
-      "location": "Southampton, UK",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-27T17:37:28.442265",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer 1 - Graduate",
-      "location": "Southampton, UK",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-27T17:37:28.442265",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Java Software Engineer 1",
-      "location": "State College, PA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-27T17:37:28.442265",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Dulles, VA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-27T17:37:28.442265",
-      "category": "software"
-    },
-    {
-      "company": "UW Credit Union",
-      "title": "Software Engineer 1",
-      "location": "Madison, WI",
-      "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-27T17:37:28.442265",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-26T16:52:03.152439",
       "category": "software"
     }
   ]
