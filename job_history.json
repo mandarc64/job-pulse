@@ -179,16 +179,6 @@
       "days_ago": 1,
       "first_seen": "2026-08-01T16:53:10.830216",
       "category": "data"
-    },
-    {
-      "company": "Planet Technologies",
-      "title": "Junior Data Scientist",
-      "location": "Washington, DC",
-      "url": "https://jobs.lever.co/planettechnologies/3a0d29bd-59a3-4326-b5ca-40e747708102/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3mo",
-      "days_ago": 90,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -234,6 +224,16 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-10T16:46:28.532166",
+      "category": "software"
+    },
     {
       "company": "Freeform",
       "title": "Software Engineer New Grad",
@@ -752,86 +752,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-07-31T17:22:14.431901",
-      "category": "software"
-    },
-    {
-      "company": "Rollout",
-      "title": "Founding Software Engineer",
-      "location": "Louisville, KYNYC",
-      "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "9d",
-      "days_ago": 9,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "Everfox",
-      "title": "Software Engineer 1",
-      "location": "Richardson, TX",
-      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "Remitly",
-      "title": "Fullstack Software Development Engineer 1 - Card",
-      "location": "Arlington, VA",
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "AbbVie",
-      "title": "Associate Software Engineer 1",
-      "location": "Vernon Hills, IL",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014350476?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 \ud83c\udf93",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Anaheim, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Concord, MATewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-30T17:18:46.833222",
-      "category": "software"
-    },
-    {
-      "company": "Nooks",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-07-30T17:18:46.833222",
       "category": "software"
     }
   ]
