@@ -2,6 +2,36 @@
   "data": [
     {
       "company": "Guidehouse",
+      "title": "Data Engineer 1 - Data Science & Analysis",
+      "location": "6 locationsHouston, TXCharlotte, NCSan Antonio, TXBeavercreek, OHAtlanta, GAHuntsville, AL",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "data"
+    },
+    {
+      "company": "Loblaw Companies",
+      "title": "Data Engineer 1",
+      "location": "Brampton, ON, Canada",
+      "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Data-Engineer-I_R2000691512?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "data"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "title": "Junior Software and Data Engineer - Information Systems and Cyber Division - Data Platforms and Architectures Department",
+      "location": "El Segundo, CA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Jr-Software-and-Data-Engineer_R016066?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "data"
+    },
+    {
+      "company": "Guidehouse",
       "title": "Data Engineer 1",
       "location": "6 locationsHouston, TXCharlotte, NCSan Antonio, TXBeavercreek, OHAtlanta, GAHuntsville, AL",
       "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=Simplify&ref=Simplify",
@@ -179,39 +209,19 @@
       "days_ago": 0,
       "first_seen": "2026-08-03T17:45:13.648759",
       "category": "data"
-    },
-    {
-      "company": "Bluehawk",
-      "title": "Exploitation Specialist - Data Scientist - Junior",
-      "location": "Springfield, VA",
-      "url": "https://careers-bluehawk.icims.com/jobs/2822/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "data"
-    },
-    {
-      "company": "University of Pennsylvania",
-      "title": "Neuroimaging Data Analyst Junior",
-      "location": "Philadelphia, PA",
-      "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Med-Sch-Richards-Building---5th-Floor/Neuroimaging-Data-Analyst-Junior_JR00121050-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "28d",
-      "days_ago": 28,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "data"
-    },
-    {
-      "company": "State Street",
-      "title": "Junior SIEM Data Engineer",
-      "location": "Quincy, MA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Rocket Companies",
+      "title": "Machine Learning Engineer 1",
+      "location": "Lago Vista, TX",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lake-Vista-TX/Machine-Learning-Engineer-I_R-084092?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "ai_ml"
+    },
     {
       "company": "\ud83d\udd25 ByteDance",
       "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
@@ -241,19 +251,169 @@
       "days_ago": 1,
       "first_seen": "2026-08-05T17:22:57.066774",
       "category": "ai_ml"
-    },
-    {
-      "company": "Quora",
-      "title": "Software Engineer New Grad - Machine Learning Platform",
-      "location": "Remote in USARemote in Canada",
-      "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Ciena",
+      "title": "Embedded Software Developer New Grad",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Jupiter, FL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "Mach Industries",
+      "title": "Software Engineer New Grad - Software - GNC",
+      "location": "Huntington Beach, CA",
+      "url": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "Cohesity",
+      "title": "Software Engineer New Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "Comcast",
+      "title": "Software Engineer 1 - Software Development & Engineering",
+      "location": "Philadelphia, PA",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "Reliance",
+      "title": "AI Software Engineer 1",
+      "location": "Chicago, IL",
+      "url": "https://careers.reliance.com/jobs/3330?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Apple",
+      "title": "Software Engineer - Information Systems and Technology - Early Career",
+      "location": "Austin, TX",
+      "url": "https://jobs.apple.com/en-us/details/200677377?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "Sentry",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Anaheim, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01865680?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Entry Level Software Developer",
+      "location": "Randolph AFB, TX",
+      "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674053935?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "9to9 Software Solutions",
+      "title": "Entry Level Software Developer",
+      "location": "Copperhill, TN",
+      "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
+    {
+      "company": "AbbVie",
+      "title": "Associate Software Engineer 1",
+      "location": "North Chicago, IL",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-12T16:50:50.397840",
+      "category": "software"
+    },
     {
       "company": "Blue Origin",
       "title": "Avionics / Embedded Software Engineer 1 - Early Career",
@@ -702,86 +862,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-08-02T16:52:15.392617",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Application Software Developer New Grad",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-3?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Application Software Developer New Grad",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Application Software Developer New Grad",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Application Software Developer New Grad",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
-      "location": "Livonia, MI",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-01T16:53:10.830216",
       "category": "software"
     }
   ]
