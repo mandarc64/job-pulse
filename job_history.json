@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Smarter Agent",
+      "title": "Junior Data Engineer - Multiple Teams",
+      "location": "Collingswood, NJ",
+      "url": "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "data"
+    },
+    {
       "company": "Cigna Group",
       "title": "Technology Development Program New Grad - Data & Analytics Engineering Track",
       "location": "Morris Plains, NJSt. Louis, MOBloomfield, CT",
@@ -159,16 +169,6 @@
       "days_ago": 0,
       "first_seen": "2026-08-08T16:24:28.171078",
       "category": "data"
-    },
-    {
-      "company": "Tyson Foods",
-      "title": "Data Engineer 1 - Inventory Optimization",
-      "location": "Springdale, AR",
-      "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-07T16:45:16.553209",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -211,19 +211,79 @@
       "days_ago": 1,
       "first_seen": "2026-08-12T16:50:50.397840",
       "category": "ai_ml"
-    },
-    {
-      "company": "\ud83d\udd25 ByteDance",
-      "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7667726338627356933/detail?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-07T16:45:16.553209",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "The Walt Disney Company",
+      "title": "Software Engineer 1 - Observability & Insights",
+      "location": "Glendale, CANYC",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "LMI",
+      "title": "Junior Android Engineer - RFID",
+      "location": "Remote in USA",
+      "url": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "Johnson Controls",
+      "title": "Software Engineer 1 - Data Center Engineering",
+      "location": "Glendale, WI",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "CACI",
+      "title": "Entry Level Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "Charta Health",
+      "title": "Software Engineer New Grad",
+      "location": "SFNYC",
+      "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Apple",
+      "title": "Software Engineer - IS&T Early Career Opportunities",
+      "location": "Cupertino, CASunnyvale, CA",
+      "url": "https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
+    {
+      "company": "WOOD Consulting Services",
+      "title": "Software Engineer 0 - Entry-Level Software Engineering",
+      "location": "Fort Meade, MD",
+      "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-18T16:22:51.362799",
+      "category": "software"
+    },
     {
       "company": "General Dynamics Mission Systems",
       "title": "Software Engineer - Entry Level",
