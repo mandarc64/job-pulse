@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "\u21b3",
+      "title": "Commercial Risk Data Analyst New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "data"
+    },
+    {
+      "company": "Bank of Montreal",
+      "title": "Commercial Risk Data Analyst New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "data"
+    },
+    {
+      "company": "Dark Wolf Solutions",
+      "title": "Junior Data Engineer",
+      "location": "Chantilly, VAHerndon, VA",
+      "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "data"
+    },
+    {
       "company": "Smarter Agent",
       "title": "Junior Data Engineer - Multiple Teams",
       "location": "Collingswood, NJ",
@@ -139,36 +169,6 @@
       "days_ago": 0,
       "first_seen": "2026-08-09T16:25:51.158965",
       "category": "data"
-    },
-    {
-      "company": "Hitachi",
-      "title": "Junior Condition Monitoring and Analytics Engineer",
-      "location": "London, UK",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Maintenance-Analytics-Engineer_R0108106?utm_source=Simplify&ref=Simplify",
-      "date_posted": "16d",
-      "days_ago": 16,
-      "first_seen": "2026-08-08T16:24:28.171078",
-      "category": "data"
-    },
-    {
-      "company": "RBI",
-      "title": "Data Engineer 1",
-      "location": "Miami, FL",
-      "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-08-08T16:24:28.171078",
-      "category": "data"
-    },
-    {
-      "company": "Cortica",
-      "title": "Junior AI Data Engineer",
-      "location": "San Diego, CA",
-      "url": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-08T16:24:28.171078",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -214,6 +214,86 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Jupiter, FL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Windsor Locks, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-I--Onsite-_01866057?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Secure Communications",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software--Secure-Communications--Engineer-1--Onsite-_01866566?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "Dark Wolf Solutions",
+      "title": "Junior AI Software Engineer",
+      "location": "Chantilly, VAHerndon, VA",
+      "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "Koah",
+      "title": "Software Engineer - Early Career",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
+    {
+      "company": "Astrion",
+      "title": "Junior Software Developer - Datalinks Test Flight",
+      "location": "Eglin AFB, FL",
+      "url": "https://careers.astrion.us/jobs/24705?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-19T16:22:41.187667",
+      "category": "software"
+    },
     {
       "company": "The Walt Disney Company",
       "title": "Software Engineer 1 - Observability & Insights",
@@ -1022,26 +1102,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-10T16:46:28.532166",
-      "category": "software"
-    },
-    {
-      "company": "Freeform",
-      "title": "Software Engineer New Grad",
-      "location": "LA",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-08T16:24:28.171078",
-      "category": "software"
-    },
-    {
-      "company": "Torch Technologies",
-      "title": "Software Engineer 1",
-      "location": "Huntsville, AL",
-      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-08T16:24:28.171078",
       "category": "software"
     }
   ]
