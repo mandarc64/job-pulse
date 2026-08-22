@@ -179,36 +179,6 @@
       "days_ago": 1,
       "first_seen": "2026-08-12T16:50:50.397840",
       "category": "data"
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Data Engineer 1",
-      "location": "6 locationsHouston, TXCharlotte, NCSan Antonio, TXBeavercreek, OHAtlanta, GAHuntsville, AL",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "data"
-    },
-    {
-      "company": "LPL Financial Holdings",
-      "title": "Data Engineering New Grad",
-      "location": "Austin, TXFort Mill, SCCharlotte, NC",
-      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "data"
-    },
-    {
-      "company": "Knowledge Services",
-      "title": "Junior Data Engineer",
-      "location": "Indianapolis, IN",
-      "url": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -254,6 +224,96 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Aurora, CO",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer 1",
+      "location": "Kalispell, MT",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "Hyve Solutions",
+      "title": "Software Engineer New Grad",
+      "location": "Fremont, CA",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Brea, CA",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "Mercury Insurance",
+      "title": "Software Engineer 1 Test",
+      "location": "Brea, CA",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "H-E-B",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "location": "San Antonio, TX",
+      "url": "https://careers.heb.com/jobs/231773?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer - Entry Level",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1",
+      "location": "Yarmouth, ME",
+      "url": "https://careers.garmin.com/jobs/19680?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 New Grad - QA",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-22T16:15:18.213332",
+      "category": "software"
+    },
     {
       "company": "Ciena",
       "title": "Embedded Software Developer New Grad",
@@ -1222,96 +1282,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-12T16:50:50.397840",
-      "category": "software"
-    },
-    {
-      "company": "Blue Origin",
-      "title": "Avionics / Embedded Software Engineer 1 - Early Career",
-      "location": "LAKent, WA",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Sterling, VA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Onsite-_01864802?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "Cox Automotive",
-      "title": "Entry Level Software Engineer",
-      "location": "Carmel, IN",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "LPL Financial Holdings",
-      "title": "Software Engineering New Grad",
-      "location": "Austin, TXFort Mill, SCCharlotte, NC",
-      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Software Engineer 1 - AI and Decision Product Enablement",
-      "location": "O'Fallon, MO",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "Teledyne",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Microsoft",
-      "title": "Software Engineer 1/2 - Identity and Network Access",
-      "location": "Mountain View, CA",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953615?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-11T16:51:37.467286",
-      "category": "software"
-    },
-    {
-      "company": "Captivation",
-      "title": "Software Engineer 0 - Multiple Teams",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5384983008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-11T16:51:37.467286",
       "category": "software"
     }
   ]
