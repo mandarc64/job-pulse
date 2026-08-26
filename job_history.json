@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems \ud83c\udf93",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59654?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "data"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Data Science Software Engineer 1 New Grad - Data Science",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "data"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Data Scientist/Engineer New Grad - Analytic Capabilities \ud83c\udf93",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59818?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "data"
+    },
+    {
       "company": "\u21b3",
       "title": "Junior Data Analyst - People Analytics",
       "location": "Calgary, AB, CanadaEdmonton, AB, CanadaHalifax Regional Municipality, NS, Canada",
@@ -141,19 +171,109 @@
       "days_ago": 1,
       "first_seen": "2026-08-25T16:28:04.235111",
       "category": "ai_ml"
-    },
-    {
-      "company": "Wavestone",
-      "title": "Junior AI Engineer - AI & Data Team",
-      "location": "Pittsburgh, PA",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000143599414?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "True Anomaly",
+      "title": "Flight Software Engineer 1 New Grad",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "Bank of Montreal",
+      "title": "Software Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "Micron Technology",
+      "title": "System Software Engineer New Grad",
+      "location": "Boise, ID",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 New Grad - Spacecraft Simulation",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "Maximor AI",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - 2027 Start",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "Zip",
+      "title": "Software Engineer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics UK",
+      "title": "Junior Software Engineer",
+      "location": "Blackwood, UK",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000145530335?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 New Grad - Perception",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-26T16:42:40.791675",
+      "category": "software"
+    },
     {
       "company": "Ciena",
       "title": "Embedded Software Engineer New Grad",
@@ -722,236 +842,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-17T16:19:27.232289",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01863513?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Winston-Salem, NC",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I--Onsite-_01866721?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineer-I--Onsite-_01866621?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01866531?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "East Hartford, CT",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Software",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Software - Starlink",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Embedded Software Engineer New Grad",
-      "location": "Sunnyvale, CA",
-      "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "Lennar",
-      "title": "Software Engineer 1",
-      "location": "Miami, FLIrving, TX",
-      "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "FactSet",
-      "title": "Software Engineer 1 - Infrastructure",
-      "location": "London, UK",
-      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Software-Engineer-I--Infrastructure_R32300?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Annapolis, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01867023?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Burnsville, MN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineer-I--Onsite-_01866686?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Melbourne, FL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Fullerton, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "University Corporation for Atmospheric Research",
-      "title": "CESM Software Engineer 1 - Computer Engineering",
-      "location": "Boulder, CO",
-      "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "WeRide",
-      "title": "Software Engineer New Grad - Algorithm \ud83c\udf93",
-      "location": "San Jose, CA",
-      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 SpaceX",
-      "title": "Software Engineer New Grad - Software - Starlink",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "Applied Intuition",
-      "title": "Software Engineer New Grad - December 2026",
-      "location": "Ann Arbor, MISunnyvale, CA",
-      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Notion",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
-      "category": "software"
-    },
-    {
-      "company": "Flow Engineering",
-      "title": "Software Engineer - Early Career",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-15T16:16:04.195692",
       "category": "software"
     }
   ]
