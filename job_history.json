@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "True Anomaly",
+      "title": "Data Engineer 1",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "data"
+    },
+    {
+      "company": "Hatch IT",
+      "title": "Junior Data Engineer - DEA",
+      "location": "Arlington County, Arlington, VA",
+      "url": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "data"
+    },
+    {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems \ud83c\udf93",
       "location": "Laurel, MD",
@@ -174,6 +194,96 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Software Engineer New Grad - Software Engineering",
+      "location": "Salt Lake City, UT",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Assoc,-Software-Engineer-(New-Grad-Salt-Lake-City,-UT)-1-1-1-UT-84117/1424142200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Aviation Backend Web",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/19142?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Aviation Backend Web",
+      "location": "Chanhassen, MN",
+      "url": "https://careers.garmin.com/jobs/19732?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "Micron Technology",
+      "title": "Software Engineer New Grad",
+      "location": "Boise, ID",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Lone Tree, CODayton, OHPlano, TX",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Lone Tree, CODayton, OHPlano, TX",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
+    {
+      "company": "Inductive Automation",
+      "title": "Software Engineer 1",
+      "location": "Folsom, CA",
+      "url": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-28T00:42:35.744747",
+      "category": "software"
+    },
     {
       "company": "True Anomaly",
       "title": "Flight Software Engineer 1 New Grad",
@@ -832,16 +942,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer - Entry Level",
-      "location": "Scottsdale, AZ",
-      "url": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-17T16:19:27.232289",
       "category": "software"
     }
   ]
