@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Modeler and Data Analyst New Grad \ud83c\udf93",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59858?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "data"
+    },
+    {
+      "company": "Solace Health",
+      "title": "Associate Data Engineer - College Grad",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "data"
+    },
+    {
       "company": "True Anomaly",
       "title": "Data Engineer 1",
       "location": "Long Beach, CADenver, CO",
@@ -169,16 +189,6 @@
       "days_ago": 0,
       "first_seen": "2026-08-19T16:22:41.187667",
       "category": "data"
-    },
-    {
-      "company": "Smarter Agent",
-      "title": "Junior Data Engineer - Multiple Teams",
-      "location": "Collingswood, NJ",
-      "url": "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -194,6 +204,56 @@
     }
   ],
   "software": [
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer - Intel Sector",
+      "location": "Laurel, MD",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "software"
+    },
+    {
+      "company": "Torch Technologies",
+      "title": "Junior Software Engineer - Entry Level",
+      "location": "Huntsville, AL",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "software"
+    },
+    {
+      "company": "Empower AI",
+      "title": "Junior Software Developer - Systems Software",
+      "location": "Remote in USA",
+      "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-08-29T00:18:59.284520",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Embedded Software Engineer 1",
@@ -872,76 +932,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-19T16:22:41.187667",
-      "category": "software"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Software Engineer 1 - Observability & Insights",
-      "location": "Glendale, CANYC",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "LMI",
-      "title": "Junior Android Engineer - RFID",
-      "location": "Remote in USA",
-      "url": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "Johnson Controls",
-      "title": "Software Engineer 1 - Data Center Engineering",
-      "location": "Glendale, WI",
-      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Entry Level Software Engineer",
-      "location": "Annapolis Junction, MD",
-      "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "Charta Health",
-      "title": "Software Engineer New Grad",
-      "location": "SFNYC",
-      "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Apple",
-      "title": "Software Engineer - IS&T Early Career Opportunities",
-      "location": "Cupertino, CASunnyvale, CA",
-      "url": "https://jobs.apple.com/en-us/details/200678510?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
-      "category": "software"
-    },
-    {
-      "company": "WOOD Consulting Services",
-      "title": "Software Engineer 0 - Entry-Level Software Engineering",
-      "location": "Fort Meade, MD",
-      "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-18T16:22:51.362799",
       "category": "software"
     }
   ]
