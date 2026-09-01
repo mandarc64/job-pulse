@@ -2,6 +2,36 @@
   "data": [
     {
       "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Sensor Systems/Data Analytics New Grad",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "data"
+    },
+    {
+      "company": "Capco",
+      "title": "Junior AI / Data Engineering Analyst - Technology & Engineering",
+      "location": "Orlando, FL",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/8164958?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "data"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Data Analyst New Grad - Engagement Optimization",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59507?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "data"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Modeler and Data Analyst New Grad \ud83c\udf93",
       "location": "Laurel, MD",
       "url": "https://careers.jhuapl.edu/jobs/59858?icims=1&utm_source=Simplify&ref=Simplify",
@@ -99,19 +129,19 @@
       "days_ago": 1,
       "first_seen": "2026-08-25T16:28:04.235111",
       "category": "data"
-    },
-    {
-      "company": "National Software Management",
-      "title": "Entry Level Data Analyst / Business Analyst",
-      "location": "Jersey City, NJ",
-      "url": "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-21T16:23:59.060988",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence \ud83c\udf93",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59888?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "ai_ml"
+    },
     {
       "company": "Royal Bank of Canada",
       "title": "Machine Learning Software Engineer New Grad",
@@ -124,6 +154,166 @@
     }
   ],
   "software": [
+    {
+      "company": "Blue Origin",
+      "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
+      "location": "7 locationsSeattle, WALACape Canaveral, FLKent, WADenver, COHuntsville, ALVan Horn, TX",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "title": "Software Engineer New Grad \ud83c\udf93",
+      "location": "Salt Lake City, UT",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425107000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Ciena",
+      "title": "Software Developer New Grad",
+      "location": "Atlanta, GA",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "General Motors",
+      "title": "Entry Level Software Engineer",
+      "location": "Milford, MIWarren, MI",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Katalyst Space Technologies",
+      "title": "Software Engineer New Grad - Software Engineer 1",
+      "location": "Broomfield, CO",
+      "url": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Software Engineer 1 - Rights & Accounting",
+      "location": "Glendale, CA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Alation",
+      "title": "UX Software Engineer 1 - Contractor",
+      "location": "Redwood City, CA",
+      "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer New Grad",
+      "location": "Alpharetta, GA",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "General Motors",
+      "title": "Entry Level Software Engineer",
+      "location": "Milford, MIWarren, MI",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Mimecast",
+      "title": "Software Engineer 1 - Incydr Insider Risk Management",
+      "location": "Minneapolis, MN",
+      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6606?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Everlaw",
+      "title": "Software Engineer 1",
+      "location": "Oakland, CA",
+      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "WhatNot",
+      "title": "Software Engineer New Grad",
+      "location": "4 locationsSeattle, WASFLANYC",
+      "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Sierra",
+      "title": "Software Engineer New Grad - Agent",
+      "location": "SFNYC",
+      "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - CVN 21 Design",
+      "location": "Newport News, VA",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Engineer 1 - CVN 21 Design",
+      "location": "Newport News, VA",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Software Developer New Grad - Engagement Optimization",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59510?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-01T19:07:31.735065",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
@@ -642,46 +832,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-22T16:15:18.213332",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Embedded Software Developer New Grad",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-21T16:23:59.060988",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-21T16:23:59.060988",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-21T16:23:59.060988",
-      "category": "software"
-    },
-    {
-      "company": "Principal Financial Group",
-      "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused",
-      "location": "Des Moines, IA",
-      "url": "https://careers.principal.com/jobs/51898?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-21T16:23:59.060988",
       "category": "software"
     }
   ]
