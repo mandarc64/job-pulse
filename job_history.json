@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "National Software Management",
+      "title": "Entry Level Data Analyst - Business Analyst",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "5d",
+      "days_ago": 5,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "data"
+    },
+    {
+      "company": "Aramark",
+      "title": "Junior Data Engineer",
+      "location": "Rockville, MD",
+      "url": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "data"
+    },
+    {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Sensor Systems/Data Analytics New Grad",
       "location": "Laurel, MD",
@@ -133,6 +153,26 @@
   ],
   "ai_ml": [
     {
+      "company": "\u21b3",
+      "title": "Machine Learning Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "ai_ml"
+    },
+    {
+      "company": "Bank of Montreal",
+      "title": "Machine Learning Developer New Grad",
+      "location": "Toronto, ON, Canada",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "ai_ml"
+    },
+    {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Machine Learning PhD New Grad - Machine Learning and Artificial Intelligence \ud83c\udf93",
       "location": "Laurel, MD",
@@ -154,6 +194,96 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics UK",
+      "title": "Junior Hardware Engineer Developer - FPGA",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147039249?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Anduril",
+      "title": "Early Career Flight Software Engineer",
+      "location": "Costa Mesa, CA",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Two Six Technologies",
+      "title": "Junior Software Engineer",
+      "location": "Ellicott City, MD",
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6179900004?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Trulioo",
+      "title": "Junior Software Engineer \ud83c\udf93",
+      "location": "San Diego, CA",
+      "url": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Software Engineer - AI/ML Applications",
+      "location": "Huntsville, AL",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Software Engineer 1",
+      "location": "Holtsville, NY",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "Arch",
+      "title": "Software Engineer - Early Careers",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
+    {
+      "company": "SIFT",
+      "title": "Software Engineer New Grad",
+      "location": "Marina Del Rey, CA",
+      "url": "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-03T19:00:46.080757",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
