@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "\u21b3",
+      "title": "Data Science Associate New Grad - Finance Rotational Program",
+      "location": "Calgary, AB, Canada",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "data"
+    },
+    {
+      "company": "Canadian Tire",
+      "title": "Data Science Associate New Grad - Finance Rotational Program",
+      "location": "Toronto, ON, Canada",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "data"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Data Scientist New Grad - Computer Scientist - Decision Systems \ud83c\udf93",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59918?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "data"
+    },
+    {
       "company": "National Software Management",
       "title": "Entry Level Data Analyst - Business Analyst",
       "location": "Atlanta, GA",
@@ -119,36 +149,6 @@
       "days_ago": 0,
       "first_seen": "2026-08-26T16:42:40.791675",
       "category": "data"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Junior Data Analyst - People Analytics",
-      "location": "Calgary, AB, CanadaEdmonton, AB, CanadaHalifax Regional Municipality, NS, Canada",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Calgary---8th-Ave-SW/Junior-Data-Analyst--People-Analytics_JR6898?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "data"
-    },
-    {
-      "company": "BDO Canada",
-      "title": "Junior Data Analyst - People Analytics",
-      "location": "6 locationsBarrie, ON, CanadaToronto, ON, CanadaKitchener-Waterloo, Waterloo Regional Municipality, ON, CanadaLondon, ON, CanadaOttawa, ON, CanadaVancouver, BC, Canada",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Junior-Data-Analyst--People-Analytics_JR6894?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "data"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Data Engineer",
-      "location": "Chantilly, VA",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -181,19 +181,49 @@
       "days_ago": 0,
       "first_seen": "2026-09-01T19:07:31.735065",
       "category": "ai_ml"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "title": "Machine Learning Software Engineer New Grad",
-      "location": "Toronto, ON, CanadaVancouver, BC, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59974?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Entry Level Software Engineer",
+      "location": "Lakewood, OH",
+      "url": "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "software"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "software"
+    },
+    {
+      "company": "AiPrise",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-05T17:50:47.299034",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer New Grad",
@@ -832,146 +862,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-26T16:42:40.791675",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Embedded Software Engineer New Grad",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineer 1",
-      "location": "Milpitas, CASan Jose, CA",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Garmin",
-      "title": "Software Engineer 1",
-      "location": "Olathe, KS",
-      "url": "https://careers.garmin.com/jobs/19695?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineer 1",
-      "location": "Milpitas, CA",
-      "url": "https://careers.cisco.com/global/en/job/2023527?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Software Engineer 1",
-      "location": "Melbourne, FL",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "KBR",
-      "title": "Junior Software Engineer",
-      "location": "7 locationsKing of Prussia, PAChantilly, VASan Antonio, TXClearfield, UTColumbia, MDBeavercreek, OHEl Segundo, CA",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Nightwing Intelligence Solutions",
-      "title": "Software Engineer 1",
-      "location": "Sterling, VA",
-      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Northrop Grumman",
-      "title": "Java Software Engineer 1 or 2",
-      "location": "Aurora, COMorrisville, NCLinthicum Heights, MD",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Java-Software-Engineer-Level-1-or-2_R10247380?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Junior Full Stack Developer New Grad",
-      "location": "Toronto, ON, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Royal Bank of Canada",
-      "title": "Java Full Stack Developer New Grad",
-      "location": "Mississauga, ON, Canada",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Andover, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "SteerBridge",
-      "title": "Junior Software Engineer",
-      "location": "Vienna, VA",
-      "url": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Bloxd",
-      "title": "Software Engineer New Grad",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
-      "category": "software"
-    },
-    {
-      "company": "Fidelity Investments",
-      "title": "Software Engineer New Grad - LEAP",
-      "location": "Westlake, TXMerrimack, NH",
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-25T16:28:04.235111",
       "category": "software"
     }
   ]
