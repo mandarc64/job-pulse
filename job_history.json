@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Capital One",
+      "title": "Data Analyst New Grad - Data Analyst",
+      "location": "Toronto, ON, Canada",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "data"
+    },
+    {
       "company": "ID.me",
       "title": "Data Scientist New Grad \ud83c\udf93",
       "location": "Mountain View, CA",
@@ -89,26 +99,6 @@
       "days_ago": 0,
       "first_seen": "2026-09-01T19:07:31.735065",
       "category": "data"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Modeler and Data Analyst New Grad \ud83c\udf93",
-      "location": "Laurel, MD",
-      "url": "https://careers.jhuapl.edu/jobs/59858?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "data"
-    },
-    {
-      "company": "Solace Health",
-      "title": "Associate Data Engineer - College Grad",
-      "location": "Redwood City, CA",
-      "url": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -144,6 +134,116 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "AeroVironment",
+      "title": "Software Engineer 1",
+      "location": "Sunrise, FL",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01872860?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Advanced Products and Solutions",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01872248?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Software Engineer 1 - Fullstack",
+      "location": "Holtsville, NY",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer--I--Fullstack-_JR103057?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "CTG",
+      "title": "Software Engineer 1",
+      "location": "Painted Post, NY",
+      "url": "https://careers.ctg.com/jobs/17557?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 SpaceX",
+      "title": "Software Engineer New Grad - Software - Starship",
+      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 New Grad - Elixir",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-09T18:59:29.363253",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -602,56 +702,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-08-31T21:14:58.520923",
-      "category": "software"
-    },
-    {
-      "company": "Leidos",
-      "title": "Junior Software Engineer - Intel Sector",
-      "location": "Laurel, MD",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Laurel-MD/Junior-Software-Engineer_R-00190592?utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Richardson, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "software"
-    },
-    {
-      "company": "Torch Technologies",
-      "title": "Junior Software Engineer - Entry Level",
-      "location": "Huntsville, AL",
-      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-08-29T00:18:59.284520",
-      "category": "software"
-    },
-    {
-      "company": "Empower AI",
-      "title": "Junior Software Developer - Systems Software",
-      "location": "Remote in USA",
-      "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-29T00:18:59.284520",
       "category": "software"
     }
   ]
