@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Sun Life",
+      "title": "Junior Security Data Analyst",
+      "location": "Toronto, ON, Canada",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "data"
+    },
+    {
       "company": "Norton Rose Fulbright",
       "title": "Junior Data Analyst",
       "location": "London, UK",
@@ -113,6 +123,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Wavestone",
+      "title": "Junior AI Engineer - AI & Data Team",
+      "location": "Pittsburgh, PA",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "ai_ml"
+    },
+    {
       "company": "\u21b3",
       "title": "Machine Learning Developer New Grad",
       "location": "Toronto, ON, Canada",
@@ -144,6 +164,56 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "software"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "title": "Software Engineer 1",
+      "location": "Millbrae, CA",
+      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Android",
+      "location": "Yarmouth, ME",
+      "url": "https://careers.garmin.com/jobs/16587?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "software"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Software Engineer 1",
+      "location": "Kennesaw, GA",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/Software-Engineer--I_JR103242-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "software"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Software Engineer New Grad - Multiple Teams",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/59817?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-11T18:54:45.992447",
+      "category": "software"
+    },
     {
       "company": "General Motors",
       "title": "Software Engineer Early Career - AV Launch",
@@ -812,56 +882,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-01T19:07:31.735065",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-31T21:14:58.520923",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
-      "location": "Boca Raton, FL",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-31T21:14:58.520923",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-31T21:14:58.520923",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer New Grad",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-31T21:14:58.520923",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-08-31T21:14:58.520923",
       "category": "software"
     }
   ]
