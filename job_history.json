@@ -135,6 +135,16 @@
   ],
   "software": [
     {
+      "company": "Autostore",
+      "title": "Entry Level Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-13T18:27:38.649167",
+      "category": "software"
+    },
+    {
       "company": "\u21b3",
       "title": "Software Engineer 1 - Gen4 Tactical Airborne Radar",
       "location": "El Segundo, CA",
@@ -682,56 +692,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-03T19:00:46.080757",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-02T19:08:44.647861",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Open Source Software Developer New Grad - QNX Everywhere",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-02T19:08:44.647861",
-      "category": "software"
-    },
-    {
-      "company": "Blackberry",
-      "title": "Open Source Software Developer New Grad - QNX Everywhere",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-02T19:08:44.647861",
-      "category": "software"
-    },
-    {
-      "company": "Valon",
-      "title": "Software Engineer New Grad",
-      "location": "SFNYC",
-      "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-02T19:08:44.647861",
-      "category": "software"
-    },
-    {
-      "company": "Tebra",
-      "title": "Software Engineer 1 - Back-End",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/tebra/jobs/4726985005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-02T19:08:44.647861",
       "category": "software"
     }
   ]
