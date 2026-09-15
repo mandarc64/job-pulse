@@ -106,6 +106,36 @@
   "software": [
     {
       "company": "RTX",
+      "title": "Software Engineer New Grad",
+      "location": "Arlington County, Arlington, VA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-15T19:25:09.931651",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tewksbury, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-15T19:25:09.931651",
+      "category": "software"
+    },
+    {
+      "company": "Superhuman",
+      "title": "Software Engineer - Early Career",
+      "location": "Seattle, WASF",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-15T19:25:09.931651",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
       "title": "Software Engineer 1",
       "location": "Indianapolis, IN",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683?utm_source=Simplify&ref=Simplify",
@@ -582,56 +612,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-05T17:50:47.299034",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-04T18:44:44.068670",
-      "category": "software"
-    },
-    {
-      "company": "Cadence Design Systems",
-      "title": "Software Engineer New Grad",
-      "location": "San Jose, CA",
-      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-04T18:44:44.068670",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 SpaceX",
-      "title": "Software Engineer New Grad - Software",
-      "location": "Brownsville, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "16d",
-      "days_ago": 16,
-      "first_seen": "2026-09-04T18:44:44.068670",
-      "category": "software"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Software Engineer - New College Grad-Master's \ud83c\udf93",
-      "location": "Chandler, AZ",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-04T18:44:44.068670",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 DoorDash",
-      "title": "Software Engineer 1 - Entry-Level",
-      "location": "5 locationsSeattle, WASFLANYCSunnyvale, CA",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-04T18:44:44.068670",
       "category": "software"
     }
   ]
