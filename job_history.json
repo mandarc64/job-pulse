@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "SteerBridge",
+      "title": "Junior Data Engineer",
+      "location": "Vienna, VA",
+      "url": "https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-19T18:20:01.628445",
+      "category": "data"
+    },
+    {
       "company": "Hewlett Packard",
       "title": "Junior Data Analyst / Project Coordinator",
       "location": "Cambridge, UK",
@@ -59,16 +69,6 @@
       "days_ago": 1,
       "first_seen": "2026-09-09T18:59:29.363253",
       "category": "data"
-    },
-    {
-      "company": "ID.me",
-      "title": "Data Scientist New Grad \ud83c\udf93",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-08T19:10:56.721859",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -84,6 +84,46 @@
     }
   ],
   "software": [
+    {
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-09-19T18:20:01.628445",
+      "category": "software"
+    },
+    {
+      "company": "Toyota",
+      "title": "Software Engineer - Early Career Professional",
+      "location": "Plano, TX",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-19T18:20:01.628445",
+      "category": "software"
+    },
+    {
+      "company": "Together AI",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-19T18:20:01.628445",
+      "category": "software"
+    },
+    {
+      "company": "Perseus Group",
+      "title": "Software Engineer 1",
+      "location": "Sharon, PAJacksonville, FL",
+      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-19T18:20:01.628445",
+      "category": "software"
+    },
     {
       "company": "Radiant",
       "title": "Software Engineer New Grad",
@@ -792,26 +832,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-09T18:59:29.363253",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-08T19:10:56.721859",
-      "category": "software"
-    },
-    {
-      "company": "Nexthop.ai",
-      "title": "Software Engineer New Grad - Hardware Diagnostics",
-      "location": "Santa Clara, CA",
-      "url": "https://nexthopai.bamboohr.com/careers/107/?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-08T19:10:56.721859",
       "category": "software"
     }
   ]
