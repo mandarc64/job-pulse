@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Tyson Foods",
+      "title": "Data Engineer 1",
+      "location": "Springdale, AR",
+      "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "data"
+    },
+    {
       "company": "SteerBridge",
       "title": "Junior Data Engineer",
       "location": "Vienna, VA",
@@ -39,31 +49,80 @@
       "days_ago": 1,
       "first_seen": "2026-09-12T18:00:58.671875",
       "category": "data"
+    }
+  ],
+  "ai_ml": [],
+  "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665?utm_source=Simplify&ref=Simplify",
+      "date_posted": "20d",
+      "days_ago": 20,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "location": "Dahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
+    {
+      "company": "Cox",
+      "title": "Entry Level Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
+    {
+      "company": "State Street",
+      "title": "Software Engineer Junior - REST API Development - Officer",
+      "location": "Burlington, MA",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
     },
     {
       "company": "Sun Life",
-      "title": "Junior Security Data Analyst",
-      "location": "Toronto, ON, Canada",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983?utm_source=Simplify&ref=Simplify",
+      "title": "Junior Analytics and Automation Developer Student - Winter 2027",
+      "location": "North York, ON, CanadaWaterloo, ON, Canada",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514?utm_source=Simplify&ref=Simplify",
       "date_posted": "1d",
       "days_ago": 1,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "data"
-    }
-  ],
-  "ai_ml": [
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
     {
-      "company": "Wavestone",
-      "title": "Junior AI Engineer - AI & Data Team",
-      "location": "Pittsburgh, PA",
-      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779?utm_source=Simplify&ref=Simplify",
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad - Engine",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify",
       "date_posted": "0d",
       "days_ago": 0,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "ai_ml"
-    }
-  ],
-  "software": [
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer New Grad - Helios",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-22T19:28:20.350267",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Embedded Software Engineer 1",
@@ -532,56 +591,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-12T18:00:58.671875",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "software"
-    },
-    {
-      "company": "Eikon Therapeutics",
-      "title": "Software Engineer 1",
-      "location": "Millbrae, CA",
-      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "software"
-    },
-    {
-      "company": "Garmin",
-      "title": "Software Engineer 1 - Android",
-      "location": "Yarmouth, ME",
-      "url": "https://careers.garmin.com/jobs/16587?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "software"
-    },
-    {
-      "company": "Zebra Technologies",
-      "title": "Software Engineer 1",
-      "location": "Kennesaw, GA",
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/Software-Engineer--I_JR103242-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-11T18:54:45.992447",
-      "category": "software"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Software Engineer New Grad - Multiple Teams",
-      "location": "Laurel, MD",
-      "url": "https://careers.jhuapl.edu/jobs/59817?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-11T18:54:45.992447",
       "category": "software"
     }
   ]
