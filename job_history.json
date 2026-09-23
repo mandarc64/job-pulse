@@ -39,20 +39,60 @@
       "days_ago": 0,
       "first_seen": "2026-09-14T20:06:14.287751",
       "category": "data"
-    },
-    {
-      "company": "Capital One",
-      "title": "Data Scientist New Grad",
-      "location": "Toronto, ON, Canada",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-12T18:00:58.671875",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Groundswell",
+      "title": "New Grad Position",
+      "location": "Remote - Virginia, USA +47",
+      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-09-23T19:23:00.186516",
+      "category": "software"
+    },
+    {
+      "company": "Groundswell",
+      "title": "New Grad Position",
+      "location": "Remote - Virginia, USA +47",
+      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-09-23T19:23:00.186516",
+      "category": "software"
+    },
+    {
+      "company": "DecisionPoint",
+      "title": "Junior Software Developer",
+      "location": "Scott AFB, IL",
+      "url": "https://careers-decisionpointcorp.icims.com/jobs/3786/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-23T19:23:00.186516",
+      "category": "software"
+    },
+    {
+      "company": "Cisco",
+      "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
+      "location": "Austin, TX",
+      "url": "https://careers.cisco.com/global/en/job/2025313?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-23T19:23:00.186516",
+      "category": "software"
+    },
+    {
+      "company": "Authentic",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-23T19:23:00.186516",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -551,46 +591,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-13T18:27:38.649167",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Gen4 Tactical Airborne Radar",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-12T18:00:58.671875",
-      "category": "software"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Software Engineer New Grad \ud83c\udf93",
-      "location": "Salt Lake City, UT",
-      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1429205900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-12T18:00:58.671875",
-      "category": "software"
-    },
-    {
-      "company": "Commure",
-      "title": "Software Engineer - Early Career",
-      "location": "LAMountain View, CA",
-      "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-12T18:00:58.671875",
-      "category": "software"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer 1 - Frontend - Upfunnel",
-      "location": "Remote in Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-12T18:00:58.671875",
       "category": "software"
     }
   ]
