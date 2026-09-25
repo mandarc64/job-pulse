@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "Applied Materials",
+      "title": "Data Scientist New Grad - Bachelor's/Master's \ud83c\udf93",
+      "location": "Austin, TX",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "data"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Junior Data Analyst",
+      "location": "Falls Church, VA",
+      "url": "https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "data"
+    },
+    {
+      "company": "Cadmus",
+      "title": "Junior Energy Data Analyst",
+      "location": "NYCPortland, ORBoulder, CO",
+      "url": "https://careers-cadmusgroup.icims.com/jobs/3241/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "data"
+    },
+    {
       "company": "IPT Global",
       "title": "Junior Data Scientist - Petroleum Engineering & Well Integrity",
       "location": "Houston, TX",
@@ -39,20 +69,91 @@
       "days_ago": 0,
       "first_seen": "2026-09-16T19:16:54.276357",
       "category": "data"
-    },
-    {
-      "company": "BDO Canada",
-      "title": "Business Analyst New Grad - Data & Analytics",
-      "location": "7 locationsMontreal, QC, CanadaToronto, ON, CanadaCalgary, AB, CanadaOakville, ON, CanadaEdmonton, AB, CanadaOttawa, ON, CanadaHalifax Regional Municipality, NS, Canada",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "data"
     }
   ],
-  "ai_ml": [],
+  "ai_ml": [
+    {
+      "company": "\ud83d\udd25 Adobe",
+      "title": "Machine Learning Engineer New Grad \ud83c\udf93",
+      "location": "7 locationsSeattle, WASFAustin, TXSan Jose, CAWaltham, MANYCLehi, UT",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "ai_ml"
+    }
+  ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Tucson, AZ",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Embedded Software Engineer 1",
+      "location": "Westminster, CO",
+      "url": "https://jobs.lever.co/CesiumAstro/d56f6207-fc5b-421d-904d-4d2e9ff621bf/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics",
+      "title": "Entry Level Software Developer",
+      "location": "New London, CT",
+      "url": "https://careers-gdeb.icims.com/jobs/20673/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Adobe",
+      "title": "Software Engineer New Grad",
+      "location": "6 locationsSeattle, WASFAustin, TXSan Jose, CANYCLehi, UT",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "Pacific Northwest National Laboratory",
+      "title": "Early Career Software Engineer",
+      "location": "Richland, WA",
+      "url": "https://careers.pnnl.gov/jobs/12171?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
+    {
+      "company": "ZipRecruiter",
+      "title": "Software Engineer New Grad - Multiple Teams",
+      "location": "Santa Monica, CA",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-25T19:44:58.338114",
+      "category": "software"
+    },
     {
       "company": "LexisNexis Risk Solutions",
       "title": "Software Engineer New Grad",
@@ -591,66 +692,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-15T19:25:09.931651",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Indianapolis, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "software"
-    },
-    {
-      "company": "Rocket Lab USA",
-      "title": "Flight Software Engineer 1",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "software"
-    },
-    {
-      "company": "Mimecast",
-      "title": "Software Engineer 1 - Endpoint Sensor",
-      "location": "Minneapolis, MN",
-      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Hardware In the Loop Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
-      "category": "software"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Software Engineer New Grad",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-14T20:06:14.287751",
       "category": "software"
     }
   ]
