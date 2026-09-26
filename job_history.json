@@ -73,6 +73,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Quora",
+      "title": "Software Engineer New Grad - Machine Learning Platform",
+      "location": "Remote in USARemote in Canada",
+      "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-26T18:54:08.351322",
+      "category": "ai_ml"
+    },
+    {
       "company": "\ud83d\udd25 Adobe",
       "title": "Machine Learning Engineer New Grad \ud83c\udf93",
       "location": "7 locationsSeattle, WASFAustin, TXSan Jose, CAWaltham, MANYCLehi, UT",
@@ -84,6 +94,46 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Gen4 Airborne Radar",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-26T18:54:08.351322",
+      "category": "software"
+    },
+    {
+      "company": "Abbott",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "location": "La Jolla, San Diego, CA",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-26T18:54:08.351322",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "West Valley City, UT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-26T18:54:08.351322",
+      "category": "software"
+    },
+    {
+      "company": "Varsity Brands",
+      "title": "Software Engineer 1 - .Net",
+      "location": "Memphis, TN",
+      "url": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-26T18:54:08.351322",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -662,36 +712,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-16T19:16:54.276357",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer New Grad",
-      "location": "Arlington County, Arlington, VA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-15T19:25:09.931651",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Tewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-15T19:25:09.931651",
-      "category": "software"
-    },
-    {
-      "company": "Superhuman",
-      "title": "Software Engineer - Early Career",
-      "location": "Seattle, WASF",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-15T19:25:09.931651",
       "category": "software"
     }
   ]
