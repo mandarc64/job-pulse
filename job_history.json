@@ -85,6 +85,26 @@
   ],
   "software": [
     {
+      "company": "\ud83d\udd25 SpaceX",
+      "title": "Software Engineer New Grad - Software - Starfall",
+      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-29T20:22:45.498796",
+      "category": "software"
+    },
+    {
+      "company": "TripAdvisor",
+      "title": "Software Engineer 1",
+      "location": "Oxford, UK",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-29T20:22:45.498796",
+      "category": "software"
+    },
+    {
       "company": "RTX",
       "title": "Software Engineer 1 - Gen4 Airborne Radar",
       "location": "El Segundo, CA",
@@ -442,26 +462,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-19T18:20:01.628445",
-      "category": "software"
-    },
-    {
-      "company": "Radiant",
-      "title": "Software Engineer New Grad",
-      "location": "El Segundo, CA",
-      "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-18T18:47:16.952833",
-      "category": "software"
-    },
-    {
-      "company": "Meow",
-      "title": "Software Engineer New Grad",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-18T18:47:16.952833",
       "category": "software"
     }
   ]
