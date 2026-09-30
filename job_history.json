@@ -49,19 +49,19 @@
       "days_ago": 0,
       "first_seen": "2026-09-22T19:28:20.350267",
       "category": "data"
-    },
-    {
-      "company": "SteerBridge",
-      "title": "Junior Data Engineer",
-      "location": "Vienna, VA",
-      "url": "https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-19T18:20:01.628445",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Laminar",
+      "title": "Junior Machine Learning Engineer - ML - Developer",
+      "location": "Somerville, MA",
+      "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "ai_ml"
+    },
     {
       "company": "Quora",
       "title": "Software Engineer New Grad - Machine Learning Platform",
@@ -84,6 +84,76 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "St. Petersburg, FL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
+      "location": "5 locationsWashingtonOregonAustin, TXRedmond, WASanta Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Backend Engineer \u2013 New Grad to Staff Level",
+      "location": "Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "Motorola",
+      "title": "Junior Software Engineer - Emergency Call Handling",
+      "location": "Gatineau, QC, CanadaOttawa, ON, Canada",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
+    {
+      "company": "EvenUp",
+      "title": "Software Engineer New Grad - AI Entities",
+      "location": "Toronto, ON, CanadaSF",
+      "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-09-30T20:26:38.825037",
+      "category": "software"
+    },
     {
       "company": "\ud83d\udd25 SpaceX",
       "title": "Software Engineer New Grad - Software - Starfall",
@@ -422,46 +492,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-21T20:12:56.861644",
-      "category": "software"
-    },
-    {
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer",
-      "location": "Annapolis Junction, MD",
-      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-09-19T18:20:01.628445",
-      "category": "software"
-    },
-    {
-      "company": "Toyota",
-      "title": "Software Engineer - Early Career Professional",
-      "location": "Plano, TX",
-      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-19T18:20:01.628445",
-      "category": "software"
-    },
-    {
-      "company": "Together AI",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-19T18:20:01.628445",
-      "category": "software"
-    },
-    {
-      "company": "Perseus Group",
-      "title": "Software Engineer 1",
-      "location": "Sharon, PAJacksonville, FL",
-      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-19T18:20:01.628445",
       "category": "software"
     }
   ]
