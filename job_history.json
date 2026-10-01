@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "company": "Kyndryl",
+      "title": "Data Analyst New Grad - Data Operations Associate",
+      "location": "Dallas, TX",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Careers-Consult-Program---Data-Operations-Associate_R-69022-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "data"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Data Engineer 1",
+      "location": "Arlington County, Arlington, VA",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "data"
+    },
+    {
+      "company": "Frontier Technology",
+      "title": "Early Career Associate Data Scientist",
+      "location": "Norfolk, VA",
+      "url": "https://careers-ftidefense.icims.com/jobs/7093/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "data"
+    },
+    {
       "company": "Applied Materials",
       "title": "Data Scientist New Grad - Bachelor's/Master's \ud83c\udf93",
       "location": "Austin, TX",
@@ -84,6 +114,76 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Embedded Software Engineer 1",
+      "location": "East Hartford, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "El Segundo, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Onsite-_01878759?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "KLA",
+      "title": "Software Engineer 1",
+      "location": "Ann Arbor, MI",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2641480?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Developer Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics",
+      "title": "Software Engineer 1/2",
+      "location": "Middletown, RI",
+      "url": "https://careers-gdeb.icims.com/jobs/17555/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-01T20:43:37.673087",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Software Engineer 1",
