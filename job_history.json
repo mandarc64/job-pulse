@@ -1,6 +1,46 @@
 {
   "data": [
     {
+      "company": "\u21b3",
+      "title": "Early Careers Analyst - Data Office: Data Engineering",
+      "location": "4 locationsCharlotte, NCJersey City, NJNYCAtlanta, GA",
+      "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "data"
+    },
+    {
+      "company": "AIG",
+      "title": "Early Careers Analyst - Data Office: Data Engineering",
+      "location": "4 locationsCharlotte, NCJersey City, NJNYCAtlanta, GA",
+      "url": "https://aig.wd1.myworkdayjobs.com/aig/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "data"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Master's University Graduate Data Scientist \ud83c\udf93",
+      "location": "4 locationsPalo Alto, CASeattle, WASFNYC",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "data"
+    },
+    {
+      "company": "\ud83d\udd25 Pinterest",
+      "title": "Data Scientist New Grad \ud83c\udf93",
+      "location": "4 locationsPalo Alto, CASeattle, WASFNYC",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157351&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "data"
+    },
+    {
       "company": "Kyndryl",
       "title": "Data Analyst New Grad - Data Operations Associate",
       "location": "Dallas, TX",
@@ -114,6 +154,76 @@
     }
   ],
   "software": [
+    {
+      "company": "United Launch Alliance",
+      "title": "Embedded Flight Software Engineer 1",
+      "location": "Centennial, CO",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1436016400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "Nutanix",
+      "title": "Software Engineer New Grad - Master\u2019s - Bachelor\u2019s + 2 \ud83c\udf93",
+      "location": "Vancouver, BC, Canada",
+      "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
+      "title": "Software Engineer 1 - Web Services",
+      "location": "Cincinnati, OH",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "Clay",
+      "title": "Early Career Software Engineer",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "University Grad Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Pinterest",
+      "title": "University Grad Software Engineer",
+      "location": "SFRemote in USA",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-02T20:16:08.708502",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Embedded Software Engineer 1",
@@ -562,36 +672,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Embedded Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-21T20:12:56.861644",
-      "category": "software"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Software Engineer New Grad",
-      "location": "Gloucester, MA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-21T20:12:56.861644",
-      "category": "software"
-    },
-    {
-      "company": "TeleTracking",
-      "title": "Software Engineer 1 - Logistics Engineering",
-      "location": "Pittsburgh, PA",
-      "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-21T20:12:56.861644",
       "category": "software"
     }
   ]
