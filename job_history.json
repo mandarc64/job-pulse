@@ -109,19 +109,19 @@
       "days_ago": 0,
       "first_seen": "2026-09-24T19:42:23.086641",
       "category": "data"
-    },
-    {
-      "company": "Tyson Foods",
-      "title": "Data Engineer 1",
-      "location": "Springdale, AR",
-      "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "data"
     }
   ],
   "ai_ml": [
+    {
+      "company": "Peraton",
+      "title": "Artificial Intelligence/Machine Learning Engineer 1",
+      "location": "Laurel, MD",
+      "url": "https://careers-peraton.icims.com/jobs/171539/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "ai_ml"
+    },
     {
       "company": "Laminar",
       "title": "Junior Machine Learning Engineer - ML - Developer",
@@ -154,6 +154,56 @@
     }
   ],
   "software": [
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144?utm_source=Simplify&ref=Simplify",
+      "date_posted": "8d",
+      "days_ago": 8,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "software"
+    },
+    {
+      "company": "Broadridge",
+      "title": "Junior Full Stack Software Engineer",
+      "location": "Newark, NJ",
+      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad",
+      "location": "SFNYC",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "software"
+    },
+    {
+      "company": "Harvey",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "software"
+    },
+    {
+      "company": "Parasail",
+      "title": "Software Engineer New Grad - Forward Deploy",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-03T18:55:57.195925",
+      "category": "software"
+    },
     {
       "company": "United Launch Alliance",
       "title": "Embedded Flight Software Engineer 1",
@@ -602,76 +652,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-23T19:23:00.186516",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665?utm_source=Simplify&ref=Simplify",
-      "date_posted": "20d",
-      "days_ago": 20,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Entry Level Software Engineer",
-      "location": "Dahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "Cox",
-      "title": "Entry Level Software Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "State Street",
-      "title": "Software Engineer Junior - REST API Development - Officer",
-      "location": "Burlington, MA",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "Sun Life",
-      "title": "Junior Analytics and Automation Developer Student - Winter 2027",
-      "location": "North York, ON, CanadaWaterloo, ON, Canada",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Engine",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-22T19:28:20.350267",
-      "category": "software"
-    },
-    {
-      "company": "SingleStore",
-      "title": "Software Engineer New Grad - Helios",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-22T19:28:20.350267",
       "category": "software"
     }
   ]
