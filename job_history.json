@@ -113,6 +113,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "36 locationsLexington, KYBoston, MAIndianapolis, INHouston, TXLouisville, KYKnoxville, TNNashville, TNWashington, DCSFAustin, TXCleveland, OHLATampa, FLSan Jose, CALivingston, NJGrand Rapids, MIMiami, FLDallas, TXThe Woodlands, TXPlano, TXBoca Raton, FLChicago, ILTallahassee, FLCharlotte, NCOakbrook Terrace, ILBurlington, VTSacramento, CAColumbus, OHHartford, CTSpringfield, ILNYCDenver, COFort Wayne, INSouth Bend, INSarasota, FLCosta Mesa, CA",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "ai_ml"
+    },
+    {
       "company": "Peraton",
       "title": "Artificial Intelligence/Machine Learning Engineer 1",
       "location": "Laurel, MD",
@@ -154,6 +164,146 @@
     }
   ],
   "software": [
+    {
+      "company": "General Dynamics UK",
+      "title": "Junior Hardware Engineering Developer",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000142894435?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Embedded Software Engineer 1",
+      "location": "Cary, NC",
+      "url": "https://careers.garmin.com/jobs/17783?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Receiver \u2013 Exciter - & Processing Architecture Software Engineer I",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475?utm_source=Simplify&ref=Simplify",
+      "date_posted": "18d",
+      "days_ago": 18,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01878512?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Peraton",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Aviation Database",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/17162?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "AeroVironment",
+      "title": "Junior Software Engineer",
+      "location": "Jessup, MD",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "TeleTracking",
+      "title": "Software Engineer 1 - Logistics Engineering",
+      "location": "Pittsburgh, PA",
+      "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Junior Frontend Developer",
+      "location": "Atlanta, GA",
+      "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "23d",
+      "days_ago": 23,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Fort Wayne, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599?utm_source=Simplify&ref=Simplify",
+      "date_posted": "20d",
+      "days_ago": 20,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "Leidos",
+      "title": "Software Engineer 1",
+      "location": "San Diego, CA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192469?utm_source=Simplify&ref=Simplify",
+      "date_posted": "17d",
+      "days_ago": 17,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757?utm_source=Simplify&ref=Simplify",
+      "date_posted": "13d",
+      "days_ago": 13,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Research Software Engineer 1",
+      "location": "Cambridge, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-10-04T18:57:09.661402",
+      "category": "software"
+    },
     {
       "company": "TD Bank",
       "title": "Software Engineer 1",
@@ -602,56 +752,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "Groundswell",
-      "title": "New Grad Position",
-      "location": "Remote - Virginia, USA +47",
-      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-09-23T19:23:00.186516",
-      "category": "software"
-    },
-    {
-      "company": "Groundswell",
-      "title": "New Grad Position",
-      "location": "Remote - Virginia, USA +47",
-      "url": "https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-09-23T19:23:00.186516",
-      "category": "software"
-    },
-    {
-      "company": "DecisionPoint",
-      "title": "Junior Software Developer",
-      "location": "Scott AFB, IL",
-      "url": "https://careers-decisionpointcorp.icims.com/jobs/3786/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-23T19:23:00.186516",
-      "category": "software"
-    },
-    {
-      "company": "Cisco",
-      "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
-      "location": "Austin, TX",
-      "url": "https://careers.cisco.com/global/en/job/2025313?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-23T19:23:00.186516",
-      "category": "software"
-    },
-    {
-      "company": "Authentic",
-      "title": "Software Engineer New Grad",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-23T19:23:00.186516",
       "category": "software"
     }
   ]
