@@ -99,16 +99,6 @@
       "days_ago": 0,
       "first_seen": "2026-09-25T19:44:58.338114",
       "category": "data"
-    },
-    {
-      "company": "IPT Global",
-      "title": "Junior Data Scientist - Petroleum Engineering & Well Integrity",
-      "location": "Houston, TX",
-      "url": "https://jobs.smartrecruiters.com/IPTGlobal/744000151598799?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -164,6 +154,56 @@
     }
   ],
   "software": [
+    {
+      "company": "\u21b3",
+      "title": "Software Engineering New Grad",
+      "location": "Cheadle, UK",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-05T22:17:16.473194",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer New Grad",
+      "location": "Glasgow, UK",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-05T22:17:16.473194",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineering New Grad",
+      "location": "Crawley, UK",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-05T22:17:16.473194",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineering New Grad",
+      "location": "Templecombe, UK",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-05T22:17:16.473194",
+      "category": "software"
+    },
+    {
+      "company": "Thales",
+      "title": "Software Engineer New Grad",
+      "location": "Belfast, UK",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-05T22:17:16.473194",
+      "category": "software"
+    },
     {
       "company": "General Dynamics UK",
       "title": "Junior Hardware Engineering Developer",
@@ -692,66 +732,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-25T19:44:58.338114",
-      "category": "software"
-    },
-    {
-      "company": "LexisNexis Risk Solutions",
-      "title": "Software Engineer New Grad",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "RELX",
-      "title": "Software Engineer New Grad",
-      "location": "Alpharetta, GA",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Tewksbury, MA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Software Engineer New Grad - Public Sector",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "Parallel Systems",
-      "title": "Full Stack Software Engineer 1 - Interfaces",
-      "location": "LA",
-      "url": "https://boards.greenhouse.io/parallel/jobs/5247800007?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-24T19:42:23.086641",
-      "category": "software"
-    },
-    {
-      "company": "CACI",
-      "title": "Software Engineer Early Career - Cloud",
-      "location": "Remote in USAHanover, MD",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-24T19:42:23.086641",
       "category": "software"
     }
   ]
