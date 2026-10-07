@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Medpace",
+      "title": "Junior Business Intelligence Analyst",
+      "location": "Cincinnati, OH",
+      "url": "https://careers.medpace.com/jobs/12986?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "data"
+    },
+    {
       "company": "Astera Labs",
       "title": "Data Analyst New Grad",
       "location": "San Jose, CA",
@@ -111,19 +121,119 @@
       "days_ago": 0,
       "first_seen": "2026-09-30T20:26:38.825037",
       "category": "ai_ml"
-    },
-    {
-      "company": "Quora",
-      "title": "Software Engineer New Grad - Machine Learning Platform",
-      "location": "Remote in USARemote in Canada",
-      "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-26T18:54:08.351322",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "AeroVironment",
+      "title": "Software Engineer 1 (Embedded)",
+      "location": "Moorpark, CA",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Embedded Software Engineer \u2013 Entry Level",
+      "location": "Bloomington, MN",
+      "url": "https://careers-gdms.icims.com/jobs/75056/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Engineer 1",
+      "location": "Houston, TX",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Dayton, OH",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 New Grad",
+      "location": "SFNYC",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 New Grad",
+      "location": "NYC",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Whoop",
+      "title": "Software Engineer 1 (Frontend) - AI Platform",
+      "location": "Boston, MA",
+      "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "D'Addario",
+      "title": "Junior Full Stack Engineer",
+      "location": "Farmingdale, NY",
+      "url": "https://careers-daddario.icims.com/jobs/2680/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Pure Storage",
+      "title": "Software Engineer New Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Software Engineer 1 to 3 - Digital Engineering",
+      "location": "Long Beach, CADenver, CO",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - Web Applications",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/20219?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-07T20:56:05.073911",
+      "category": "software"
+    },
     {
       "company": "Barrios",
       "title": "New Grad Position",
@@ -742,46 +852,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-29T20:22:45.498796",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Gen4 Airborne Radar",
-      "location": "El Segundo, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-26T18:54:08.351322",
-      "category": "software"
-    },
-    {
-      "company": "Abbott",
-      "title": "Software Engineer 1 - Multiple Teams",
-      "location": "La Jolla, San Diego, CA",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-26T18:54:08.351322",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "West Valley City, UT",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-09-26T18:54:08.351322",
-      "category": "software"
-    },
-    {
-      "company": "Varsity Brands",
-      "title": "Software Engineer 1 - .Net",
-      "location": "Memphis, TN",
-      "url": "https://careers.varsitybrands.com/global/en/job/JR114518?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-26T18:54:08.351322",
       "category": "software"
     }
   ]
