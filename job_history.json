@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Roche",
+      "title": "Graduate Health Data Analyst New Grad - Access and Innovation",
+      "location": "Burgess Hill, UK",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Burgess-Hill/Early-in-Career-Development-Programme---Access-and-Innovation-2027_202610-125033?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "data"
+    },
+    {
+      "company": "Circle Logistics",
+      "title": "Entry Level Data Engineer",
+      "location": "Fort Wayne, IN",
+      "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "data"
+    },
+    {
       "company": "Medpace",
       "title": "Junior Business Intelligence Analyst",
       "location": "Cincinnati, OH",
@@ -134,6 +154,56 @@
     }
   ],
   "software": [
+    {
+      "company": "Adyen",
+      "title": "Software Engineer 1 - Front End - Lifecycle Experience",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8153114?utm_source=Simplify&ref=Simplify",
+      "date_posted": "18d",
+      "days_ago": 18,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "software"
+    },
+    {
+      "company": "Becton Dickinson",
+      "title": "Software Engineer 1",
+      "location": "Sparks, MD",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "software"
+    },
+    {
+      "company": "GlobalFoundries",
+      "title": "Software Engineer New Grad",
+      "location": "Austin, TXSanta Clara, CA",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "software"
+    },
+    {
+      "company": "Shield AI",
+      "title": "Software Engineer 1 - Factory Team",
+      "location": "Washington, DC",
+      "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-10T19:39:56.422279",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Embedded Security Software Engineer 1",
@@ -1192,26 +1262,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-09-30T20:26:38.825037",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 SpaceX",
-      "title": "Software Engineer New Grad - Software - Starfall",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-29T20:22:45.498796",
-      "category": "software"
-    },
-    {
-      "company": "TripAdvisor",
-      "title": "Software Engineer 1",
-      "location": "Oxford, UK",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-09-29T20:22:45.498796",
       "category": "software"
     }
   ]
