@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Medpace",
+      "title": "Junior Business Intelligence Analyst",
+      "location": "Cincinnati, OH",
+      "url": "https://careers.medpace.com/jobs/13058?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "data"
+    },
+    {
       "company": "Cox",
       "title": "Data Engineer 1",
       "location": "Carmel, IN",
@@ -71,19 +81,119 @@
       "days_ago": 30,
       "first_seen": "2026-10-04T18:57:09.661402",
       "category": "ai_ml"
-    },
-    {
-      "company": "Peraton",
-      "title": "Artificial Intelligence/Machine Learning Engineer 1",
-      "location": "Laurel, MD",
-      "url": "https://careers-peraton.icims.com/jobs/171539/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-03T18:55:57.195925",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Sierra Space",
+      "title": "Software Engineer 1 - Flight Software",
+      "location": "Centennial, COLouisville, CO",
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "TaxRise",
+      "title": "Junior Software Developer",
+      "location": "Irvine, CA",
+      "url": "https://job-boards.greenhouse.io/taxrise/jobs/4434618009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "7d",
+      "days_ago": 7,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "KLA",
+      "title": "Software Engineer 1",
+      "location": "Ann Arbor, MI",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Associate Cloud Software Engineer 1",
+      "location": "Redondo Beach, CA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "SoC Software Engineer New Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 NVIDIA",
+      "title": "SoC Software Engineer New Grad",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "AeroVironment",
+      "title": "Junior Software Engineer",
+      "location": "Jessup, MD",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "Agilent Technologies",
+      "title": "Junior Full Stack R&D Software Developer",
+      "location": "Harwell, Didcot, UK",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Junior-Full-Stack-R-D-Software-Developer_4039765-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
+    {
+      "company": "Signet Jewelers",
+      "title": "Software Engineer 1",
+      "location": "Akron, OH",
+      "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-14T19:54:44.319703",
+      "category": "software"
+    },
     {
       "company": "Sopra Steria I2S",
       "title": "New Grad Position",
@@ -1022,56 +1132,6 @@
       "date_posted": "6d",
       "days_ago": 6,
       "first_seen": "2026-10-04T18:57:09.661402",
-      "category": "software"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Software Engineer 1",
-      "location": "Toronto, ON, Canada",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144?utm_source=Simplify&ref=Simplify",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-10-03T18:55:57.195925",
-      "category": "software"
-    },
-    {
-      "company": "Broadridge",
-      "title": "Junior Full Stack Software Engineer",
-      "location": "Newark, NJ",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-03T18:55:57.195925",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "SFNYC",
-      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-03T18:55:57.195925",
-      "category": "software"
-    },
-    {
-      "company": "Harvey",
-      "title": "Software Engineer New Grad",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-03T18:55:57.195925",
-      "category": "software"
-    },
-    {
-      "company": "Parasail",
-      "title": "Software Engineer New Grad - Forward Deploy",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-03T18:55:57.195925",
       "category": "software"
     }
   ]
