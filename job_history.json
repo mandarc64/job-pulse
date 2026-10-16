@@ -63,6 +63,16 @@
   ],
   "ai_ml": [
     {
+      "company": "Quora",
+      "title": "Machine Learning Engineer New Grad",
+      "location": "Remote in USARemote in Canada",
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "ai_ml"
+    },
+    {
       "company": "\ud83d\udd25 Roblox",
       "title": "Senior Machine Learning Engineer - PhD Early Career \ud83c\udf93",
       "location": "San Mateo, CA",
@@ -74,6 +84,76 @@
     }
   ],
   "software": [
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155525619--associate-manager-data-science-ai-m-w-d-?oga=true",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155758689-ai-backend-developer-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "McKinney, TX",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01882675?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "CoStar Group",
+      "title": "Software Engineer 1",
+      "location": "SF",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Fullstack - Search",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Fullstack - Search",
+      "location": "Remote in Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
+    {
+      "company": "Intuit",
+      "title": "Software Engineer 1",
+      "location": "5 locationsCharlotte, NCNYCMountain View, CAAtlanta, GASan Diego, CA",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-16T19:11:08.937260",
+      "category": "software"
+    },
     {
       "company": "\u21b3",
       "title": "Entry Level Software Engineer-Developer - Development",
@@ -1042,56 +1122,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineering New Grad",
-      "location": "Cheadle, UK",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-05T22:17:16.473194",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad",
-      "location": "Glasgow, UK",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-05T22:17:16.473194",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineering New Grad",
-      "location": "Crawley, UK",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-05T22:17:16.473194",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineering New Grad",
-      "location": "Templecombe, UK",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-05T22:17:16.473194",
-      "category": "software"
-    },
-    {
-      "company": "Thales",
-      "title": "Software Engineer New Grad",
-      "location": "Belfast, UK",
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-05T22:17:16.473194",
       "category": "software"
     }
   ]
