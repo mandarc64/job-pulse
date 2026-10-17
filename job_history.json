@@ -49,16 +49,6 @@
       "days_ago": 4,
       "first_seen": "2026-10-07T20:56:05.073911",
       "category": "data"
-    },
-    {
-      "company": "Astera Labs",
-      "title": "Data Analyst New Grad",
-      "location": "San Jose, CA",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -84,6 +74,56 @@
     }
   ],
   "software": [
+    {
+      "company": "Choice Hotels",
+      "title": "Software Engineer 1",
+      "location": "Scottsdale, AZ",
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-17T18:05:07.104639",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1",
+      "location": "Newport News, VA",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440976000/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-17T18:05:07.104639",
+      "category": "software"
+    },
+    {
+      "company": "Huntington Ingalls Industries",
+      "title": "Software Engineer 1",
+      "location": "Newport News, VA",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440925100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-17T18:05:07.104639",
+      "category": "software"
+    },
+    {
+      "company": "Planview",
+      "title": "Software Engineer 1",
+      "location": "United States",
+      "url": "https://careers.planview.com/jobs/5080?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-17T18:05:07.104639",
+      "category": "software"
+    },
+    {
+      "company": "Axon",
+      "title": "Software Engineer 1",
+      "location": "4 locationsBoston, MASeattle, WAScottsdale, AZAtlanta, GA",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7703668003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-17T18:05:07.104639",
+      "category": "software"
+    },
     {
       "company": "Sopra Steria I2S",
       "title": "New Grad Position",
@@ -972,156 +1012,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-07T20:56:05.073911",
-      "category": "software"
-    },
-    {
-      "company": "Barrios",
-      "title": "New Grad Position",
-      "location": "Houston, TX",
-      "url": "https://careers-barrios.icims.com/jobs/2904/data-analytics-developer-i/job",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Barrios",
-      "title": "New Grad Position",
-      "location": "Houston, TX",
-      "url": "https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Systems / Software Engineer 1 Graduate",
-      "location": "Roseville, CA",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984?utm_source=Simplify&ref=Simplify",
-      "date_posted": "15d",
-      "days_ago": 15,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Mach Industries",
-      "title": "Software Engineer New Grad",
-      "location": "Huntington Beach, CA",
-      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4390274009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "East Hartford, CT",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Engineer New Grad",
-      "location": "10 locationsAndover, MABloomington, MNSan Jose, CASpring, TXDurham, NCWestford, MAChippewa Falls, WIFort Collins, COSunnyvale, CARoseville, CA",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Test",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961?utm_source=Simplify&ref=Simplify",
-      "date_posted": "20d",
-      "days_ago": 20,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Graduate Systems/Software Engineer 1",
-      "location": "Bloomington, MN",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "ID.me",
-      "title": "Software Engineer 2 New Grad - Developer Portal",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Android Engineer 1",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Frontend - AI Platform",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Backend",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Whoop",
-      "title": "iOS Engineer 1",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/f9985943-da11-4cbd-9c44-d2f7e421f65e/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Mach Industries",
-      "title": "Software Engineer New Grad - Software",
-      "location": "Huntington Beach, CA",
-      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4401995009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
-      "category": "software"
-    },
-    {
-      "company": "Southern Star Central Gas Pipeline",
-      "title": "Software Engineer 1",
-      "location": "Owensboro, KY",
-      "url": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-06T20:43:08.925210",
       "category": "software"
     }
   ]
