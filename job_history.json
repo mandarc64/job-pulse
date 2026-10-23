@@ -29,16 +29,6 @@
       "days_ago": 0,
       "first_seen": "2026-10-14T19:54:44.319703",
       "category": "data"
-    },
-    {
-      "company": "Cox",
-      "title": "Data Engineer 1",
-      "location": "Carmel, IN",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-12T22:40:58.075326",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -64,6 +54,126 @@
     }
   ],
   "software": [
+    {
+      "company": "Stanley Black & Decker",
+      "title": "Software Engineer 1 - Motor Control",
+      "location": "Towson, MD",
+      "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-1--Software-Engineering---Motor-Control_REQ-1000052383?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Palantir",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "Zen3",
+      "title": "Software Engineer 1 - Software Development Engineer - Azure & C# Programming",
+      "location": "Redmond, WA",
+      "url": "https://jobs.smartrecruiters.com/Zen31/743999664760255?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "Harbor",
+      "title": "Junior Developer - Finance Systems",
+      "location": "Remote in UKRemote in Canada",
+      "url": "https://job-boards.greenhouse.io/harborglobal/jobs/5238900007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "24d",
+      "days_ago": 24,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "TripAdvisor",
+      "title": "Software Engineer 1",
+      "location": "4 locationsLondon, UKKrak\u00f3w, PolandOxford, UKLisbon, Portugal",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8239945?utm_source=Simplify&ref=Simplify",
+      "date_posted": "23d",
+      "days_ago": 23,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Backend Developer",
+      "location": "St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007?utm_source=Simplify&ref=Simplify",
+      "date_posted": "22d",
+      "days_ago": 22,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "CAE",
+      "title": "Junior Software Developer - System Integration Labs",
+      "location": "Mirabel, QC, Canada",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "16d",
+      "days_ago": 16,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "title": "Junior Full Stack Engineer - Associate Member of Technical Staff - Software Architecture Engineering and Cloud Computing Architecture",
+      "location": "Chantilly, VA",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Palantir",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Software Engineer 1",
+      "location": "Hanover, MD",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 - Python",
+      "location": "Minneapolis, MN",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
+    {
+      "company": "Shield AI",
+      "title": "Software Engineer 1 New Grad",
+      "location": "Seattle, WA",
+      "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-23T19:42:07.183664",
+      "category": "software"
+    },
     {
       "company": "GlobalFoundries",
       "title": "AI Software Engineer New Grad",
@@ -792,16 +902,6 @@
       "date_posted": "8d",
       "days_ago": 8,
       "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 NVIDIA",
-      "title": "Software Engineer New Grad - DL Kernel Libraries",
-      "location": "Santa Clara, CA",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-12T22:40:58.075326",
       "category": "software"
     }
   ]
