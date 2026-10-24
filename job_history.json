@@ -55,6 +55,46 @@
   ],
   "software": [
     {
+      "company": "Affirm",
+      "title": "Software Engineer New Grad - Instruments team",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "12d",
+      "days_ago": 12,
+      "first_seen": "2026-10-24T18:30:57.725554",
+      "category": "software"
+    },
+    {
+      "company": "Citi",
+      "title": "Software Developer New Grad - Application Development",
+      "location": "Jacksonville, FL",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-24T18:30:57.725554",
+      "category": "software"
+    },
+    {
+      "company": "Meijer",
+      "title": "Software Engineer 1, AI",
+      "location": "Grand Rapids, MI",
+      "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-24T18:30:57.725554",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Engineer 1 - Software Engineer - Test Engineering",
+      "location": "Burnsville, MN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-24T18:30:57.725554",
+      "category": "software"
+    },
+    {
       "company": "Stanley Black & Decker",
       "title": "Software Engineer 1 - Motor Control",
       "location": "Towson, MD",
@@ -822,86 +862,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-14T19:54:44.319703",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144259989-ai-consultant-genai-nlp-public-sector-m-w-d-?oga=true",
-      "date_posted": "55d",
-      "days_ago": 55,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151638340--associate-manager-data-science-ai-m-w-d-?oga=true",
-      "date_posted": "19d",
-      "days_ago": 19,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151827379-ai-platform-engineer-m-w-d-?oga=true",
-      "date_posted": "18d",
-      "days_ago": 18,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151397109-one-identity-manager-developer-iam-engineer-m-w-d-?oga=true",
-      "date_posted": "20d",
-      "days_ago": 20,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151643918-fullstack-developer-m-w-d-?oga=true",
-      "date_posted": "19d",
-      "days_ago": 19,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000151645679-pega-developer-w-m-d-?oga=true",
-      "date_posted": "19d",
-      "days_ago": 19,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153412975-cloud-native-scrum-master-public-sector-m-w-d-?oga=true",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-10-13T20:55:54.696818",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000153522919-software-entwickler-cloud-native-public-sector-m-w-d-?oga=true",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-10-13T20:55:54.696818",
       "category": "software"
     }
   ]
