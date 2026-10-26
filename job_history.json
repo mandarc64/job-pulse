@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Booz Allen",
+      "title": "Junior Data Scientist",
+      "location": "Washington, DC",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist--Junior_R0252270?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-26T20:49:30.177067",
+      "category": "data"
+    },
+    {
       "company": "Ekimetrics",
       "title": "Junior Data Scientist & Marketing Effectiveness",
       "location": "London, UK",
@@ -44,6 +54,36 @@
     }
   ],
   "software": [
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Indianapolis, IN",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-26T20:49:30.177067",
+      "category": "software"
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer New Grad",
+      "location": "London, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-26T20:49:30.177067",
+      "category": "software"
+    },
+    {
+      "company": "RELX",
+      "title": "Software Engineer New Grad",
+      "location": "London, UK",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-26T20:49:30.177067",
+      "category": "software"
+    },
     {
       "company": "Affirm",
       "title": "Software Engineer New Grad - Instruments team",
@@ -632,116 +672,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer-Developer - Development",
-      "location": "Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer-Developer - Development",
-      "location": "Tinker Air Force Base, Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Entry Level Software Engineer-Developer - Development",
-      "location": "Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "Boeing",
-      "title": "Entry Level Software Engineer-Developer - Development",
-      "location": "Tinker Air Force Base, Oklahoma City, OK",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Tucson, AZ",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Next Gen Systems",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "Pacific Northwest National Laboratory",
-      "title": "Early Career Software Engineer",
-      "location": "Richland, WA",
-      "url": "https://careers.pnnl.gov/jobs/12427?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "Cvent",
-      "title": "Software Engineer 1",
-      "location": "Tysons, VA",
-      "url": "https://careers.cvent.com/jobs/8265?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "SirenOpt",
-      "title": "Software Engineer - Early Career - C++ & Systems",
-      "location": "San Leandro, CA",
-      "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "Capgemini",
-      "title": "Software Engineer New Grad",
-      "location": "Telford, UKHove, Brighton and Hove, UK",
-      "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-15T19:36:55.201007",
-      "category": "software"
-    },
-    {
-      "company": "Arcfield",
-      "title": "Software Engineer 1",
-      "location": "Rome, NY",
-      "url": "https://careers.arcfield.com/jobs/8780?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-15T19:36:55.201007",
       "category": "software"
     }
   ]
