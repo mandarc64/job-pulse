@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "AIG",
+      "title": "Junior Data Analyst - Fraud and Recovery",
+      "location": "London, UKCroydon, UK",
+      "url": "https://aig.wd1.myworkdayjobs.com/aig/job/London/Junior-Data-Analyst--Fraud-and-Recovery-_JR2604029-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "6d",
+      "days_ago": 6,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "data"
+    },
+    {
       "company": "Booz Allen",
       "title": "Junior Data Scientist",
       "location": "Washington, DC",
@@ -41,19 +51,119 @@
       "days_ago": 0,
       "first_seen": "2026-10-21T19:51:32.718547",
       "category": "ai_ml"
-    },
-    {
-      "company": "Quora",
-      "title": "Machine Learning Engineer New Grad",
-      "location": "Remote in USARemote in Canada",
-      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "ai_ml"
     }
   ],
   "software": [
+    {
+      "company": "Ciena",
+      "title": "Software Engineer New Grad - Security",
+      "location": "Atlanta, GA",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Engineer 1 - Software Engineer - Test Engineering",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "Swarm Aero",
+      "title": "Software Engineer Early Career - Real-Time Systems",
+      "location": "SF",
+      "url": "https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "28d",
+      "days_ago": 28,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "Amentum",
+      "title": "Entry Level Software Engineer",
+      "location": "Dahlgren, VA",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "Everfox",
+      "title": "Software Engineer 1",
+      "location": "Richardson, TX",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 New Grad",
+      "location": "Tampa, FLTallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "HNTB",
+      "title": "Software Engineer 1 New Grad",
+      "location": "Tampa, FLTallahassee, FL",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "Planview",
+      "title": "Software Engineer 1",
+      "location": "Vancouver, BC, Canada",
+      "url": "https://careers.planview.com/jobs/5182?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "location": "Chicago, IL",
+      "url": "https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
+    {
+      "company": "CrossCountry Consulting",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "location": "Chicago, IL",
+      "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-27T20:21:29.485569",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1",
@@ -602,76 +712,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-17T18:05:07.104639",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155525619--associate-manager-data-science-ai-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000155758689-ai-backend-developer-m-w-d-?oga=true",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "McKinney, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01882675?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Software Engineer 1",
-      "location": "SF",
-      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1 - Fullstack - Search",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer 1 - Fullstack - Search",
-      "location": "Remote in Canada",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-16T19:11:08.937260",
-      "category": "software"
-    },
-    {
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "location": "5 locationsCharlotte, NCNYCMountain View, CAAtlanta, GASan Diego, CA",
-      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-16T19:11:08.937260",
       "category": "software"
     }
   ]
