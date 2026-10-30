@@ -189,16 +189,6 @@
       "days_ago": 0,
       "first_seen": "2026-10-21T19:51:32.718547",
       "category": "data"
-    },
-    {
-      "company": "OSF HealthCare",
-      "title": "Data Engineer 1",
-      "location": "Peoria, IL",
-      "url": "https://www.osfcareers.org/jobs/112750?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-19T20:49:14.276913",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -214,6 +204,76 @@
     }
   ],
   "software": [
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158566689-cloud-architect-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158566241-graduate-program-cloud-computing?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "Ciena",
+      "title": "Photonic Card Software Developer New Grad",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2mo",
+      "days_ago": 60,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "TSC",
+      "title": "Junior Software Engineer",
+      "location": "Arlington County, Arlington, VA",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "TSC",
+      "title": "Software Engineer 1",
+      "location": "Huntsville, AL",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-30T20:17:36.405954",
+      "category": "software"
+    },
     {
       "company": "Sopra Steria I2S",
       "title": "New Grad Position",
@@ -1162,36 +1222,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1 - Aircraft Interiors",
-      "location": "Jamestown, NDWinston-Salem, NC",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-19T20:49:14.276913",
-      "category": "software"
-    },
-    {
-      "company": "VTG",
-      "title": "Junior Software Engineer",
-      "location": "Hanover, MD",
-      "url": "https://careers.vtgdefense.com/jobs/9669?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-19T20:49:14.276913",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440992800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-19T20:49:14.276913",
       "category": "software"
     }
   ]
