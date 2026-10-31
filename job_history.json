@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "iSAM",
+      "title": "Quantitative Research New Grad - PhD Graduate \ud83c\udf93",
+      "location": "London, UK",
+      "url": "https://job-boards.eu.greenhouse.io/isam/jobs/4940752101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3mo",
+      "days_ago": 90,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "data"
+    },
+    {
       "company": "\u21b3",
       "title": "Junior Quantitative Developer & Strategist",
       "location": "Chicago, IL",
@@ -204,6 +214,86 @@
     }
   ],
   "software": [
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158756490-developer-sap-integration-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158752331-developer-sap-cml-cms-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "SuperApp",
+      "title": "Software Engineer - Early Careers",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer New Grad",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "Mitel Networks",
+      "title": "Junior Full Stack Web Developer",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "TSC",
+      "title": "Software Engineer 1",
+      "location": "Silver Spring, MD",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "\ud83d\udd25 Roblox",
+      "title": "Senior Software Engineer \u2013 Data Acquisition PhD Early Career \ud83c\udf93",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
+    {
+      "company": "Built Technologies",
+      "title": "Innovation Software Engineer 1 - Marketplace",
+      "location": "Nashville, TN",
+      "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-10-31T19:39:22.206536",
+      "category": "software"
+    },
     {
       "company": "Sopra Steria I2S",
       "title": "New Grad Position",
@@ -1082,146 +1172,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-21T19:51:32.718547",
-      "category": "software"
-    },
-    {
-      "company": "Rocket Lab Corporation",
-      "title": "Flight Software Engineer 1",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "iSoftStone",
-      "title": "Junior Full Stack Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Software Engineer New Grad",
-      "location": "Santa Clara, CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "KLA",
-      "title": "Software Engineer 1",
-      "location": "NYC",
-      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "KLA Corporation",
-      "title": "Software Engineer 1",
-      "location": "NYC",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882223?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882229?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882227?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Cybersecurity Software Engineer New Grad - Cyber Concepts",
-      "location": "Laurel, MD",
-      "url": "https://careers.jhuapl.edu/jobs/60116?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "Bloom & Wild Group",
-      "title": "Junior Full Stack Engineer",
-      "location": "London, UKNetherlands",
-      "url": "https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "Electronic Arts",
-      "title": "Software Engineer 1",
-      "location": "Orlando, FL",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer New Grad - Query Engines",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Palantir",
-      "title": "Software Engineer New Grad - Query Engines",
-      "location": "London, UK",
-      "url": "https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
-      "category": "software"
-    },
-    {
-      "company": "Graphcore",
-      "title": "Graduate Software Engineer New Grad - AI Compute Libraries & Performance",
-      "location": "Bristol, UK",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894177002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-20T19:46:43.733985",
       "category": "software"
     }
   ]
