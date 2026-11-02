@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "THG Ingenuity",
+      "title": "Graduate / Junior Data Scientist",
+      "location": "Manchester, UK",
+      "url": "https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-11-02T23:16:03.298027",
+      "category": "data"
+    },
+    {
+      "company": "Element Solutions",
+      "title": "Junior Data Engineer",
+      "location": "Remote in USA",
+      "url": "https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-02T23:16:03.298027",
+      "category": "data"
+    },
+    {
       "company": "iSAM",
       "title": "Quantitative Research New Grad - PhD Graduate \ud83c\udf93",
       "location": "London, UK",
@@ -193,6 +213,16 @@
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Ocado Group",
+      "title": "Software Engineer New Grad",
+      "location": "Hatfield, UK",
+      "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-02T23:16:03.298027",
+      "category": "software"
+    },
     {
       "company": "Huntington Ingalls Industries",
       "title": "Software Engineer 1",
@@ -1021,76 +1051,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-23T19:42:07.183664",
-      "category": "software"
-    },
-    {
-      "company": "GlobalFoundries",
-      "title": "AI Software Engineer New Grad",
-      "location": "Santa Clara, CARichardson, TX",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "Affirm",
-      "title": "Analyst \u2013 Early Career - Full Stack",
-      "location": "SFRemote in USANYC",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "Etsy",
-      "title": "Software Engineer 1 - Marketplace Makers",
-      "location": "Brooklyn, NY",
-      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "NCR Voyix",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fulton, MD",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "Twitch",
-      "title": "Software Engineer 1",
-      "location": "Seattle, WA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-22T19:40:12.346330",
-      "category": "software"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Software Engineer New Grad - Applications, Analysis, And Services Group",
-      "location": "Laurel, MD",
-      "url": "https://careers.jhuapl.edu/jobs/60586?icims=1&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-22T19:40:12.346330",
       "category": "software"
     }
   ]
