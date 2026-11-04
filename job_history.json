@@ -214,6 +214,56 @@
   "ai_ml": [],
   "software": [
     {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Embedded",
+      "location": "Goleta, CA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-l---Embedded--Onsite_01886765?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-04T21:39:38.414197",
+      "category": "software"
+    },
+    {
+      "company": "Shield AI",
+      "title": "Software Engineer 1 New Grad - Software - Factory Team",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "23d",
+      "days_ago": 23,
+      "first_seen": "2026-11-04T21:39:38.414197",
+      "category": "software"
+    },
+    {
+      "company": "LexisNexis Risk Solutions",
+      "title": "Software Engineer 1 New Grad - Software Engineer I",
+      "location": "Alpharetta, GA",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-04T21:39:38.414197",
+      "category": "software"
+    },
+    {
+      "company": "RELX",
+      "title": "Software Engineer 1 New Grad - Software Engineer I",
+      "location": "Alpharetta, GA",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-04T21:39:38.414197",
+      "category": "software"
+    },
+    {
+      "company": "Rocket Lab Corporation",
+      "title": "AI Software Engineer 1",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-04T21:39:38.414197",
+      "category": "software"
+    },
+    {
       "company": "Ocado Group",
       "title": "Software Engineer New Grad",
       "location": "Hatfield, UK",
@@ -891,46 +941,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-26T20:49:30.177067",
-      "category": "software"
-    },
-    {
-      "company": "Affirm",
-      "title": "Software Engineer New Grad - Instruments team",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003?utm_source=Simplify&ref=Simplify",
-      "date_posted": "12d",
-      "days_ago": 12,
-      "first_seen": "2026-10-24T18:30:57.725554",
-      "category": "software"
-    },
-    {
-      "company": "Citi",
-      "title": "Software Developer New Grad - Application Development",
-      "location": "Jacksonville, FL",
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-24T18:30:57.725554",
-      "category": "software"
-    },
-    {
-      "company": "Meijer",
-      "title": "Software Engineer 1, AI",
-      "location": "Grand Rapids, MI",
-      "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-24T18:30:57.725554",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Engineer 1 - Software Engineer - Test Engineering",
-      "location": "Burnsville, MN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-24T18:30:57.725554",
       "category": "software"
     }
   ]
