@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Publicis Groupe",
+      "title": "Junior Data Analyst - Social Data & Automation",
+      "location": "London, UK",
+      "url": "https://careers.publicisgroupe.com/jobs/179413?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "data"
+    },
+    {
       "company": "THG Ingenuity",
       "title": "Graduate / Junior Data Scientist",
       "location": "Manchester, UK",
@@ -213,6 +223,186 @@
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159678149-ai-architect-public-sector-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159628379-ai-platform-engineer-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159625179-pega-developer-w-m-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Sopra Steria I2S",
+      "title": "New Grad Position",
+      "location": "Bundesweit, DE",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159676269-software-architect-java-m-w-d-?oga=true",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Draper",
+      "title": "Software Engineer 1",
+      "location": "Cambridge, MA",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "TSC",
+      "title": "Software Engineer 1",
+      "location": "Plymouth, MA",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Imbue",
+      "title": "Software Engineer New Grad",
+      "location": "SF",
+      "url": "https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Wonderbrands",
+      "title": "Fullstack Software Developer New Grad",
+      "location": "Etobicoke, ON, Canada",
+      "url": "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "17d",
+      "days_ago": 17,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Panasonic Holdings",
+      "title": "Software Engineer 1",
+      "location": "Irvine, CA",
+      "url": "https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "date_posted": "17d",
+      "days_ago": 17,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Entry Level Software Engineer",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/75608/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "16d",
+      "days_ago": 16,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "EBSCO",
+      "title": "Software Developer Engineer 1",
+      "location": "Birmingham, AL",
+      "url": "https://careers-ebscoind.icims.com/jobs/2112/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "15d",
+      "days_ago": 15,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1 - C++ MEC Maptech",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/20439?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "15d",
+      "days_ago": 15,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Bcore",
+      "title": "Junior Software Developer",
+      "location": "Chantilly, VAVienna, VA",
+      "url": "https://careers-bcore.icims.com/jobs/3253/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Entry Level",
+      "location": "Manassas, VA",
+      "url": "https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "10d",
+      "days_ago": 10,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Pacific Northwest National Laboratory",
+      "title": "Early Career Software Engineer",
+      "location": "Richland, WA",
+      "url": "https://careers.pnnl.gov/jobs/12900?icims=1&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "CACI",
+      "title": "Junior Software Developer",
+      "location": "Remote in USA",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Choice Hotels",
+      "title": "Software Engineer 1 - Finance Technology",
+      "location": "Scottsdale, AZ",
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
+    {
+      "company": "Everwatch",
+      "title": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-05T21:43:30.454732",
+      "category": "software"
+    },
     {
       "company": "RTX",
       "title": "Software Engineer 1 - Embedded",
