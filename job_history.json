@@ -55,6 +55,46 @@
   ],
   "software": [
     {
+      "company": "Ande",
+      "title": "Software Engineer \u2013 Early Career - AI",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-11-10T21:36:08.609453",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-10T21:36:08.609453",
+      "category": "software"
+    },
+    {
+      "company": "Anysphere",
+      "title": "Software Engineer New Grad",
+      "location": "Palo Alto, CASFNYC",
+      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-10T21:36:08.609453",
+      "category": "software"
+    },
+    {
+      "company": "Fidelity National Information Services",
+      "title": "Mainframe Software Engineer 1",
+      "location": "Columbus, GA",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-10T21:36:08.609453",
+      "category": "software"
+    },
+    {
       "company": "L3Harris Technologies",
       "title": "Software Engineer 1",
       "location": "Salt Lake City, UTCarlsbad, CA",
@@ -502,76 +542,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-10-31T19:39:22.206536",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158566689-cloud-architect-m-w-d-?oga=true",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158566241-graduate-program-cloud-computing?oga=true",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158562559-cloud-engineer-m-w-d-?oga=true",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "Ciena",
-      "title": "Photonic Card Software Developer New Grad",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2mo",
-      "days_ago": 60,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "TSC",
-      "title": "Junior Software Engineer",
-      "location": "Arlington County, Arlington, VA",
-      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "TSC",
-      "title": "Software Engineer 1",
-      "location": "Huntsville, AL",
-      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-10-30T20:17:36.405954",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "San Jose, CA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-10-30T20:17:36.405954",
       "category": "software"
     }
   ]
