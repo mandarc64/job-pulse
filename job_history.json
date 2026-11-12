@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "Tidal Wave Auto Spa",
+      "title": "Junior Data Analyst",
+      "location": "Birmingham, ALPeachtree Corners, GAThomaston, GA",
+      "url": "https://tidalwaveautospa.wd1.myworkdayjobs.com/TWAS/job/Thomaston-GA/Junior-Data-Analyst_R11470?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "data"
+    },
+    {
       "company": "Amentum",
       "title": "Junior Data Engineer",
       "location": "Springfield, VA",
@@ -64,6 +74,66 @@
     }
   ],
   "software": [
+    {
+      "company": "Ciena",
+      "title": "Embedded Software Engineer New Grad",
+      "location": "Ottawa, ON, Canada",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Associate Software Engineer 1 - CDS / Engine System Software",
+      "location": "East Hartford, CT",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
+    {
+      "company": "Varsity Brands",
+      "title": "Software Engineer 1",
+      "location": "Farmers Branch, TX",
+      "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1mo",
+      "days_ago": 30,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Cedar Rapids, IA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Lone Tree, CO",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Mission Modeling, Simulation & Software Engineer New Grad",
+      "location": "Laurel, MD",
+      "url": "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-12T21:59:28.088582",
+      "category": "software"
+    },
     {
       "company": "Shield AI",
       "title": "Autonomous Software Engineer New Grad",
@@ -582,16 +652,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-11-02T23:16:03.298027",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-01T20:02:37.598474",
       "category": "software"
     }
   ]
