@@ -29,26 +29,6 @@
       "days_ago": 1,
       "first_seen": "2026-11-05T21:43:30.454732",
       "category": "data"
-    },
-    {
-      "company": "THG Ingenuity",
-      "title": "Graduate / Junior Data Scientist",
-      "location": "Manchester, UK",
-      "url": "https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-11-02T23:16:03.298027",
-      "category": "data"
-    },
-    {
-      "company": "Element Solutions",
-      "title": "Junior Data Engineer",
-      "location": "Remote in USA",
-      "url": "https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-02T23:16:03.298027",
-      "category": "data"
     }
   ],
   "ai_ml": [
@@ -74,6 +54,126 @@
     }
   ],
   "software": [
+    {
+      "company": "\ud83d\udd25 SpaceX",
+      "title": "Aerospace Software Engineer New Grad - Aerospace Software",
+      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Thoughtworks",
+      "title": "Software Developer New Grad",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235?utm_source=Simplify&ref=Simplify",
+      "date_posted": "15d",
+      "days_ago": 15,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Booz Allen",
+      "title": "Junior C++ Software Engineer",
+      "location": "Beavercreek, OH",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "title": "Platform Services Software Engineer Entry Level",
+      "location": "Scottsdale, AZ",
+      "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Systems/Software Engineer 1",
+      "location": "Sunnyvale, CA",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Engineer 1",
+      "location": "Sunnyvale, CA",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1",
+      "location": "Marlborough, MA",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Space",
+      "title": "Software Engineer 1 - DevOps - DevSecOps",
+      "location": "Centennial, COLouisville, CO",
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Backend - Continuous Delivery",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend - Continuous Delivery",
+      "location": "Remote in Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 New Grad",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
+    {
+      "company": "Shield AI",
+      "title": "Software Engineer 1 New Grad",
+      "location": "Washington, DC",
+      "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-13T21:45:12.721264",
+      "category": "software"
+    },
     {
       "company": "Ciena",
       "title": "Embedded Software Engineer New Grad",
@@ -642,16 +742,6 @@
       "date_posted": "1d",
       "days_ago": 1,
       "first_seen": "2026-11-04T21:39:38.414197",
-      "category": "software"
-    },
-    {
-      "company": "Ocado Group",
-      "title": "Software Engineer New Grad",
-      "location": "Hatfield, UK",
-      "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-02T23:16:03.298027",
       "category": "software"
     }
   ]
