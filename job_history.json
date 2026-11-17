@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "company": "\ud83d\udd25 Roblox",
+      "title": "Data Scientist \u2013 PhD Early Career - Safety \ud83c\udf93",
+      "location": "San Mateo, CA",
+      "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-17T23:16:23.087673",
+      "category": "data"
+    },
+    {
       "company": "ICF International",
       "title": "Junior Data Scientist",
       "location": "Remote in USA",
@@ -54,6 +64,26 @@
     }
   ],
   "software": [
+    {
+      "company": "Laborie Medical Technologies",
+      "title": "Software Engineer 1",
+      "location": "Portsmouth, NH",
+      "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-17T23:16:23.087673",
+      "category": "software"
+    },
+    {
+      "company": "Kraun Electric",
+      "title": "Junior Software Developer",
+      "location": "St. Catharines, ON, Canada",
+      "url": "https://kraunelectric.bamboohr.com/careers/98/?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-17T23:16:23.087673",
+      "category": "software"
+    },
     {
       "company": "Johnson Controls",
       "title": "Nextgen Software Engineer New Grad",
@@ -602,26 +632,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-11-07T19:46:26.735155",
-      "category": "software"
-    },
-    {
-      "company": "StubHub",
-      "title": "Software Engineer New Grad - Consumer Experience",
-      "location": "NYC",
-      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-06T21:11:23.723657",
-      "category": "software"
-    },
-    {
-      "company": "Huntington Ingalls Industries",
-      "title": "Software Engineer 1",
-      "location": "Newport News, VA",
-      "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-06T21:11:23.723657",
       "category": "software"
     }
   ]
