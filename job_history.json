@@ -51,16 +51,6 @@
       "days_ago": 30,
       "first_seen": "2026-11-11T22:24:54.750002",
       "category": "ai_ml"
-    },
-    {
-      "company": "Netholabs",
-      "title": "Junior AI/ML Engineer",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-09T23:55:32.197434",
-      "category": "ai_ml"
     }
   ],
   "software": [
@@ -532,56 +522,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-11-10T21:36:08.609453",
-      "category": "software"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "title": "Software Engineer 1",
-      "location": "Salt Lake City, UTCarlsbad, CA",
-      "url": "https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-11-09T23:55:32.197434",
-      "category": "software"
-    },
-    {
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-09T23:55:32.197434",
-      "category": "software"
-    },
-    {
-      "company": "Mercury Insurance",
-      "title": "Software Engineer 1",
-      "location": "Remote in USA",
-      "url": "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-09T23:55:32.197434",
-      "category": "software"
-    },
-    {
-      "company": "Whoop",
-      "title": "Software Engineer 1 - Backend - Growth",
-      "location": "Boston, MA",
-      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-09T23:55:32.197434",
-      "category": "software"
-    },
-    {
-      "company": "Sur La Table",
-      "title": "Junior Software Engineer",
-      "location": "Toronto, ON, CanadaRemote in USA",
-      "url": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-09T23:55:32.197434",
       "category": "software"
     }
   ]
