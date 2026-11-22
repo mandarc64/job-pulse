@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "company": "Specialized",
+      "title": "Early Career Data Engineer",
+      "location": "Morgan Hill, CA",
+      "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117?utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "data"
+    },
+    {
+      "company": "Daikin Comfort",
+      "title": "Data Engineer 1",
+      "location": "Waller, TX",
+      "url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=0ed8d9f2-0ee7-4ce3-b41e-34a935f42532&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "data"
+    },
+    {
       "company": "\ud83d\udd25 Roblox",
       "title": "Data Scientist \u2013 PhD Early Career - Safety \ud83c\udf93",
       "location": "San Mateo, CA",
@@ -29,31 +49,190 @@
       "days_ago": 2,
       "first_seen": "2026-11-12T21:59:28.088582",
       "category": "data"
+    }
+  ],
+  "ai_ml": [],
+  "software": [
+    {
+      "company": "Garmin",
+      "title": "Test Software Engineer 1 - Aviation",
+      "location": "Olathe, KS",
+      "url": "https://careers.garmin.com/jobs/20379?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
     },
     {
-      "company": "Amentum",
-      "title": "Junior Data Engineer",
-      "location": "Springfield, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096?utm_source=Simplify&ref=Simplify",
+      "company": "ViaSat",
+      "title": "Associate Software Engineer \u2013 Early Career",
+      "location": "Carlsbad, CA",
+      "url": "https://careers.viasat.com/jobs/7077?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "date_posted": "3d",
+      "days_ago": 3,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Omnimed",
+      "title": "ML Developer - Junior or Intermediate",
+      "location": "Cookshire-Eaton, QC, Canada",
+      "url": "https://omnimed.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Further",
+      "title": "Analytics Developer New Grad",
+      "location": "Cleveland, OH",
+      "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002?utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Kira Learning",
+      "title": "Software Engineer Entry Level",
+      "location": "SFNYC",
+      "url": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer 1",
+      "location": "Lone Tree, CO",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418?utm_source=Simplify&ref=Simplify",
+      "date_posted": "4d",
+      "days_ago": 4,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Keplar",
+      "title": "Software Engineer New Grad",
+      "location": "Toronto, ON, CanadaWaterloo, ON, Canada",
+      "url": "https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "2d",
+      "days_ago": 2,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1",
+      "location": "Salem, OR",
+      "url": "https://careers.garmin.com/jobs/21486?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
       "date_posted": "1d",
       "days_ago": 1,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "data"
-    }
-  ],
-  "ai_ml": [
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
     {
-      "company": "Handshake",
-      "title": "Machine Learning Engineer 1",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "ai_ml"
-    }
-  ],
-  "software": [
+      "company": "Applied Research Associates",
+      "title": "Junior Software Developer",
+      "location": "Albuquerque, NM",
+      "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Wellabe",
+      "title": "Software Engineer 1/2/3",
+      "location": "Des Moines, IA",
+      "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Phoenix Defense",
+      "title": "Software Engineer 1",
+      "location": "United States",
+      "url": "https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Fullstack - Disputes Platform",
+      "location": "Remote in Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "TransCore",
+      "title": "Software Engineer 1 - SQL Development",
+      "location": "Nashville, TN",
+      "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Secureframe",
+      "title": "Software Engineer New Grad",
+      "location": "NYC",
+      "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Acuity Insurance",
+      "title": "Software Engineer 1",
+      "location": "Wisconsin",
+      "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=2621ceb4-172b-4f80-b042-b76aab90a2df&utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "\u21b3",
+      "title": "Software Engineer 1 - Backend - Streaming Infra",
+      "location": "Remote in USA",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Affirm",
+      "title": "Software Engineer 1 - Backend - Streaming Infra",
+      "location": "Remote in Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
+    {
+      "company": "Gradient MSP",
+      "title": "Junior Full Stack Developer",
+      "location": "Remote in Canada",
+      "url": "https://gradientmsp.bamboohr.com/careers/72/?utm_source=Simplify&ref=Simplify",
+      "date_posted": "1d",
+      "days_ago": 1,
+      "first_seen": "2026-11-22T21:26:19.923197",
+      "category": "software"
+    },
     {
       "company": "Laborie Medical Technologies",
       "title": "Software Engineer 1",
@@ -362,126 +541,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-11-12T21:59:28.088582",
-      "category": "software"
-    },
-    {
-      "company": "Shield AI",
-      "title": "Autonomous Software Engineer New Grad",
-      "location": "San Diego, CA",
-      "url": "https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "8d",
-      "days_ago": 8,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "St. Petersburg, FL",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineer 1",
-      "location": "Cedar Rapids, IA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Fort Wayne, IN",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad - Internal Tools",
-      "location": "Seattle, WA",
-      "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "4d",
-      "days_ago": 4,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "Shield AI",
-      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "date_posted": "3d",
-      "days_ago": 3,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "Amentum",
-      "title": "Junior Software Developer",
-      "location": "Dahlgren, VA",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "Cox Automotive",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Richardson, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer 1",
-      "location": "Richardson, TX",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "\u21b3",
-      "title": "Software Engineering AMTS New Grad",
-      "location": "7 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXNYCBellevue, WA",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-11T22:24:54.750002",
-      "category": "software"
-    },
-    {
-      "company": "\ud83d\udd25 Salesforce",
-      "title": "Software Engineer New Grad",
-      "location": "7 locationsPalo Alto, CASeattle, WAIndianapolis, INSFDallas, TXNYCBellevue, WA",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-11T22:24:54.750002",
       "category": "software"
     }
   ]
