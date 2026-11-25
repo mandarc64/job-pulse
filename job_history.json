@@ -29,20 +29,40 @@
       "days_ago": 0,
       "first_seen": "2026-11-17T23:16:23.087673",
       "category": "data"
-    },
-    {
-      "company": "ICF International",
-      "title": "Junior Data Scientist",
-      "location": "Remote in USA",
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1mo",
-      "days_ago": 30,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "data"
     }
   ],
   "ai_ml": [],
   "software": [
+    {
+      "company": "Datalab USA",
+      "title": "Production Programmer \u2013 Entry Level SQL Developer",
+      "location": "Germantown, MD",
+      "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply?utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-25T00:16:19.290847",
+      "category": "software"
+    },
+    {
+      "company": "DMC Engineering",
+      "title": "Entry Level Software Engineer",
+      "location": "Seattle, WAChicago, IL",
+      "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008?utm_source=Simplify&ref=Simplify",
+      "date_posted": "12d",
+      "days_ago": 12,
+      "first_seen": "2026-11-25T00:16:19.290847",
+      "category": "software"
+    },
+    {
+      "company": "Garmin",
+      "title": "Software Engineer 1",
+      "location": "Chandler, AZ",
+      "url": "https://careers.garmin.com/jobs/19953?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-25T00:16:19.290847",
+      "category": "software"
+    },
     {
       "company": "Shield AI",
       "title": "Software Engineer 1 - Hardware Test",
@@ -271,106 +291,6 @@
       "date_posted": "2d",
       "days_ago": 2,
       "first_seen": "2026-11-15T20:42:14.985620",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161271944-ai-platform-engineer-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161260854-ai-architect-public-sector-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161261144-ai-consultant-genai-nlp-public-sector-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161275235-ai-requirements-engineer-public-sector-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161264409-software-architect-java-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sopra Steria I2S",
-      "title": "New Grad Position",
-      "location": "Bundesweit, DE",
-      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000161273864-ai-backend-developer-m-w-d-?oga=true",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "edmentum",
-      "title": "Software Engineer 1",
-      "location": "Bloomington, MN",
-      "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer 1",
-      "location": "Lone Tree, CO",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Cambridge Mobile Telematics",
-      "title": "Software Engineer 1, Cloud",
-      "location": "Cambridge, MA",
-      "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978?utm_source=Simplify&ref=Simplify",
-      "date_posted": "1d",
-      "days_ago": 1,
-      "first_seen": "2026-11-14T20:16:53.164511",
-      "category": "software"
-    },
-    {
-      "company": "Intuit",
-      "title": "Graduate Software Engineer 1",
-      "location": "London, UK",
-      "url": "https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616?utm_source=Simplify&ref=Simplify",
-      "date_posted": "0d",
-      "days_ago": 0,
-      "first_seen": "2026-11-14T20:16:53.164511",
       "category": "software"
     }
   ]
