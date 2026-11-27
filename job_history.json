@@ -31,8 +31,29 @@
       "category": "data"
     }
   ],
-  "ai_ml": [],
+  "ai_ml": [
+    {
+      "company": "Scout AI",
+      "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-27T00:13:54.442741",
+      "category": "ai_ml"
+    }
+  ],
   "software": [
+    {
+      "company": "Scout AI",
+      "title": "Software Engineer New Grad - Core Systems",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "date_posted": "0d",
+      "days_ago": 0,
+      "first_seen": "2026-11-27T00:13:54.442741",
+      "category": "software"
+    },
     {
       "company": "Parallel Web Systems",
       "title": "Early Career Software Engineer - Developer Experience",
@@ -291,16 +312,6 @@
       "date_posted": "0d",
       "days_ago": 0,
       "first_seen": "2026-11-17T23:16:23.087673",
-      "category": "software"
-    },
-    {
-      "company": "Johnson Controls",
-      "title": "Nextgen Software Engineer New Grad",
-      "location": "Milwaukee, WIWestford, MAGlendale, WI",
-      "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2?utm_source=Simplify&ref=Simplify",
-      "date_posted": "2d",
-      "days_ago": 2,
-      "first_seen": "2026-11-15T20:42:14.985620",
       "category": "software"
     }
   ]
